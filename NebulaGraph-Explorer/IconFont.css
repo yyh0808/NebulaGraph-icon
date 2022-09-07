@@ -1,0 +1,180 @@
+@font-face {
+    font-family: "Iconfont";
+    src: url('IconFont.woff2?t=1662519863151') format('woff2'),
+        url('IconFont.woff?t=1662519863151') format('woff'),
+        url('IconFont.ttf?t=1662519863151') format('truetype');
+}
+
+.iconfont {
+    font-family: "Iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-rightclickmenu-expand:before { content: "\e900"; }
+.icon-icon-rightclickmenu-commonNeighbor:before { content: "\e901"; }
+.icon-icon-rightclickmenu-findPath:before { content: "\e902"; }
+.icon-icon-rightclickmenu-Duplicate:before { content: "\e903"; }
+.icon-icon-rightclickmenu-Fit_to_selection:before { content: "\e904"; }
+.icon-icon-rightclickmenu-Invert_selection:before { content: "\e905"; }
+.icon-icon-rightclickmenu-Inspect_property:before { content: "\e906"; }
+.icon-icon-rightclickmenu-graphCalculation:before { content: "\e907"; }
+.icon-icon-topbar-down:before { content: "\e908"; }
+.icon-icon-topbar-addnew:before { content: "\e909"; }
+.icon-icon-sidebar-unfold:before { content: "\e90a"; }
+.icon-icon-list-filter:before { content: "\e90b"; }
+.icon-icon-list-add:before { content: "\e90c"; }
+.icon-icon-list-unfold:before { content: "\e90d"; }
+.icon-icon-list-close:before { content: "\e90e"; }
+.icon-icon-list-down:before { content: "\e90f"; }
+.icon-icon-list-up:before { content: "\e910"; }
+.icon-icon-list-right:before { content: "\e911"; }
+.icon-icon-list-left:before { content: "\e912"; }
+.icon-icon-topbar-exportCSV:before { content: "\e913"; }
+.icon-icon-topbar-exportSVG:before { content: "\e914"; }
+.icon-icon-topbar-exportPNG:before { content: "\e915"; }
+.icon-icon-Thumbnail-treeView:before { content: "\e916"; }
+.icon-icon-Thumbnail-pack_up2:before { content: "\e917"; }
+.icon-icon-Thumbnail-sphereView:before { content: "\e918"; }
+.icon-icon-Thumbnail-pack_up:before { content: "\e919"; }
+.icon-icon-Thumbnail-zoomout:before { content: "\e91a"; }
+.icon-icon-Thumbnail-zoomin:before { content: "\e91b"; }
+.icon-icon-Thumbnail-moveCanvas:before { content: "\e91c"; }
+.icon-icon-Thumbnail-fullscreen:before { content: "\e91d"; }
+.icon-icon-Thumbnail-graphView:before { content: "\e91e"; }
+.icon-icon-topbar-close:before { content: "\e91f"; }
+.icon-icon-topbar-export:before { content: "\e920"; }
+.icon-icon-login-Language:before { content: "\e921"; }
+.icon-icon-list-delete:before { content: "\e922"; }
+.icon-icon-image-icon7:before { content: "\e923"; }
+.icon-icon-image-icon6:before { content: "\e924"; }
+.icon-icon-image-icon12:before { content: "\e925"; }
+.icon-icon-image-icon5:before { content: "\e926"; }
+.icon-icon-image-icon10:before { content: "\e927"; }
+.icon-icon-image-icon11:before { content: "\e928"; }
+.icon-icon-image-icon9:before { content: "\e929"; }
+.icon-icon-image-iconUnselect:before { content: "\e92a"; }
+.icon-icon-image-icon17:before { content: "\e92b"; }
+.icon-icon-image-icon18:before { content: "\e92c"; }
+.icon-icon-image-icon19:before { content: "\e92d"; }
+.icon-icon-image-icon20:before { content: "\e92e"; }
+.icon-icon-image-icon22:before { content: "\e92f"; }
+.icon-icon-image-icon23:before { content: "\e930"; }
+.icon-icon-image-icon29:before { content: "\e931"; }
+.icon-icon-image-icon28:before { content: "\e932"; }
+.icon-icon-image-icon27:before { content: "\e933"; }
+.icon-icon-image-icon26:before { content: "\e934"; }
+.icon-icon-image-icon25:before { content: "\e935"; }
+.icon-icon-image-icon24:before { content: "\e936"; }
+.icon-icon-image-icon21:before { content: "\e937"; }
+.icon-icon-image-icon13:before { content: "\e938"; }
+.icon-icon-image-icon1:before { content: "\e939"; }
+.icon-icon-image-icon2:before { content: "\e93a"; }
+.icon-icon-image-icon3:before { content: "\e93b"; }
+.icon-icon-image-icon4:before { content: "\e93c"; }
+.icon-icon-image-icon14:before { content: "\e93d"; }
+.icon-icon-image-icon8:before { content: "\e93e"; }
+.icon-icon-image-icon15:before { content: "\e93f"; }
+.icon-icon-image-icon16:before { content: "\e940"; }
+.icon-icon-graph-snapshot:before { content: "\e941"; }
+.icon-icon-console-export:before { content: "\e942"; }
+.icon-icon-console-import:before { content: "\e943"; }
+.icon-icon-topbar-BirdView:before { content: "\e944"; }
+.icon-icon-topbar-autoSize:before { content: "\e945"; }
+.icon-icon-topbar-resetSize:before { content: "\e946"; }
+.icon-icon-topbar-isolatedVertex:before { content: "\e947"; }
+.icon-icon-topbar-hangEdge:before { content: "\e948"; }
+.icon-icon-topbar-circle:before { content: "\e949"; }
+.icon-icon-Thumbnail-neuralNetwork:before { content: "\e94a"; }
+.icon-icon-Thumbnail-Radial:before { content: "\e94b"; }
+.icon-icon-Thumbnail-Grid:before { content: "\e94c"; }
+.icon-icon-canvas-search:before { content: "\e94d"; }
+.icon-icon-snapshot-export:before { content: "\e94e"; }
+.icon-icon-snapshot-delete:before { content: "\e94f"; }
+.icon-icon-snapshot-import:before { content: "\e950"; }
+.icon-icon-Duplicate:before { content: "\e951"; }
+.icon-icon-visual-nav-zoomin:before { content: "\e952"; }
+.icon-icon-visual-nav-zoomout:before { content: "\e953"; }
+.icon-icon-visual-nav-history:before { content: "\e954"; }
+.icon-icon-visual-nav-select:before { content: "\e955"; }
+.icon-icon-visual-nav-save:before { content: "\e956"; }
+.icon-icon-visual-filter:before { content: "\e957"; }
+.icon-icon-visual-nav-output:before { content: "\e958"; }
+.icon-icon-visual-border-adaptive:before { content: "\e959"; }
+.icon-icon-navbar-explorer:before { content: "\e95a"; }
+.icon-icon-navbar-help:before { content: "\e95b"; }
+.icon-icon-navbar-language:before { content: "\e95c"; }
+.icon-icon-navbar-schema:before { content: "\e95d"; }
+.icon-icon-navbar-import:before { content: "\e95e"; }
+.icon-icon-navbar-console:before { content: "\e95f"; }
+.icon-icon-Thumbnail-pack_down:before { content: "\e960"; }
+.icon-icon-workflow-run:before { content: "\e961"; }
+.icon-icon-workflow-open:before { content: "\e962"; }
+.icon-icon-workflow-jobs:before { content: "\e963"; }
+.icon-icon-workflow-stop:before { content: "\e964"; }
+.icon-icon-workflow-more:before { content: "\e965"; }
+.icon-icon-workflow-viewResult:before { content: "\e966"; }
+.icon-icon-workflow-edit:before { content: "\e967"; }
+.icon-icon-workflow-script:before { content: "\e968"; }
+.icon-icon-workflow-save:before { content: "\e969"; }
+.icon-icon-workflow-saveAs:before { content: "\e96a"; }
+.icon-icon-workflow-viewLog:before { content: "\e96b"; }
+.icon-icon-workflow-Component-Query:before { content: "\e96c"; }
+.icon-icon-workflow-Component-Node-measurement:before { content: "\e96d"; }
+.icon-icon-workflow-Component-Path:before { content: "\e96e"; }
+.icon-icon-workflow-Component-Graph-feature:before { content: "\e96f"; }
+.icon-icon-workflow-Component-Community-discovery:before { content: "\e970"; }
+.icon-icon-workflow-Component-Clustering:before { content: "\e971"; }
+.icon-icon-workflow-search:before { content: "\e972"; }
+.icon-icon-workflow-history:before { content: "\e973"; }
+.icon-icon-workflow-comparison:before { content: "\e974"; }
+.icon-icon-workflow-configuration:before { content: "\e975"; }
+.icon-icon-navbar-queryTemplate:before { content: "\e976"; }
+.icon-icon-topbar-relations:before { content: "\e977"; }
+.icon-icon-workflow-autoLayout:before { content: "\e978"; }
+.icon-icon-TreeDiagram:before { content: "\e979"; }
+.icon-icon-topbar-oneDegree:before { content: "\e97a"; }
+.icon-icon-topbar-edgeClustering:before { content: "\e97b"; }
+.icon-icon-topbar-cancelEdgeClustering:before { content: "\e97c"; }
+.icon-icon-topbar-autoEdgeClustering:before { content: "\e97d"; }
+.icon-icon-topbar-cancelAutoEdgeClustering:before { content: "\e97e"; }
+.icon-icon-nav-query:before { content: "\e97f"; }
+.icon-icon-nav-frameSelect:before { content: "\e980"; }
+.icon-icon-nav-frameSelect-plus:before { content: "\e981"; }
+.icon-icon-nav-frameSelect-subtract:before { content: "\e982"; }
+.icon-icon-nav-freeSelect:before { content: "\e983"; }
+.icon-icon-nav-polygonSelect:before { content: "\e984"; }
+.icon-icon-nav-singleSelect:before { content: "\e985"; }
+.icon-icon-nav-filter:before { content: "\e986"; }
+.icon-icon-nav-expand:before { content: "\e987"; }
+.icon-icon-nav-commonNeighbor:before { content: "\e988"; }
+.icon-icon-nav-findPath:before { content: "\e989"; }
+.icon-icon-nav-graphCalculation:before { content: "\e98a"; }
+.icon-icon-nav-taskList:before { content: "\e98b"; }
+.icon-icon-nav-console:before { content: "\e98c"; }
+.icon-icon-nav-query2:before { content: "\e98d"; }
+.icon-icon-nav-propertyCalculation:before { content: "\e98e"; }
+.icon-icon-nav-propertyView:before { content: "\e98f"; }
+.icon-icon-nav-graphSpace:before { content: "\e990"; }
+.icon-icon-nav-delete:before { content: "\e991"; }
+.icon-icon-nav-deleteReverse:before { content: "\e992"; }
+.icon-icon-nav-Revoke:before { content: "\e993"; }
+.icon-icon-nav-help:before { content: "\e994"; }
+.icon-icon-nav-setup:before { content: "\e995"; }
+.icon-icon-nav-setup2:before { content: "\e996"; }
+.icon-icon-nav-moveCanvas:before { content: "\e997"; }
+.icon-icon-nav-subscript:before { content: "\e998"; }
+.icon-icon-nav-subscript-2:before { content: "\e999"; }
+.icon-icon-nav-miss:before { content: "\e99a"; }
+.icon-icon-nav-missReverse:before { content: "\e99b"; }
+.icon-icon-nav-others:before { content: "\e99c"; }
+.icon-icon-nav-Redo:before { content: "\e99d"; }
+.icon-icon-snapshot-history:before { content: "\e99e"; }
+
+
+/**
+ * Make by Icon Font Exporter
+ * https://www.figma.com/community/plugin/1129455674275940478/Icon-Font-Exporter
+ */
