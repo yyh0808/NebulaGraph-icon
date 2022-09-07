@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Icon Font Demo</title>
+    <link rel="stylesheet" href="./demo.css"></link>
+    <link rel="stylesheet" href="./IconFont.css"></link>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            /* font-size: 100px; */
+        }
+        body {
+            padding-top: 48px;
+            font-size: 14px;
+            color: #333;
+        }
+        .container {
+            max-width: 1000px;
+            /* width: 1200px; */
+            width: 100%;
+            margin: 0 auto;
+        }
+        .iconList {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .iconItem {
+            width: 120px;
+            height: 240px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .iconItem i {
+            display: block;
+            font-size: 80px;
+            line-height: 1;
+            outline: 1px dashed #ccc;
+        }
+        .name {
+            margin-top: 12px;
+        }
+        .class {
+            font-size: 12px;
+            color: #888;
+        }
+        .unicode {
+            font-size: 12px;
+            color: #888;
+        }
+        .siteName {
+            text-align: center;
+            font-size: 64px;
+        }
+        .footer {
+            padding-top: 64px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div class="container">
+            <div class="siteName">Icon font</div>
+            <div class="iconList">
+                <div class="iconItem">
+                    <i class="iconfont icon-service-slide-b"></i>
+                    <div class="name">service-slide-b</div>
+                    <div class="class">.icon-service-slide-b</div>
+                    <div class="unicode">U+E900</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-service-arrange-a"></i>
+                    <div class="name">service-arrange-a</div>
+                    <div class="class">.icon-service-arrange-a</div>
+                    <div class="unicode">U+E901</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-service-slide-a"></i>
+                    <div class="name">service-slide-a</div>
+                    <div class="class">.icon-service-slide-a</div>
+                    <div class="unicode">U+E902</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-lock"></i>
+                    <div class="name">lock</div>
+                    <div class="class">.icon-lock</div>
+                    <div class="unicode">U+E903</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-message"></i>
+                    <div class="name">message</div>
+                    <div class="class">.icon-message</div>
+                    <div class="unicode">U+E904</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-service-arrange-b"></i>
+                    <div class="name">service-arrange-b</div>
+                    <div class="class">.icon-service-arrange-b</div>
+                    <div class="unicode">U+E905</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-dashboard"></i>
+                    <div class="name">nav-dashboard</div>
+                    <div class="class">.icon-nav-dashboard</div>
+                    <div class="unicode">U+E906</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-machine"></i>
+                    <div class="name">nav-machine</div>
+                    <div class="class">.icon-nav-machine</div>
+                    <div class="unicode">U+E907</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-servise"></i>
+                    <div class="name">nav-servise</div>
+                    <div class="class">.icon-nav-servise</div>
+                    <div class="unicode">U+E908</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-serverControl"></i>
+                    <div class="name">nav-serverControl</div>
+                    <div class="class">.icon-nav-serverControl</div>
+                    <div class="unicode">U+E909</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-serverInfo"></i>
+                    <div class="name">nav-serverInfo</div>
+                    <div class="class">.icon-nav-serverInfo</div>
+                    <div class="unicode">U+E90A</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-configuration"></i>
+                    <div class="name">nav-configuration</div>
+                    <div class="class">.icon-nav-configuration</div>
+                    <div class="unicode">U+E90B</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-snapshot"></i>
+                    <div class="name">nav-snapshot</div>
+                    <div class="class">.icon-nav-snapshot</div>
+                    <div class="unicode">U+E90C</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-timeConsuming"></i>
+                    <div class="name">nav-timeConsuming</div>
+                    <div class="class">.icon-nav-timeConsuming</div>
+                    <div class="unicode">U+E90D</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-partitionInfo"></i>
+                    <div class="name">nav-partitionInfo</div>
+                    <div class="class">.icon-nav-partitionInfo</div>
+                    <div class="unicode">U+E90E</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-logout"></i>
+                    <div class="name">nav-logout</div>
+                    <div class="class">.icon-nav-logout</div>
+                    <div class="unicode">U+E90F</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-foldTriangle"></i>
+                    <div class="name">nav-foldTriangle</div>
+                    <div class="class">.icon-nav-foldTriangle</div>
+                    <div class="unicode">U+E910</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-unfoldTriangle"></i>
+                    <div class="name">nav-unfoldTriangle</div>
+                    <div class="class">.icon-nav-unfoldTriangle</div>
+                    <div class="unicode">U+E911</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-zoom"></i>
+                    <div class="name">zoom</div>
+                    <div class="class">.icon-zoom</div>
+                    <div class="unicode">U+E912</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-Set_up"></i>
+                    <div class="name">Set_up</div>
+                    <div class="class">.icon-Set_up</div>
+                    <div class="unicode">U+E913</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-service-status"></i>
+                    <div class="name">service-status</div>
+                    <div class="class">.icon-service-status</div>
+                    <div class="unicode">U+E914</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-service-graph"></i>
+                    <div class="name">service-graph</div>
+                    <div class="class">.icon-service-graph</div>
+                    <div class="unicode">U+E915</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-service-storage"></i>
+                    <div class="name">service-storage</div>
+                    <div class="class">.icon-service-storage</div>
+                    <div class="unicode">U+E916</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-service-meta"></i>
+                    <div class="name">service-meta</div>
+                    <div class="class">.icon-service-meta</div>
+                    <div class="unicode">U+E917</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-service"></i>
+                    <div class="name">service</div>
+                    <div class="class">.icon-service</div>
+                    <div class="unicode">U+E918</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-normal"></i>
+                    <div class="name">normal</div>
+                    <div class="class">.icon-normal</div>
+                    <div class="unicode">U+E919</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-abnormal"></i>
+                    <div class="name">abnormal</div>
+                    <div class="class">.icon-abnormal</div>
+                    <div class="unicode">U+E91A</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-overload"></i>
+                    <div class="name">overload</div>
+                    <div class="class">.icon-overload</div>
+                    <div class="unicode">U+E91B</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-unfold"></i>
+                    <div class="name">nav-unfold</div>
+                    <div class="class">.icon-nav-unfold</div>
+                    <div class="unicode">U+E91C</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-fold"></i>
+                    <div class="name">nav-fold</div>
+                    <div class="class">.icon-nav-fold</div>
+                    <div class="unicode">U+E91D</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-page-left"></i>
+                    <div class="name">page-left</div>
+                    <div class="class">.icon-page-left</div>
+                    <div class="unicode">U+E91E</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-date-left"></i>
+                    <div class="name">date-left</div>
+                    <div class="class">.icon-date-left</div>
+                    <div class="unicode">U+E91F</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-message-alert"></i>
+                    <div class="name">message-alert</div>
+                    <div class="class">.icon-message-alert</div>
+                    <div class="unicode">U+E920</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-page-down"></i>
+                    <div class="name">page-down</div>
+                    <div class="class">.icon-page-down</div>
+                    <div class="unicode">U+E921</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-date-left2"></i>
+                    <div class="name">date-left2</div>
+                    <div class="class">.icon-date-left2</div>
+                    <div class="unicode">U+E922</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-date-right"></i>
+                    <div class="name">date-right</div>
+                    <div class="class">.icon-date-right</div>
+                    <div class="unicode">U+E923</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-page-up"></i>
+                    <div class="name">page-up</div>
+                    <div class="class">.icon-page-up</div>
+                    <div class="unicode">U+E924</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-date-right2"></i>
+                    <div class="name">date-right2</div>
+                    <div class="class">.icon-date-right2</div>
+                    <div class="unicode">U+E925</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-page-right"></i>
+                    <div class="name">page-right</div>
+                    <div class="class">.icon-page-right</div>
+                    <div class="unicode">U+E926</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-help"></i>
+                    <div class="name">help</div>
+                    <div class="class">.icon-help</div>
+                    <div class="unicode">U+E927</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-search"></i>
+                    <div class="name">search</div>
+                    <div class="class">.icon-search</div>
+                    <div class="unicode">U+E928</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-language"></i>
+                    <div class="name">nav-language</div>
+                    <div class="class">.icon-nav-language</div>
+                    <div class="unicode">U+E929</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-watch"></i>
+                    <div class="name">watch</div>
+                    <div class="class">.icon-watch</div>
+                    <div class="unicode">U+E92A</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-up"></i>
+                    <div class="name">up</div>
+                    <div class="class">.icon-up</div>
+                    <div class="unicode">U+E92B</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-down"></i>
+                    <div class="name">down</div>
+                    <div class="class">.icon-down</div>
+                    <div class="unicode">U+E92C</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-return"></i>
+                    <div class="name">return</div>
+                    <div class="class">.icon-return</div>
+                    <div class="unicode">U+E92D</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-cpu"></i>
+                    <div class="name">nav-cpu</div>
+                    <div class="class">.icon-nav-cpu</div>
+                    <div class="unicode">U+E92E</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-ram"></i>
+                    <div class="name">nav-ram</div>
+                    <div class="class">.icon-nav-ram</div>
+                    <div class="unicode">U+E92F</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-load"></i>
+                    <div class="name">nav-load</div>
+                    <div class="class">.icon-nav-load</div>
+                    <div class="unicode">U+E930</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-disk"></i>
+                    <div class="name">nav-disk</div>
+                    <div class="class">.icon-nav-disk</div>
+                    <div class="unicode">U+E931</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-net"></i>
+                    <div class="name">nav-net</div>
+                    <div class="class">.icon-nav-net</div>
+                    <div class="unicode">U+E932</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-serverdashboard"></i>
+                    <div class="name">nav-serverdashboard</div>
+                    <div class="class">.icon-nav-serverdashboard</div>
+                    <div class="unicode">U+E933</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-graph"></i>
+                    <div class="name">nav-graph</div>
+                    <div class="class">.icon-nav-graph</div>
+                    <div class="unicode">U+E934</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-meta"></i>
+                    <div class="name">nav-meta</div>
+                    <div class="class">.icon-nav-meta</div>
+                    <div class="unicode">U+E935</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-storage"></i>
+                    <div class="name">nav-storage</div>
+                    <div class="class">.icon-nav-storage</div>
+                    <div class="unicode">U+E936</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-language-line"></i>
+                    <div class="name">nav-language-line</div>
+                    <div class="class">.icon-nav-language-line</div>
+                    <div class="unicode">U+E937</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-date"></i>
+                    <div class="name">date</div>
+                    <div class="class">.icon-date</div>
+                    <div class="unicode">U+E938</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-Setting"></i>
+                    <div class="name">Setting</div>
+                    <div class="class">.icon-Setting</div>
+                    <div class="unicode">U+E939</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-Plus"></i>
+                    <div class="name">Plus</div>
+                    <div class="class">.icon-Plus</div>
+                    <div class="unicode">U+E93A</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-Wrong"></i>
+                    <div class="name">Wrong</div>
+                    <div class="class">.icon-Wrong</div>
+                    <div class="unicode">U+E93B</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-Correct"></i>
+                    <div class="name">Correct</div>
+                    <div class="class">.icon-Correct</div>
+                    <div class="unicode">U+E93C</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-Reduce"></i>
+                    <div class="name">Reduce</div>
+                    <div class="class">.icon-Reduce</div>
+                    <div class="unicode">U+E93D</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-Customer_Service"></i>
+                    <div class="name">Customer_Service</div>
+                    <div class="class">.icon-Customer_Service</div>
+                    <div class="unicode">U+E93E</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-files"></i>
+                    <div class="name">files</div>
+                    <div class="class">.icon-files</div>
+                    <div class="unicode">U+E93F</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-Clusters"></i>
+                    <div class="name">nav-Clusters</div>
+                    <div class="class">.icon-nav-Clusters</div>
+                    <div class="unicode">U+E940</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-Node"></i>
+                    <div class="name">nav-Node</div>
+                    <div class="class">.icon-nav-Node</div>
+                    <div class="unicode">U+E941</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-processManagement"></i>
+                    <div class="name">nav-processManagement</div>
+                    <div class="class">.icon-nav-processManagement</div>
+                    <div class="unicode">U+E942</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-leaderDistributed"></i>
+                    <div class="name">nav-leaderDistributed</div>
+                    <div class="class">.icon-nav-leaderDistributed</div>
+                    <div class="unicode">U+E943</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-partionDistributed"></i>
+                    <div class="name">nav-partionDistributed</div>
+                    <div class="class">.icon-nav-partionDistributed</div>
+                    <div class="unicode">U+E944</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-accountManagement"></i>
+                    <div class="name">nav-accountManagement</div>
+                    <div class="class">.icon-nav-accountManagement</div>
+                    <div class="unicode">U+E945</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-accountList"></i>
+                    <div class="name">nav-accountList</div>
+                    <div class="class">.icon-nav-accountList</div>
+                    <div class="unicode">U+E946</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-operationRecord"></i>
+                    <div class="name">nav-operationRecord</div>
+                    <div class="class">.icon-nav-operationRecord</div>
+                    <div class="unicode">U+E947</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-versionManagement"></i>
+                    <div class="name">nav-versionManagement</div>
+                    <div class="class">.icon-nav-versionManagement</div>
+                    <div class="unicode">U+E948</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-multiCluster"></i>
+                    <div class="name">nav-multiCluster</div>
+                    <div class="class">.icon-nav-multiCluster</div>
+                    <div class="unicode">U+E949</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-switch"></i>
+                    <div class="name">switch</div>
+                    <div class="class">.icon-switch</div>
+                    <div class="unicode">U+E94A</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-setting"></i>
+                    <div class="name">nav-setting</div>
+                    <div class="class">.icon-nav-setting</div>
+                    <div class="unicode">U+E94B</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-systemSetting"></i>
+                    <div class="name">nav-systemSetting</div>
+                    <div class="class">.icon-nav-systemSetting</div>
+                    <div class="unicode">U+E94C</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-operationLog"></i>
+                    <div class="name">nav-operationLog</div>
+                    <div class="class">.icon-nav-operationLog</div>
+                    <div class="unicode">U+E94D</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-book"></i>
+                    <div class="name">nav-book</div>
+                    <div class="class">.icon-nav-book</div>
+                    <div class="unicode">U+E94E</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-Download"></i>
+                    <div class="name">Download</div>
+                    <div class="class">.icon-Download</div>
+                    <div class="unicode">U+E94F</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-WebLink"></i>
+                    <div class="name">WebLink</div>
+                    <div class="class">.icon-WebLink</div>
+                    <div class="unicode">U+E950</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-Capacity"></i>
+                    <div class="name">nav-Capacity</div>
+                    <div class="class">.icon-nav-Capacity</div>
+                    <div class="unicode">U+E951</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-close"></i>
+                    <div class="name">close</div>
+                    <div class="class">.icon-close</div>
+                    <div class="unicode">U+E952</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-overview-alert"></i>
+                    <div class="name">overview-alert</div>
+                    <div class="class">.icon-overview-alert</div>
+                    <div class="unicode">U+E953</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-overview-ignore"></i>
+                    <div class="name">overview-ignore</div>
+                    <div class="class">.icon-overview-ignore</div>
+                    <div class="unicode">U+E954</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-refresh"></i>
+                    <div class="name">refresh</div>
+                    <div class="class">.icon-refresh</div>
+                    <div class="unicode">U+E955</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-filter"></i>
+                    <div class="name">filter</div>
+                    <div class="class">.icon-filter</div>
+                    <div class="unicode">U+E956</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-notification"></i>
+                    <div class="name">nav-notification</div>
+                    <div class="class">.icon-nav-notification</div>
+                    <div class="unicode">U+E957</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-alertMessages"></i>
+                    <div class="name">nav-alertMessages</div>
+                    <div class="class">.icon-nav-alertMessages</div>
+                    <div class="unicode">U+E958</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-alertRules"></i>
+                    <div class="name">nav-alertRules</div>
+                    <div class="class">.icon-nav-alertRules</div>
+                    <div class="unicode">U+E959</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-recipientSettings"></i>
+                    <div class="name">nav-recipientSettings</div>
+                    <div class="class">.icon-nav-recipientSettings</div>
+                    <div class="unicode">U+E95A</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-settings-systemSettings"></i>
+                    <div class="name">settings-systemSettings</div>
+                    <div class="class">.icon-settings-systemSettings</div>
+                    <div class="unicode">U+E95B</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-settings-notificationEndpoint"></i>
+                    <div class="name">settings-notificationEndpoint</div>
+                    <div class="class">.icon-settings-notificationEndpoint</div>
+                    <div class="unicode">U+E95C</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-settings-othersettings"></i>
+                    <div class="name">settings-othersettings</div>
+                    <div class="class">.icon-settings-othersettings</div>
+                    <div class="unicode">U+E95D</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-alert-edit"></i>
+                    <div class="name">alert-edit</div>
+                    <div class="class">.icon-alert-edit</div>
+                    <div class="unicode">U+E95E</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-alert-delete"></i>
+                    <div class="name">alert-delete</div>
+                    <div class="class">.icon-alert-delete</div>
+                    <div class="unicode">U+E95F</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-time"></i>
+                    <div class="name">time</div>
+                    <div class="class">.icon-time</div>
+                    <div class="unicode">U+E960</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-taskCenter"></i>
+                    <div class="name">nav-taskCenter</div>
+                    <div class="class">.icon-nav-taskCenter</div>
+                    <div class="unicode">U+E961</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-memberManagement"></i>
+                    <div class="name">nav-memberManagement</div>
+                    <div class="class">.icon-nav-memberManagement</div>
+                    <div class="unicode">U+E962</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-zoom-in"></i>
+                    <div class="name">zoom-in</div>
+                    <div class="class">.icon-zoom-in</div>
+                    <div class="unicode">U+E963</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-clusterDiagnostics"></i>
+                    <div class="name">nav-clusterDiagnostics</div>
+                    <div class="class">.icon-nav-clusterDiagnostics</div>
+                    <div class="unicode">U+E964</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-rightTriangle"></i>
+                    <div class="name">nav-rightTriangle</div>
+                    <div class="class">.icon-nav-rightTriangle</div>
+                    <div class="unicode">U+E965</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-leftTriangle"></i>
+                    <div class="name">nav-leftTriangle</div>
+                    <div class="class">.icon-nav-leftTriangle</div>
+                    <div class="unicode">U+E966</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-tvMode"></i>
+                    <div class="name">nav-tvMode</div>
+                    <div class="class">.icon-nav-tvMode</div>
+                    <div class="unicode">U+E967</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-JobMangement"></i>
+                    <div class="name">nav-JobMangement</div>
+                    <div class="class">.icon-nav-JobMangement</div>
+                    <div class="unicode">U+E968</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-Failed"></i>
+                    <div class="name">Failed</div>
+                    <div class="class">.icon-Failed</div>
+                    <div class="unicode">U+E969</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-VersionUpgrade"></i>
+                    <div class="name">nav-VersionUpgrade</div>
+                    <div class="class">.icon-nav-VersionUpgrade</div>
+                    <div class="unicode">U+E96A</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-settings-packageMangement"></i>
+                    <div class="name">settings-packageMangement</div>
+                    <div class="class">.icon-settings-packageMangement</div>
+                    <div class="unicode">U+E96B</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-dependencies"></i>
+                    <div class="name">nav-dependencies</div>
+                    <div class="class">.icon-nav-dependencies</div>
+                    <div class="unicode">U+E96C</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-dataSynchronization"></i>
+                    <div class="name">nav-dataSynchronization</div>
+                    <div class="class">.icon-nav-dataSynchronization</div>
+                    <div class="unicode">U+E96D</div>
+                </div><div class="iconItem">
+                    <i class="iconfont icon-nav-Backup-Restore"></i>
+                    <div class="name">nav-Backup-Restore</div>
+                    <div class="class">.icon-nav-Backup-Restore</div>
+                    <div class="unicode">U+E96E</div>
+                </div>
+            </div>
+            <article class="article">
+                <h1>How to use</h1>
+                <p>
+                    Step 1: Include CSS.
+                </p>
+                <p>
+                    <div class="code">
+                        <div class="line"><span style="">&lt;</span><span style="color: rgb(0, 136, 85)">link</span><span
+                                style="">&nbsp;rel=</span><span style="color: rgb(170, 17, 17)">&quot;stylesheet&quot;</span><span
+                                style="">&nbsp;href=</span><span style="color: rgb(170, 17, 17)">&quot;./Iconfont.css&quot;</span><span
+                                style="">&gt;</span></div>
+                    </div>
+                </p>
+                <p>
+                    Step 2: Use the icon by class.
+                </p>
+                <p>
+                    <div class="code">
+                        <div class="line"><span style="">&lt;</span><span style="color: rgb(0, 136, 85)">span</span><span
+                                style="">&nbsp;class=</span><span style="color: rgb(170, 17, 17)">&quot;iconfont&nbsp;icon-xxx&quot;</span><span
+                                style="">&gt;&lt;/</span><span style="color: rgb(0, 136, 85)">span</span><span style="">&gt;</span></div>
+                    </div>
+                </p>
+
+            </article>
+            <div class="footer">
+                <div>Make by <a href="https://www.figma.com/community/plugin/1129455674275940478" target="_blank">Icon Font Exporter</a></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

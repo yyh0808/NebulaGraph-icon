@@ -1,0 +1,557 @@
+[
+    {
+        "name": "service-slide-b",
+        "className": "service-slide-b",
+        "unicode": "e900"
+    },
+    {
+        "name": "service-arrange-a",
+        "className": "service-arrange-a",
+        "unicode": "e901"
+    },
+    {
+        "name": "service-slide-a",
+        "className": "service-slide-a",
+        "unicode": "e902"
+    },
+    {
+        "name": "lock",
+        "className": "lock",
+        "unicode": "e903"
+    },
+    {
+        "name": "message",
+        "className": "message",
+        "unicode": "e904"
+    },
+    {
+        "name": "service-arrange-b",
+        "className": "service-arrange-b",
+        "unicode": "e905"
+    },
+    {
+        "name": "nav-dashboard",
+        "className": "nav-dashboard",
+        "unicode": "e906"
+    },
+    {
+        "name": "nav-machine",
+        "className": "nav-machine",
+        "unicode": "e907"
+    },
+    {
+        "name": "nav-servise",
+        "className": "nav-servise",
+        "unicode": "e908"
+    },
+    {
+        "name": "nav-serverControl",
+        "className": "nav-serverControl",
+        "unicode": "e909"
+    },
+    {
+        "name": "nav-serverInfo",
+        "className": "nav-serverInfo",
+        "unicode": "e90a"
+    },
+    {
+        "name": "nav-configuration",
+        "className": "nav-configuration",
+        "unicode": "e90b"
+    },
+    {
+        "name": "nav-snapshot",
+        "className": "nav-snapshot",
+        "unicode": "e90c"
+    },
+    {
+        "name": "nav-timeConsuming",
+        "className": "nav-timeConsuming",
+        "unicode": "e90d"
+    },
+    {
+        "name": "nav-partitionInfo",
+        "className": "nav-partitionInfo",
+        "unicode": "e90e"
+    },
+    {
+        "name": "nav-logout",
+        "className": "nav-logout",
+        "unicode": "e90f"
+    },
+    {
+        "name": "nav-foldTriangle",
+        "className": "nav-foldTriangle",
+        "unicode": "e910"
+    },
+    {
+        "name": "nav-unfoldTriangle",
+        "className": "nav-unfoldTriangle",
+        "unicode": "e911"
+    },
+    {
+        "name": "zoom",
+        "className": "zoom",
+        "unicode": "e912"
+    },
+    {
+        "name": "Set_up",
+        "className": "Set_up",
+        "unicode": "e913"
+    },
+    {
+        "name": "service-status",
+        "className": "service-status",
+        "unicode": "e914"
+    },
+    {
+        "name": "service-graph",
+        "className": "service-graph",
+        "unicode": "e915"
+    },
+    {
+        "name": "service-storage",
+        "className": "service-storage",
+        "unicode": "e916"
+    },
+    {
+        "name": "service-meta",
+        "className": "service-meta",
+        "unicode": "e917"
+    },
+    {
+        "name": "service",
+        "className": "service",
+        "unicode": "e918"
+    },
+    {
+        "name": "normal",
+        "className": "normal",
+        "unicode": "e919"
+    },
+    {
+        "name": "abnormal",
+        "className": "abnormal",
+        "unicode": "e91a"
+    },
+    {
+        "name": "overload",
+        "className": "overload",
+        "unicode": "e91b"
+    },
+    {
+        "name": "nav-unfold",
+        "className": "nav-unfold",
+        "unicode": "e91c"
+    },
+    {
+        "name": "nav-fold",
+        "className": "nav-fold",
+        "unicode": "e91d"
+    },
+    {
+        "name": "page-left",
+        "className": "page-left",
+        "unicode": "e91e"
+    },
+    {
+        "name": "date-left",
+        "className": "date-left",
+        "unicode": "e91f"
+    },
+    {
+        "name": "message-alert",
+        "className": "message-alert",
+        "unicode": "e920"
+    },
+    {
+        "name": "page-down",
+        "className": "page-down",
+        "unicode": "e921"
+    },
+    {
+        "name": "date-left2",
+        "className": "date-left2",
+        "unicode": "e922"
+    },
+    {
+        "name": "date-right",
+        "className": "date-right",
+        "unicode": "e923"
+    },
+    {
+        "name": "page-up",
+        "className": "page-up",
+        "unicode": "e924"
+    },
+    {
+        "name": "date-right2",
+        "className": "date-right2",
+        "unicode": "e925"
+    },
+    {
+        "name": "page-right",
+        "className": "page-right",
+        "unicode": "e926"
+    },
+    {
+        "name": "help",
+        "className": "help",
+        "unicode": "e927"
+    },
+    {
+        "name": "search",
+        "className": "search",
+        "unicode": "e928"
+    },
+    {
+        "name": "nav-language",
+        "className": "nav-language",
+        "unicode": "e929"
+    },
+    {
+        "name": "watch",
+        "className": "watch",
+        "unicode": "e92a"
+    },
+    {
+        "name": "up",
+        "className": "up",
+        "unicode": "e92b"
+    },
+    {
+        "name": "down",
+        "className": "down",
+        "unicode": "e92c"
+    },
+    {
+        "name": "return",
+        "className": "return",
+        "unicode": "e92d"
+    },
+    {
+        "name": "nav-cpu",
+        "className": "nav-cpu",
+        "unicode": "e92e"
+    },
+    {
+        "name": "nav-ram",
+        "className": "nav-ram",
+        "unicode": "e92f"
+    },
+    {
+        "name": "nav-load",
+        "className": "nav-load",
+        "unicode": "e930"
+    },
+    {
+        "name": "nav-disk",
+        "className": "nav-disk",
+        "unicode": "e931"
+    },
+    {
+        "name": "nav-net",
+        "className": "nav-net",
+        "unicode": "e932"
+    },
+    {
+        "name": "nav-serverdashboard",
+        "className": "nav-serverdashboard",
+        "unicode": "e933"
+    },
+    {
+        "name": "nav-graph",
+        "className": "nav-graph",
+        "unicode": "e934"
+    },
+    {
+        "name": "nav-meta",
+        "className": "nav-meta",
+        "unicode": "e935"
+    },
+    {
+        "name": "nav-storage",
+        "className": "nav-storage",
+        "unicode": "e936"
+    },
+    {
+        "name": "nav-language-line",
+        "className": "nav-language-line",
+        "unicode": "e937"
+    },
+    {
+        "name": "date",
+        "className": "date",
+        "unicode": "e938"
+    },
+    {
+        "name": "Setting",
+        "className": "Setting",
+        "unicode": "e939"
+    },
+    {
+        "name": "Plus",
+        "className": "Plus",
+        "unicode": "e93a"
+    },
+    {
+        "name": "Wrong",
+        "className": "Wrong",
+        "unicode": "e93b"
+    },
+    {
+        "name": "Correct",
+        "className": "Correct",
+        "unicode": "e93c"
+    },
+    {
+        "name": "Reduce",
+        "className": "Reduce",
+        "unicode": "e93d"
+    },
+    {
+        "name": "Customer_Service",
+        "className": "Customer_Service",
+        "unicode": "e93e"
+    },
+    {
+        "name": "files",
+        "className": "files",
+        "unicode": "e93f"
+    },
+    {
+        "name": "nav-Clusters",
+        "className": "nav-Clusters",
+        "unicode": "e940"
+    },
+    {
+        "name": "nav-Node",
+        "className": "nav-Node",
+        "unicode": "e941"
+    },
+    {
+        "name": "nav-processManagement",
+        "className": "nav-processManagement",
+        "unicode": "e942"
+    },
+    {
+        "name": "nav-leaderDistributed",
+        "className": "nav-leaderDistributed",
+        "unicode": "e943"
+    },
+    {
+        "name": "nav-partionDistributed",
+        "className": "nav-partionDistributed",
+        "unicode": "e944"
+    },
+    {
+        "name": "nav-accountManagement",
+        "className": "nav-accountManagement",
+        "unicode": "e945"
+    },
+    {
+        "name": "nav-accountList",
+        "className": "nav-accountList",
+        "unicode": "e946"
+    },
+    {
+        "name": "nav-operationRecord",
+        "className": "nav-operationRecord",
+        "unicode": "e947"
+    },
+    {
+        "name": "nav-versionManagement",
+        "className": "nav-versionManagement",
+        "unicode": "e948"
+    },
+    {
+        "name": "nav-multiCluster",
+        "className": "nav-multiCluster",
+        "unicode": "e949"
+    },
+    {
+        "name": "switch",
+        "className": "switch",
+        "unicode": "e94a"
+    },
+    {
+        "name": "nav-setting",
+        "className": "nav-setting",
+        "unicode": "e94b"
+    },
+    {
+        "name": "nav-systemSetting",
+        "className": "nav-systemSetting",
+        "unicode": "e94c"
+    },
+    {
+        "name": "nav-operationLog",
+        "className": "nav-operationLog",
+        "unicode": "e94d"
+    },
+    {
+        "name": "nav-book",
+        "className": "nav-book",
+        "unicode": "e94e"
+    },
+    {
+        "name": "Download",
+        "className": "Download",
+        "unicode": "e94f"
+    },
+    {
+        "name": "WebLink",
+        "className": "WebLink",
+        "unicode": "e950"
+    },
+    {
+        "name": "nav-Capacity",
+        "className": "nav-Capacity",
+        "unicode": "e951"
+    },
+    {
+        "name": "close",
+        "className": "close",
+        "unicode": "e952"
+    },
+    {
+        "name": "overview-alert",
+        "className": "overview-alert",
+        "unicode": "e953"
+    },
+    {
+        "name": "overview-ignore",
+        "className": "overview-ignore",
+        "unicode": "e954"
+    },
+    {
+        "name": "refresh",
+        "className": "refresh",
+        "unicode": "e955"
+    },
+    {
+        "name": "filter",
+        "className": "filter",
+        "unicode": "e956"
+    },
+    {
+        "name": "nav-notification",
+        "className": "nav-notification",
+        "unicode": "e957"
+    },
+    {
+        "name": "nav-alertMessages",
+        "className": "nav-alertMessages",
+        "unicode": "e958"
+    },
+    {
+        "name": "nav-alertRules",
+        "className": "nav-alertRules",
+        "unicode": "e959"
+    },
+    {
+        "name": "nav-recipientSettings",
+        "className": "nav-recipientSettings",
+        "unicode": "e95a"
+    },
+    {
+        "name": "settings-systemSettings",
+        "className": "settings-systemSettings",
+        "unicode": "e95b"
+    },
+    {
+        "name": "settings-notificationEndpoint",
+        "className": "settings-notificationEndpoint",
+        "unicode": "e95c"
+    },
+    {
+        "name": "settings-othersettings",
+        "className": "settings-othersettings",
+        "unicode": "e95d"
+    },
+    {
+        "name": "alert-edit",
+        "className": "alert-edit",
+        "unicode": "e95e"
+    },
+    {
+        "name": "alert-delete",
+        "className": "alert-delete",
+        "unicode": "e95f"
+    },
+    {
+        "name": "time",
+        "className": "time",
+        "unicode": "e960"
+    },
+    {
+        "name": "nav-taskCenter",
+        "className": "nav-taskCenter",
+        "unicode": "e961"
+    },
+    {
+        "name": "nav-memberManagement",
+        "className": "nav-memberManagement",
+        "unicode": "e962"
+    },
+    {
+        "name": "zoom-in",
+        "className": "zoom-in",
+        "unicode": "e963"
+    },
+    {
+        "name": "nav-clusterDiagnostics",
+        "className": "nav-clusterDiagnostics",
+        "unicode": "e964"
+    },
+    {
+        "name": "nav-rightTriangle",
+        "className": "nav-rightTriangle",
+        "unicode": "e965"
+    },
+    {
+        "name": "nav-leftTriangle",
+        "className": "nav-leftTriangle",
+        "unicode": "e966"
+    },
+    {
+        "name": "nav-tvMode",
+        "className": "nav-tvMode",
+        "unicode": "e967"
+    },
+    {
+        "name": "nav-JobMangement",
+        "className": "nav-JobMangement",
+        "unicode": "e968"
+    },
+    {
+        "name": "Failed",
+        "className": "Failed",
+        "unicode": "e969"
+    },
+    {
+        "name": "nav-VersionUpgrade",
+        "className": "nav-VersionUpgrade",
+        "unicode": "e96a"
+    },
+    {
+        "name": "settings-packageMangement",
+        "className": "settings-packageMangement",
+        "unicode": "e96b"
+    },
+    {
+        "name": "nav-dependencies",
+        "className": "nav-dependencies",
+        "unicode": "e96c"
+    },
+    {
+        "name": "nav-dataSynchronization",
+        "className": "nav-dataSynchronization",
+        "unicode": "e96d"
+    },
+    {
+        "name": "nav-Backup-Restore",
+        "className": "nav-Backup-Restore",
+        "unicode": "e96e"
+    }
+]
