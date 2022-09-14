@@ -793,5 +793,10 @@
         "name": "icon-snapshot-history",
         "className": "icon-snapshot-history",
         "unicode": "e99e"
+    },
+    {
+        "name": "icon-navbar-sketch",
+        "className": "icon-navbar-sketch",
+        "unicode": "e99f"
     }
 ]

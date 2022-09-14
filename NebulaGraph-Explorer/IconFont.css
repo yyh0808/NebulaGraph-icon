@@ -1,12 +1,12 @@
 @font-face {
-    font-family: "Iconfont";
-    src: url('IconFont.woff2?t=1662519863151') format('woff2'),
-        url('IconFont.woff?t=1662519863151') format('woff'),
-        url('IconFont.ttf?t=1662519863151') format('truetype');
+    font-family: "IconFont";
+    src: url('IconFont.woff2?t=1663137854307') format('woff2'),
+        url('IconFont.woff?t=1663137854307') format('woff'),
+        url('IconFont.ttf?t=1663137854307') format('truetype');
 }
 
 .iconfont {
-    font-family: "Iconfont" !important;
+    font-family: "IconFont" !important;
     font-size: 16px;
     font-style: normal;
     -webkit-font-smoothing: antialiased;
@@ -172,6 +172,7 @@
 .icon-icon-nav-others:before { content: "\e99c"; }
 .icon-icon-nav-Redo:before { content: "\e99d"; }
 .icon-icon-snapshot-history:before { content: "\e99e"; }
+.icon-icon-navbar-sketch:before { content: "\e99f"; }
 
 
 /**
