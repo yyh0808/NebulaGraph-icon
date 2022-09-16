@@ -798,5 +798,25 @@
         "name": "icon-navbar-sketch",
         "className": "icon-navbar-sketch",
         "unicode": "e99f"
+    },
+    {
+        "name": "icon-navbar-doc",
+        "className": "icon-navbar-doc",
+        "unicode": "e9a0"
+    },
+    {
+        "name": "icon-navbar-video",
+        "className": "icon-navbar-video",
+        "unicode": "e9a1"
+    },
+    {
+        "name": "icon-navbar-beginner",
+        "className": "icon-navbar-beginner",
+        "unicode": "e9a2"
+    },
+    {
+        "name": "icon-navbar-keys",
+        "className": "icon-navbar-keys",
+        "unicode": "e9a3"
     }
 ]
