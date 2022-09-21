@@ -1003,5 +1003,10 @@
         "name": "icon-navbar-userAuthorization",
         "className": "icon-navbar-userAuthorization",
         "unicode": "e9c8"
+    },
+    {
+        "name": "icon-abnormal",
+        "className": "icon-abnormal",
+        "unicode": "e9c9"
     }
 ]
