@@ -1008,5 +1008,15 @@
         "name": "icon-abnormal",
         "className": "icon-abnormal",
         "unicode": "e9c9"
+    },
+    {
+        "name": "icon-navbar-dbLink",
+        "className": "icon-navbar-dbLink",
+        "unicode": "e9ca"
+    },
+    {
+        "name": "icon-navbar-logout",
+        "className": "icon-navbar-logout",
+        "unicode": "e9cb"
     }
 ]
