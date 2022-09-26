@@ -1,8 +1,8 @@
 @font-face {
     font-family: "IconFont";
-    src: url('IconFont.woff2?t=1663919136181') format('woff2'),
-        url('IconFont.woff?t=1663919136181') format('woff'),
-        url('IconFont.ttf?t=1663919136181') format('truetype');
+    src: url('IconFont.woff2?t=1664180325074') format('woff2'),
+        url('IconFont.woff?t=1664180325074') format('woff'),
+        url('IconFont.ttf?t=1664180325074') format('truetype');
 }
 
 .iconfont {
@@ -16,10 +16,10 @@
 .icon-icon-rightclickmenu-expand:before { content: "\e900"; }
 .icon-icon-rightclickmenu-commonNeighbor:before { content: "\e901"; }
 .icon-icon-rightclickmenu-findPath:before { content: "\e902"; }
-.icon-icon-rightclickmenu-Duplicate:before { content: "\e903"; }
-.icon-icon-rightclickmenu-Fit_to_selection:before { content: "\e904"; }
-.icon-icon-rightclickmenu-Invert_selection:before { content: "\e905"; }
-.icon-icon-rightclickmenu-Inspect_property:before { content: "\e906"; }
+.icon-icon-rightclickmenu-duplicate:before { content: "\e903"; }
+.icon-icon-rightclickmenu-fitToSelection:before { content: "\e904"; }
+.icon-icon-rightclickmenu-invertSelection:before { content: "\e905"; }
+.icon-icon-rightclickmenu-inspectProperty:before { content: "\e906"; }
 .icon-icon-rightclickmenu-graphCalculation:before { content: "\e907"; }
 .icon-icon-topbar-down:before { content: "\e908"; }
 .icon-icon-topbar-addnew:before { content: "\e909"; }

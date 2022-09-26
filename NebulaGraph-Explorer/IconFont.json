@@ -15,23 +15,23 @@
         "unicode": "e902"
     },
     {
-        "name": "icon-rightclickmenu-Duplicate",
-        "className": "icon-rightclickmenu-Duplicate",
+        "name": "icon-rightclickmenu-duplicate",
+        "className": "icon-rightclickmenu-duplicate",
         "unicode": "e903"
     },
     {
-        "name": "icon-rightclickmenu-Fit_to_selection",
-        "className": "icon-rightclickmenu-Fit_to_selection",
+        "name": "icon-rightclickmenu-fitToSelection",
+        "className": "icon-rightclickmenu-fitToSelection",
         "unicode": "e904"
     },
     {
-        "name": "icon-rightclickmenu-Invert_selection",
-        "className": "icon-rightclickmenu-Invert_selection",
+        "name": "icon-rightclickmenu-invertSelection",
+        "className": "icon-rightclickmenu-invertSelection",
         "unicode": "e905"
     },
     {
-        "name": "icon-rightclickmenu-Inspect_property",
-        "className": "icon-rightclickmenu-Inspect_property",
+        "name": "icon-rightclickmenu-inspectProperty",
+        "className": "icon-rightclickmenu-inspectProperty",
         "unicode": "e906"
     },
     {
