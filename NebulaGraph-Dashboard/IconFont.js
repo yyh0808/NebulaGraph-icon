@@ -1169,7 +1169,7 @@
 
 
         </symbol>
-        <symbol id="iconnav-jobMangement" viewBox="0 0 16 16">
+        <symbol id="iconnav-auditLogs" viewBox="0 0 16 16">
             
 
 <path d="M7 0.5C6.17157 0.5 5.5 1.17157 5.5 2V4.5H10.5V2C10.5 1.17157 9.82843 0.5 9 0.5H7ZM6.5 2C6.5 1.72386 6.72386 1.5 7 1.5H9C9.27614 1.5 9.5 1.72386 9.5 2V3.5H6.5V2Z"></path>

@@ -555,8 +555,8 @@
         "unicode": "e96e"
     },
     {
-        "name": "iconnav-jobMangement",
-        "className": "iconnav-jobMangement",
+        "name": "iconnav-auditLogs",
+        "className": "iconnav-auditLogs",
         "unicode": "e96f"
     }
 ]
