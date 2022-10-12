@@ -1018,5 +1018,15 @@
         "name": "icon-navbar-logout",
         "className": "icon-navbar-logout",
         "unicode": "e9cb"
+    },
+    {
+        "name": "icon-navbar-visualQuery",
+        "className": "icon-navbar-visualQuery",
+        "unicode": "e9cc"
+    },
+    {
+        "name": "icon-navbar-workflow",
+        "className": "icon-navbar-workflow",
+        "unicode": "e9cd"
     }
 ]
