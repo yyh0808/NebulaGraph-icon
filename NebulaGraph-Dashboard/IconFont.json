@@ -558,5 +558,10 @@
         "name": "iconnav-auditLogs",
         "className": "iconnav-auditLogs",
         "unicode": "e96f"
+    },
+    {
+        "name": "iconsettings-singleSignon",
+        "className": "iconsettings-singleSignon",
+        "unicode": "e970"
     }
 ]

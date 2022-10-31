@@ -1,8 +1,8 @@
 @font-face {
     font-family: "IconFont";
-    src: url('IconFont.woff2?t=1664257716260') format('woff2'),
-        url('IconFont.woff?t=1664257716260') format('woff'),
-        url('IconFont.ttf?t=1664257716260') format('truetype');
+    src: url('IconFont.woff2?t=1667200757613') format('woff2'),
+        url('IconFont.woff?t=1667200757613') format('woff'),
+        url('IconFont.ttf?t=1667200757613') format('truetype');
 }
 
 .iconfont {
@@ -125,6 +125,7 @@
 .icon-iconnav-dataSynchronization:before { content: "\e96d"; }
 .icon-iconnav-Backup-Restore:before { content: "\e96e"; }
 .icon-iconnav-auditLogs:before { content: "\e96f"; }
+.icon-iconsettings-singleSignon:before { content: "\e970"; }
 
 
 /**
