@@ -1,8 +1,8 @@
 @font-face {
     font-family: "IconFont";
-    src: url('IconFont.woff2?t=1665541553874') format('woff2'),
-        url('IconFont.woff?t=1665541553874') format('woff'),
-        url('IconFont.ttf?t=1665541553874') format('truetype');
+    src: url('IconFont.woff2?t=1668414867354') format('woff2'),
+        url('IconFont.woff?t=1668414867354') format('woff'),
+        url('IconFont.ttf?t=1668414867354') format('truetype');
 }
 
 .iconfont {
@@ -177,48 +177,58 @@
 .icon-icon-navbar-video:before { content: "\e9a1"; }
 .icon-icon-navbar-beginner:before { content: "\e9a2"; }
 .icon-icon-navbar-keys:before { content: "\e9a3"; }
-.icon-icon-studio-nav-github:before { content: "\e9a4"; }
-.icon-icon-studio-nav-schema:before { content: "\e9a5"; }
-.icon-icon-studio-nav-import:before { content: "\e9a6"; }
-.icon-icon-studio-nav-console:before { content: "\e9a7"; }
-.icon-icon-studio-nav-help:before { content: "\e9a8"; }
-.icon-icon-studio-nav-language:before { content: "\e9a9"; }
-.icon-icon-studio-btn-edit:before { content: "\e9aa"; }
-.icon-icon-studio-btn-delete:before { content: "\e9ab"; }
-.icon-icon-studio-btn-download:before { content: "\e9ac"; }
-.icon-icon-studio-btn-detail:before { content: "\e9ad"; }
-.icon-icon-studio-btn-save:before { content: "\e9ae"; }
-.icon-icon-studio-btn-save-fill:before { content: "\e9af"; }
-.icon-icon-studio-btn-history:before { content: "\e9b0"; }
-.icon-icon-studio-btn-clear:before { content: "\e9b1"; }
-.icon-icon-studio-btn-play:before { content: "\e9b2"; }
-.icon-icon-studio-btn-down:before { content: "\e9b3"; }
-.icon-icon-studio-btn-up:before { content: "\e9b4"; }
-.icon-icon-studio-console-graph:before { content: "\e9b5"; }
-.icon-icon-studio-console-table:before { content: "\e9b6"; }
-.icon-icon-studio-console-logs:before { content: "\e9b7"; }
-.icon-icon-studio-console-graphviz:before { content: "\e9b8"; }
-.icon-icon-studio-console-move:before { content: "\e9b9"; }
-.icon-icon-studio-console-zoomin:before { content: "\e9ba"; }
-.icon-icon-studio-console-zoomout:before { content: "\e9bb"; }
-.icon-icon-studio-console-pop:before { content: "\e9bc"; }
-.icon-icon-studio-console-lock:before { content: "\e9bd"; }
-.icon-icon-studio-console-unlock:before { content: "\e9be"; }
-.icon-icon-studio-btn-add:before { content: "\e9bf"; }
-.icon-icon-studio-btn-back:before { content: "\e9c0"; }
-.icon-icon-studio-btn-return:before { content: "\e9c1"; }
-.icon-icon-studio-nav-version:before { content: "\e9c2"; }
-.icon-icon-studio-nav-clear:before { content: "\e9c3"; }
-.icon-icon-studio-btn-output:before { content: "\e9c4"; }
-.icon-icon-studio-btn-close:before { content: "\e9c5"; }
-.icon-icon-studio-more:before { content: "\e9c6"; }
-.icon-icon-studio-btn-console:before { content: "\e9c7"; }
-.icon-icon-navbar-userAuthorization:before { content: "\e9c8"; }
-.icon-icon-abnormal:before { content: "\e9c9"; }
-.icon-icon-navbar-dbLink:before { content: "\e9ca"; }
-.icon-icon-navbar-logout:before { content: "\e9cb"; }
-.icon-icon-navbar-visualQuery:before { content: "\e9cc"; }
-.icon-icon-navbar-workflow:before { content: "\e9cd"; }
+.icon-icon-studio-nav-schema:before { content: "\e9a4"; }
+.icon-icon-studio-nav-import:before { content: "\e9a5"; }
+.icon-icon-studio-nav-console:before { content: "\e9a6"; }
+.icon-icon-studio-nav-help:before { content: "\e9a7"; }
+.icon-icon-studio-nav-language:before { content: "\e9a8"; }
+.icon-icon-studio-btn-edit:before { content: "\e9a9"; }
+.icon-icon-studio-btn-delete:before { content: "\e9aa"; }
+.icon-icon-studio-btn-download:before { content: "\e9ab"; }
+.icon-icon-studio-btn-detail:before { content: "\e9ac"; }
+.icon-icon-studio-btn-save:before { content: "\e9ad"; }
+.icon-icon-studio-btn-save-fill:before { content: "\e9ae"; }
+.icon-icon-studio-btn-history:before { content: "\e9af"; }
+.icon-icon-studio-btn-clear:before { content: "\e9b0"; }
+.icon-icon-studio-btn-play:before { content: "\e9b1"; }
+.icon-icon-studio-btn-down:before { content: "\e9b2"; }
+.icon-icon-studio-btn-up:before { content: "\e9b3"; }
+.icon-icon-studio-console-graph:before { content: "\e9b4"; }
+.icon-icon-studio-console-table:before { content: "\e9b5"; }
+.icon-icon-studio-console-logs:before { content: "\e9b6"; }
+.icon-icon-studio-console-graphviz:before { content: "\e9b7"; }
+.icon-icon-studio-console-move:before { content: "\e9b8"; }
+.icon-icon-studio-console-zoomin:before { content: "\e9b9"; }
+.icon-icon-studio-console-zoomout:before { content: "\e9ba"; }
+.icon-icon-studio-console-pop:before { content: "\e9bb"; }
+.icon-icon-studio-console-lock:before { content: "\e9bc"; }
+.icon-icon-studio-console-unlock:before { content: "\e9bd"; }
+.icon-icon-studio-btn-add:before { content: "\e9be"; }
+.icon-icon-studio-btn-back:before { content: "\e9bf"; }
+.icon-icon-studio-btn-return:before { content: "\e9c0"; }
+.icon-icon-studio-nav-version:before { content: "\e9c1"; }
+.icon-icon-studio-nav-clear:before { content: "\e9c2"; }
+.icon-icon-studio-btn-output:before { content: "\e9c3"; }
+.icon-icon-studio-btn-close:before { content: "\e9c4"; }
+.icon-icon-studio-more:before { content: "\e9c5"; }
+.icon-icon-studio-btn-console:before { content: "\e9c6"; }
+.icon-icon-navbar-userAuthorization:before { content: "\e9c7"; }
+.icon-icon-abnormal:before { content: "\e9c8"; }
+.icon-icon-navbar-dbLink:before { content: "\e9c9"; }
+.icon-icon-navbar-logout:before { content: "\e9ca"; }
+.icon-icon-navbar-visualQuery:before { content: "\e9cb"; }
+.icon-icon-navbar-workflow:before { content: "\e9cc"; }
+.icon-icon-studio-btn-ddl:before { content: "\e9cd"; }
+.icon-icon-nav-timebar:before { content: "\e9ce"; }
+.icon-icon-exportImg:before { content: "\e9cf"; }
+.icon-icon-showTable:before { content: "\e9d0"; }
+.icon-icon-navbar-feedback:before { content: "\e9d1"; }
+.icon-icon-navbar-troubleFeedback:before { content: "\e9d2"; }
+.icon-icon-navbar-suggestions:before { content: "\e9d3"; }
+.icon-icon-navbar-participationInResearch:before { content: "\e9d4"; }
+.icon-icon-navbar-contactUs:before { content: "\e9d5"; }
+.icon-icon-navbar-enterprise:before { content: "\e9d6"; }
+.icon-icon-studio-nav-github:before { content: "\e9d7"; }
 
 
 /**

@@ -820,213 +820,263 @@
         "unicode": "e9a3"
     },
     {
-        "name": "icon-studio-nav-github",
-        "className": "icon-studio-nav-github",
-        "unicode": "e9a4"
-    },
-    {
         "name": "icon-studio-nav-schema",
         "className": "icon-studio-nav-schema",
-        "unicode": "e9a5"
+        "unicode": "e9a4"
     },
     {
         "name": "icon-studio-nav-import",
         "className": "icon-studio-nav-import",
-        "unicode": "e9a6"
+        "unicode": "e9a5"
     },
     {
         "name": "icon-studio-nav-console",
         "className": "icon-studio-nav-console",
-        "unicode": "e9a7"
+        "unicode": "e9a6"
     },
     {
         "name": "icon-studio-nav-help",
         "className": "icon-studio-nav-help",
-        "unicode": "e9a8"
+        "unicode": "e9a7"
     },
     {
         "name": "icon-studio-nav-language",
         "className": "icon-studio-nav-language",
-        "unicode": "e9a9"
+        "unicode": "e9a8"
     },
     {
         "name": "icon-studio-btn-edit",
         "className": "icon-studio-btn-edit",
-        "unicode": "e9aa"
+        "unicode": "e9a9"
     },
     {
         "name": "icon-studio-btn-delete",
         "className": "icon-studio-btn-delete",
-        "unicode": "e9ab"
+        "unicode": "e9aa"
     },
     {
         "name": "icon-studio-btn-download",
         "className": "icon-studio-btn-download",
-        "unicode": "e9ac"
+        "unicode": "e9ab"
     },
     {
         "name": "icon-studio-btn-detail",
         "className": "icon-studio-btn-detail",
-        "unicode": "e9ad"
+        "unicode": "e9ac"
     },
     {
         "name": "icon-studio-btn-save",
         "className": "icon-studio-btn-save",
-        "unicode": "e9ae"
+        "unicode": "e9ad"
     },
     {
         "name": "icon-studio-btn-save-fill",
         "className": "icon-studio-btn-save-fill",
-        "unicode": "e9af"
+        "unicode": "e9ae"
     },
     {
         "name": "icon-studio-btn-history",
         "className": "icon-studio-btn-history",
-        "unicode": "e9b0"
+        "unicode": "e9af"
     },
     {
         "name": "icon-studio-btn-clear",
         "className": "icon-studio-btn-clear",
-        "unicode": "e9b1"
+        "unicode": "e9b0"
     },
     {
         "name": "icon-studio-btn-play",
         "className": "icon-studio-btn-play",
-        "unicode": "e9b2"
+        "unicode": "e9b1"
     },
     {
         "name": "icon-studio-btn-down",
         "className": "icon-studio-btn-down",
-        "unicode": "e9b3"
+        "unicode": "e9b2"
     },
     {
         "name": "icon-studio-btn-up",
         "className": "icon-studio-btn-up",
-        "unicode": "e9b4"
+        "unicode": "e9b3"
     },
     {
         "name": "icon-studio-console-graph",
         "className": "icon-studio-console-graph",
-        "unicode": "e9b5"
+        "unicode": "e9b4"
     },
     {
         "name": "icon-studio-console-table",
         "className": "icon-studio-console-table",
-        "unicode": "e9b6"
+        "unicode": "e9b5"
     },
     {
         "name": "icon-studio-console-logs",
         "className": "icon-studio-console-logs",
-        "unicode": "e9b7"
+        "unicode": "e9b6"
     },
     {
         "name": "icon-studio-console-graphviz",
         "className": "icon-studio-console-graphviz",
-        "unicode": "e9b8"
+        "unicode": "e9b7"
     },
     {
         "name": "icon-studio-console-move",
         "className": "icon-studio-console-move",
-        "unicode": "e9b9"
+        "unicode": "e9b8"
     },
     {
         "name": "icon-studio-console-zoomin",
         "className": "icon-studio-console-zoomin",
-        "unicode": "e9ba"
+        "unicode": "e9b9"
     },
     {
         "name": "icon-studio-console-zoomout",
         "className": "icon-studio-console-zoomout",
-        "unicode": "e9bb"
+        "unicode": "e9ba"
     },
     {
         "name": "icon-studio-console-pop",
         "className": "icon-studio-console-pop",
-        "unicode": "e9bc"
+        "unicode": "e9bb"
     },
     {
         "name": "icon-studio-console-lock",
         "className": "icon-studio-console-lock",
-        "unicode": "e9bd"
+        "unicode": "e9bc"
     },
     {
         "name": "icon-studio-console-unlock",
         "className": "icon-studio-console-unlock",
-        "unicode": "e9be"
+        "unicode": "e9bd"
     },
     {
         "name": "icon-studio-btn-add",
         "className": "icon-studio-btn-add",
-        "unicode": "e9bf"
+        "unicode": "e9be"
     },
     {
         "name": "icon-studio-btn-back",
         "className": "icon-studio-btn-back",
-        "unicode": "e9c0"
+        "unicode": "e9bf"
     },
     {
         "name": "icon-studio-btn-return",
         "className": "icon-studio-btn-return",
-        "unicode": "e9c1"
+        "unicode": "e9c0"
     },
     {
         "name": "icon-studio-nav-version",
         "className": "icon-studio-nav-version",
-        "unicode": "e9c2"
+        "unicode": "e9c1"
     },
     {
         "name": "icon-studio-nav-clear",
         "className": "icon-studio-nav-clear",
-        "unicode": "e9c3"
+        "unicode": "e9c2"
     },
     {
         "name": "icon-studio-btn-output",
         "className": "icon-studio-btn-output",
-        "unicode": "e9c4"
+        "unicode": "e9c3"
     },
     {
         "name": "icon-studio-btn-close",
         "className": "icon-studio-btn-close",
-        "unicode": "e9c5"
+        "unicode": "e9c4"
     },
     {
         "name": "icon-studio-more",
         "className": "icon-studio-more",
-        "unicode": "e9c6"
+        "unicode": "e9c5"
     },
     {
         "name": "icon-studio-btn-console",
         "className": "icon-studio-btn-console",
-        "unicode": "e9c7"
+        "unicode": "e9c6"
     },
     {
         "name": "icon-navbar-userAuthorization",
         "className": "icon-navbar-userAuthorization",
-        "unicode": "e9c8"
+        "unicode": "e9c7"
     },
     {
         "name": "icon-abnormal",
         "className": "icon-abnormal",
-        "unicode": "e9c9"
+        "unicode": "e9c8"
     },
     {
         "name": "icon-navbar-dbLink",
         "className": "icon-navbar-dbLink",
-        "unicode": "e9ca"
+        "unicode": "e9c9"
     },
     {
         "name": "icon-navbar-logout",
         "className": "icon-navbar-logout",
-        "unicode": "e9cb"
+        "unicode": "e9ca"
     },
     {
         "name": "icon-navbar-visualQuery",
         "className": "icon-navbar-visualQuery",
-        "unicode": "e9cc"
+        "unicode": "e9cb"
     },
     {
         "name": "icon-navbar-workflow",
         "className": "icon-navbar-workflow",
+        "unicode": "e9cc"
+    },
+    {
+        "name": "icon-studio-btn-ddl",
+        "className": "icon-studio-btn-ddl",
         "unicode": "e9cd"
+    },
+    {
+        "name": "icon-nav-timebar",
+        "className": "icon-nav-timebar",
+        "unicode": "e9ce"
+    },
+    {
+        "name": "icon-exportImg",
+        "className": "icon-exportImg",
+        "unicode": "e9cf"
+    },
+    {
+        "name": "icon-showTable",
+        "className": "icon-showTable",
+        "unicode": "e9d0"
+    },
+    {
+        "name": "icon-navbar-feedback",
+        "className": "icon-navbar-feedback",
+        "unicode": "e9d1"
+    },
+    {
+        "name": "icon-navbar-troubleFeedback",
+        "className": "icon-navbar-troubleFeedback",
+        "unicode": "e9d2"
+    },
+    {
+        "name": "icon-navbar-suggestions",
+        "className": "icon-navbar-suggestions",
+        "unicode": "e9d3"
+    },
+    {
+        "name": "icon-navbar-participationInResearch",
+        "className": "icon-navbar-participationInResearch",
+        "unicode": "e9d4"
+    },
+    {
+        "name": "icon-navbar-contactUs",
+        "className": "icon-navbar-contactUs",
+        "unicode": "e9d5"
+    },
+    {
+        "name": "icon-navbar-enterprise",
+        "className": "icon-navbar-enterprise",
+        "unicode": "e9d6"
+    },
+    {
+        "name": "icon-studio-nav-github",
+        "className": "icon-studio-nav-github",
+        "unicode": "e9d7"
     }
 ]

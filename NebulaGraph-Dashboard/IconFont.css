@@ -1,8 +1,8 @@
 @font-face {
     font-family: "IconFont";
-    src: url('IconFont.woff2?t=1667200757613') format('woff2'),
-        url('IconFont.woff?t=1667200757613') format('woff'),
-        url('IconFont.ttf?t=1667200757613') format('truetype');
+    src: url('IconFont.woff2?t=1668413555246') format('woff2'),
+        url('IconFont.woff?t=1668413555246') format('woff'),
+        url('IconFont.ttf?t=1668413555246') format('truetype');
 }
 
 .iconfont {
@@ -82,50 +82,59 @@
 .icon-iconnav-processManagement:before { content: "\e942"; }
 .icon-iconnav-leaderDistributed:before { content: "\e943"; }
 .icon-iconnav-partionDistributed:before { content: "\e944"; }
-.icon-iconnav-accountManagement:before { content: "\e945"; }
-.icon-iconnav-accountList:before { content: "\e946"; }
-.icon-iconnav-operationRecord:before { content: "\e947"; }
-.icon-iconnav-versionManagement:before { content: "\e948"; }
-.icon-iconnav-multiCluster:before { content: "\e949"; }
-.icon-iconswitch:before { content: "\e94a"; }
-.icon-iconnav-setting:before { content: "\e94b"; }
-.icon-iconnav-systemSetting:before { content: "\e94c"; }
-.icon-iconnav-operationLog:before { content: "\e94d"; }
-.icon-iconnav-book:before { content: "\e94e"; }
-.icon-iconDownload:before { content: "\e94f"; }
-.icon-iconWebLink:before { content: "\e950"; }
-.icon-iconnav-Capacity:before { content: "\e951"; }
-.icon-iconclose:before { content: "\e952"; }
-.icon-iconoverview-alert:before { content: "\e953"; }
-.icon-iconoverview-ignore:before { content: "\e954"; }
-.icon-iconrefresh:before { content: "\e955"; }
-.icon-iconfilter:before { content: "\e956"; }
-.icon-iconnav-notification:before { content: "\e957"; }
-.icon-iconnav-alertMessages:before { content: "\e958"; }
-.icon-iconnav-alertRules:before { content: "\e959"; }
-.icon-iconnav-recipientSettings:before { content: "\e95a"; }
-.icon-iconsettings-systemSettings:before { content: "\e95b"; }
-.icon-iconsettings-notificationEndpoint:before { content: "\e95c"; }
-.icon-iconsettings-othersettings:before { content: "\e95d"; }
-.icon-iconalert-edit:before { content: "\e95e"; }
-.icon-iconalert-delete:before { content: "\e95f"; }
-.icon-icontime:before { content: "\e960"; }
-.icon-iconnav-taskCenter:before { content: "\e961"; }
-.icon-iconnav-memberManagement:before { content: "\e962"; }
-.icon-iconzoom-in:before { content: "\e963"; }
-.icon-iconnav-clusterDiagnostics:before { content: "\e964"; }
-.icon-iconnav-rightTriangle:before { content: "\e965"; }
-.icon-iconnav-leftTriangle:before { content: "\e966"; }
-.icon-iconnav-tvMode:before { content: "\e967"; }
-.icon-iconnav-JobMangement:before { content: "\e968"; }
-.icon-iconFailed:before { content: "\e969"; }
-.icon-iconnav-VersionUpgrade:before { content: "\e96a"; }
-.icon-iconsettings-packageMangement:before { content: "\e96b"; }
-.icon-iconnav-dependencies:before { content: "\e96c"; }
-.icon-iconnav-dataSynchronization:before { content: "\e96d"; }
-.icon-iconnav-Backup-Restore:before { content: "\e96e"; }
-.icon-iconnav-auditLogs:before { content: "\e96f"; }
-.icon-iconsettings-singleSignon:before { content: "\e970"; }
+.icon-iconnav-accountList:before { content: "\e945"; }
+.icon-iconnav-operationRecord:before { content: "\e946"; }
+.icon-iconnav-versionManagement:before { content: "\e947"; }
+.icon-iconnav-multiCluster:before { content: "\e948"; }
+.icon-iconswitch:before { content: "\e949"; }
+.icon-iconnav-setting:before { content: "\e94a"; }
+.icon-iconnav-systemSetting:before { content: "\e94b"; }
+.icon-iconnav-operationLog:before { content: "\e94c"; }
+.icon-iconnav-book:before { content: "\e94d"; }
+.icon-iconDownload:before { content: "\e94e"; }
+.icon-iconWebLink:before { content: "\e94f"; }
+.icon-iconnav-Capacity:before { content: "\e950"; }
+.icon-iconclose:before { content: "\e951"; }
+.icon-iconoverview-alert:before { content: "\e952"; }
+.icon-iconoverview-ignore:before { content: "\e953"; }
+.icon-iconrefresh:before { content: "\e954"; }
+.icon-iconfilter:before { content: "\e955"; }
+.icon-iconnav-notification:before { content: "\e956"; }
+.icon-iconnav-alertMessages:before { content: "\e957"; }
+.icon-iconnav-alertRules:before { content: "\e958"; }
+.icon-iconnav-recipientSettings:before { content: "\e959"; }
+.icon-iconsettings-systemSettings:before { content: "\e95a"; }
+.icon-iconsettings-notificationEndpoint:before { content: "\e95b"; }
+.icon-iconsettings-othersettings:before { content: "\e95c"; }
+.icon-iconalert-edit:before { content: "\e95d"; }
+.icon-iconalert-delete:before { content: "\e95e"; }
+.icon-icontime:before { content: "\e95f"; }
+.icon-iconnav-taskCenter:before { content: "\e960"; }
+.icon-iconnav-memberManagement:before { content: "\e961"; }
+.icon-iconzoom-in:before { content: "\e962"; }
+.icon-iconnav-clusterDiagnostics:before { content: "\e963"; }
+.icon-iconnav-rightTriangle:before { content: "\e964"; }
+.icon-iconnav-leftTriangle:before { content: "\e965"; }
+.icon-iconnav-tvMode:before { content: "\e966"; }
+.icon-iconnav-JobMangement:before { content: "\e967"; }
+.icon-iconFailed:before { content: "\e968"; }
+.icon-iconnav-VersionUpgrade:before { content: "\e969"; }
+.icon-iconsettings-packageMangement:before { content: "\e96a"; }
+.icon-iconnav-dependencies:before { content: "\e96b"; }
+.icon-iconnav-dataSynchronization:before { content: "\e96c"; }
+.icon-iconnav-Backup-Restore:before { content: "\e96d"; }
+.icon-iconnav-auditLogs:before { content: "\e96e"; }
+.icon-iconnav-feedback:before { content: "\e96f"; }
+.icon-iconnav-help:before { content: "\e970"; }
+.icon-iconnav-troubleFeedback:before { content: "\e971"; }
+.icon-iconnav-suggestions:before { content: "\e972"; }
+.icon-iconnav-participationInResearch:before { content: "\e973"; }
+.icon-iconnav-contactUs:before { content: "\e974"; }
+.icon-iconnav-accountManagement:before { content: "\e975"; }
+.icon-iconsettings-singleSignon:before { content: "\e976"; }
+.icon-iconnav-connect:before { content: "\e977"; }
+.icon-iconnav-enterprise:before { content: "\e978"; }
+.icon-iconnav-github:before { content: "\e979"; }
 
 
 /**
