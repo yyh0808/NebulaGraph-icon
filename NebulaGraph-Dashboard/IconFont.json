@@ -420,193 +420,198 @@
         "unicode": "e953"
     },
     {
-        "name": "iconrefresh",
-        "className": "iconrefresh",
-        "unicode": "e954"
-    },
-    {
         "name": "iconfilter",
         "className": "iconfilter",
-        "unicode": "e955"
+        "unicode": "e954"
     },
     {
         "name": "iconnav-notification",
         "className": "iconnav-notification",
-        "unicode": "e956"
+        "unicode": "e955"
     },
     {
         "name": "iconnav-alertMessages",
         "className": "iconnav-alertMessages",
-        "unicode": "e957"
+        "unicode": "e956"
     },
     {
         "name": "iconnav-alertRules",
         "className": "iconnav-alertRules",
-        "unicode": "e958"
+        "unicode": "e957"
     },
     {
         "name": "iconnav-recipientSettings",
         "className": "iconnav-recipientSettings",
-        "unicode": "e959"
+        "unicode": "e958"
     },
     {
         "name": "iconsettings-systemSettings",
         "className": "iconsettings-systemSettings",
-        "unicode": "e95a"
+        "unicode": "e959"
     },
     {
         "name": "iconsettings-notificationEndpoint",
         "className": "iconsettings-notificationEndpoint",
-        "unicode": "e95b"
+        "unicode": "e95a"
     },
     {
         "name": "iconsettings-othersettings",
         "className": "iconsettings-othersettings",
-        "unicode": "e95c"
+        "unicode": "e95b"
     },
     {
         "name": "iconalert-edit",
         "className": "iconalert-edit",
-        "unicode": "e95d"
+        "unicode": "e95c"
     },
     {
         "name": "iconalert-delete",
         "className": "iconalert-delete",
-        "unicode": "e95e"
+        "unicode": "e95d"
     },
     {
         "name": "icontime",
         "className": "icontime",
-        "unicode": "e95f"
+        "unicode": "e95e"
     },
     {
         "name": "iconnav-taskCenter",
         "className": "iconnav-taskCenter",
-        "unicode": "e960"
+        "unicode": "e95f"
     },
     {
         "name": "iconnav-memberManagement",
         "className": "iconnav-memberManagement",
-        "unicode": "e961"
+        "unicode": "e960"
     },
     {
         "name": "iconzoom-in",
         "className": "iconzoom-in",
-        "unicode": "e962"
+        "unicode": "e961"
     },
     {
         "name": "iconnav-clusterDiagnostics",
         "className": "iconnav-clusterDiagnostics",
-        "unicode": "e963"
+        "unicode": "e962"
     },
     {
         "name": "iconnav-rightTriangle",
         "className": "iconnav-rightTriangle",
-        "unicode": "e964"
+        "unicode": "e963"
     },
     {
         "name": "iconnav-leftTriangle",
         "className": "iconnav-leftTriangle",
-        "unicode": "e965"
+        "unicode": "e964"
     },
     {
         "name": "iconnav-tvMode",
         "className": "iconnav-tvMode",
-        "unicode": "e966"
+        "unicode": "e965"
     },
     {
         "name": "iconnav-JobMangement",
         "className": "iconnav-JobMangement",
-        "unicode": "e967"
+        "unicode": "e966"
     },
     {
         "name": "iconFailed",
         "className": "iconFailed",
-        "unicode": "e968"
+        "unicode": "e967"
     },
     {
         "name": "iconnav-VersionUpgrade",
         "className": "iconnav-VersionUpgrade",
-        "unicode": "e969"
+        "unicode": "e968"
     },
     {
         "name": "iconsettings-packageMangement",
         "className": "iconsettings-packageMangement",
-        "unicode": "e96a"
+        "unicode": "e969"
     },
     {
         "name": "iconnav-dependencies",
         "className": "iconnav-dependencies",
-        "unicode": "e96b"
+        "unicode": "e96a"
     },
     {
         "name": "iconnav-dataSynchronization",
         "className": "iconnav-dataSynchronization",
-        "unicode": "e96c"
+        "unicode": "e96b"
     },
     {
         "name": "iconnav-Backup-Restore",
         "className": "iconnav-Backup-Restore",
-        "unicode": "e96d"
+        "unicode": "e96c"
     },
     {
         "name": "iconnav-auditLogs",
         "className": "iconnav-auditLogs",
-        "unicode": "e96e"
+        "unicode": "e96d"
     },
     {
         "name": "iconnav-feedback",
         "className": "iconnav-feedback",
-        "unicode": "e96f"
+        "unicode": "e96e"
     },
     {
         "name": "iconnav-help",
         "className": "iconnav-help",
-        "unicode": "e970"
+        "unicode": "e96f"
     },
     {
         "name": "iconnav-troubleFeedback",
         "className": "iconnav-troubleFeedback",
-        "unicode": "e971"
+        "unicode": "e970"
     },
     {
         "name": "iconnav-suggestions",
         "className": "iconnav-suggestions",
-        "unicode": "e972"
+        "unicode": "e971"
     },
     {
         "name": "iconnav-participationInResearch",
         "className": "iconnav-participationInResearch",
-        "unicode": "e973"
+        "unicode": "e972"
     },
     {
         "name": "iconnav-contactUs",
         "className": "iconnav-contactUs",
-        "unicode": "e974"
+        "unicode": "e973"
     },
     {
         "name": "iconnav-accountManagement",
         "className": "iconnav-accountManagement",
-        "unicode": "e975"
+        "unicode": "e974"
     },
     {
         "name": "iconsettings-singleSignon",
         "className": "iconsettings-singleSignon",
-        "unicode": "e976"
+        "unicode": "e975"
     },
     {
         "name": "iconnav-connect",
         "className": "iconnav-connect",
-        "unicode": "e977"
+        "unicode": "e976"
     },
     {
         "name": "iconnav-enterprise",
         "className": "iconnav-enterprise",
-        "unicode": "e978"
+        "unicode": "e977"
     },
     {
         "name": "iconnav-github",
         "className": "iconnav-github",
+        "unicode": "e978"
+    },
+    {
+        "name": "iconrefresh",
+        "className": "iconrefresh",
         "unicode": "e979"
+    },
+    {
+        "name": "iconnav-serviceLogs",
+        "className": "iconnav-serviceLogs",
+        "unicode": "e97a"
     }
 ]
