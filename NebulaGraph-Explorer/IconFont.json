@@ -70,1013 +70,1033 @@
         "unicode": "e90d"
     },
     {
-        "name": "icon-list-close",
-        "className": "icon-list-close",
-        "unicode": "e90e"
-    },
-    {
         "name": "icon-list-down",
         "className": "icon-list-down",
-        "unicode": "e90f"
+        "unicode": "e90e"
     },
     {
         "name": "icon-list-up",
         "className": "icon-list-up",
-        "unicode": "e910"
+        "unicode": "e90f"
     },
     {
         "name": "icon-list-right",
         "className": "icon-list-right",
-        "unicode": "e911"
+        "unicode": "e910"
     },
     {
         "name": "icon-list-left",
         "className": "icon-list-left",
-        "unicode": "e912"
+        "unicode": "e911"
     },
     {
         "name": "icon-topbar-exportCSV",
         "className": "icon-topbar-exportCSV",
-        "unicode": "e913"
+        "unicode": "e912"
     },
     {
         "name": "icon-topbar-exportSVG",
         "className": "icon-topbar-exportSVG",
-        "unicode": "e914"
+        "unicode": "e913"
     },
     {
         "name": "icon-topbar-exportPNG",
         "className": "icon-topbar-exportPNG",
-        "unicode": "e915"
+        "unicode": "e914"
     },
     {
         "name": "icon-Thumbnail-treeView",
         "className": "icon-Thumbnail-treeView",
-        "unicode": "e916"
+        "unicode": "e915"
     },
     {
         "name": "icon-Thumbnail-pack_up2",
         "className": "icon-Thumbnail-pack_up2",
-        "unicode": "e917"
+        "unicode": "e916"
     },
     {
         "name": "icon-Thumbnail-sphereView",
         "className": "icon-Thumbnail-sphereView",
-        "unicode": "e918"
+        "unicode": "e917"
     },
     {
         "name": "icon-Thumbnail-pack_up",
         "className": "icon-Thumbnail-pack_up",
-        "unicode": "e919"
+        "unicode": "e918"
     },
     {
         "name": "icon-Thumbnail-zoomout",
         "className": "icon-Thumbnail-zoomout",
-        "unicode": "e91a"
+        "unicode": "e919"
     },
     {
         "name": "icon-Thumbnail-zoomin",
         "className": "icon-Thumbnail-zoomin",
-        "unicode": "e91b"
+        "unicode": "e91a"
     },
     {
         "name": "icon-Thumbnail-moveCanvas",
         "className": "icon-Thumbnail-moveCanvas",
-        "unicode": "e91c"
+        "unicode": "e91b"
     },
     {
         "name": "icon-Thumbnail-fullscreen",
         "className": "icon-Thumbnail-fullscreen",
-        "unicode": "e91d"
-    },
-    {
-        "name": "icon-Thumbnail-graphView",
-        "className": "icon-Thumbnail-graphView",
-        "unicode": "e91e"
+        "unicode": "e91c"
     },
     {
         "name": "icon-topbar-close",
         "className": "icon-topbar-close",
-        "unicode": "e91f"
+        "unicode": "e91d"
     },
     {
         "name": "icon-topbar-export",
         "className": "icon-topbar-export",
-        "unicode": "e920"
+        "unicode": "e91e"
     },
     {
         "name": "icon-login-Language",
         "className": "icon-login-Language",
-        "unicode": "e921"
+        "unicode": "e91f"
     },
     {
         "name": "icon-list-delete",
         "className": "icon-list-delete",
-        "unicode": "e922"
+        "unicode": "e920"
     },
     {
         "name": "icon-image-icon7",
         "className": "icon-image-icon7",
-        "unicode": "e923"
+        "unicode": "e921"
     },
     {
         "name": "icon-image-icon6",
         "className": "icon-image-icon6",
-        "unicode": "e924"
+        "unicode": "e922"
     },
     {
         "name": "icon-image-icon12",
         "className": "icon-image-icon12",
-        "unicode": "e925"
+        "unicode": "e923"
     },
     {
         "name": "icon-image-icon5",
         "className": "icon-image-icon5",
-        "unicode": "e926"
+        "unicode": "e924"
     },
     {
         "name": "icon-image-icon10",
         "className": "icon-image-icon10",
-        "unicode": "e927"
+        "unicode": "e925"
     },
     {
         "name": "icon-image-icon11",
         "className": "icon-image-icon11",
-        "unicode": "e928"
+        "unicode": "e926"
     },
     {
         "name": "icon-image-icon9",
         "className": "icon-image-icon9",
-        "unicode": "e929"
+        "unicode": "e927"
     },
     {
         "name": "icon-image-iconUnselect",
         "className": "icon-image-iconUnselect",
-        "unicode": "e92a"
+        "unicode": "e928"
     },
     {
         "name": "icon-image-icon17",
         "className": "icon-image-icon17",
-        "unicode": "e92b"
+        "unicode": "e929"
     },
     {
         "name": "icon-image-icon18",
         "className": "icon-image-icon18",
-        "unicode": "e92c"
+        "unicode": "e92a"
     },
     {
         "name": "icon-image-icon19",
         "className": "icon-image-icon19",
-        "unicode": "e92d"
+        "unicode": "e92b"
     },
     {
         "name": "icon-image-icon20",
         "className": "icon-image-icon20",
-        "unicode": "e92e"
+        "unicode": "e92c"
     },
     {
         "name": "icon-image-icon22",
         "className": "icon-image-icon22",
-        "unicode": "e92f"
+        "unicode": "e92d"
     },
     {
         "name": "icon-image-icon23",
         "className": "icon-image-icon23",
-        "unicode": "e930"
+        "unicode": "e92e"
     },
     {
         "name": "icon-image-icon29",
         "className": "icon-image-icon29",
-        "unicode": "e931"
+        "unicode": "e92f"
     },
     {
         "name": "icon-image-icon28",
         "className": "icon-image-icon28",
-        "unicode": "e932"
+        "unicode": "e930"
     },
     {
         "name": "icon-image-icon27",
         "className": "icon-image-icon27",
-        "unicode": "e933"
+        "unicode": "e931"
     },
     {
         "name": "icon-image-icon26",
         "className": "icon-image-icon26",
-        "unicode": "e934"
+        "unicode": "e932"
     },
     {
         "name": "icon-image-icon25",
         "className": "icon-image-icon25",
-        "unicode": "e935"
+        "unicode": "e933"
     },
     {
         "name": "icon-image-icon24",
         "className": "icon-image-icon24",
-        "unicode": "e936"
-    },
-    {
-        "name": "icon-image-icon21",
-        "className": "icon-image-icon21",
-        "unicode": "e937"
+        "unicode": "e934"
     },
     {
         "name": "icon-image-icon13",
         "className": "icon-image-icon13",
-        "unicode": "e938"
+        "unicode": "e935"
     },
     {
         "name": "icon-image-icon1",
         "className": "icon-image-icon1",
-        "unicode": "e939"
+        "unicode": "e936"
     },
     {
         "name": "icon-image-icon2",
         "className": "icon-image-icon2",
-        "unicode": "e93a"
+        "unicode": "e937"
     },
     {
         "name": "icon-image-icon3",
         "className": "icon-image-icon3",
-        "unicode": "e93b"
+        "unicode": "e938"
     },
     {
         "name": "icon-image-icon4",
         "className": "icon-image-icon4",
-        "unicode": "e93c"
+        "unicode": "e939"
     },
     {
         "name": "icon-image-icon14",
         "className": "icon-image-icon14",
-        "unicode": "e93d"
+        "unicode": "e93a"
     },
     {
         "name": "icon-image-icon8",
         "className": "icon-image-icon8",
-        "unicode": "e93e"
+        "unicode": "e93b"
     },
     {
         "name": "icon-image-icon15",
         "className": "icon-image-icon15",
-        "unicode": "e93f"
+        "unicode": "e93c"
     },
     {
         "name": "icon-image-icon16",
         "className": "icon-image-icon16",
-        "unicode": "e940"
+        "unicode": "e93d"
     },
     {
         "name": "icon-graph-snapshot",
         "className": "icon-graph-snapshot",
-        "unicode": "e941"
+        "unicode": "e93e"
     },
     {
         "name": "icon-console-export",
         "className": "icon-console-export",
-        "unicode": "e942"
-    },
-    {
-        "name": "icon-console-import",
-        "className": "icon-console-import",
-        "unicode": "e943"
+        "unicode": "e93f"
     },
     {
         "name": "icon-topbar-BirdView",
         "className": "icon-topbar-BirdView",
-        "unicode": "e944"
+        "unicode": "e940"
     },
     {
         "name": "icon-topbar-autoSize",
         "className": "icon-topbar-autoSize",
-        "unicode": "e945"
+        "unicode": "e941"
     },
     {
         "name": "icon-topbar-resetSize",
         "className": "icon-topbar-resetSize",
-        "unicode": "e946"
+        "unicode": "e942"
     },
     {
         "name": "icon-topbar-isolatedVertex",
         "className": "icon-topbar-isolatedVertex",
-        "unicode": "e947"
+        "unicode": "e943"
     },
     {
         "name": "icon-topbar-hangEdge",
         "className": "icon-topbar-hangEdge",
-        "unicode": "e948"
+        "unicode": "e944"
     },
     {
         "name": "icon-topbar-circle",
         "className": "icon-topbar-circle",
-        "unicode": "e949"
+        "unicode": "e945"
     },
     {
         "name": "icon-Thumbnail-neuralNetwork",
         "className": "icon-Thumbnail-neuralNetwork",
-        "unicode": "e94a"
+        "unicode": "e946"
     },
     {
         "name": "icon-Thumbnail-Radial",
         "className": "icon-Thumbnail-Radial",
-        "unicode": "e94b"
+        "unicode": "e947"
     },
     {
         "name": "icon-Thumbnail-Grid",
         "className": "icon-Thumbnail-Grid",
-        "unicode": "e94c"
+        "unicode": "e948"
     },
     {
         "name": "icon-canvas-search",
         "className": "icon-canvas-search",
-        "unicode": "e94d"
+        "unicode": "e949"
     },
     {
         "name": "icon-snapshot-export",
         "className": "icon-snapshot-export",
-        "unicode": "e94e"
+        "unicode": "e94a"
     },
     {
         "name": "icon-snapshot-delete",
         "className": "icon-snapshot-delete",
-        "unicode": "e94f"
+        "unicode": "e94b"
     },
     {
         "name": "icon-snapshot-import",
         "className": "icon-snapshot-import",
-        "unicode": "e950"
+        "unicode": "e94c"
     },
     {
         "name": "icon-Duplicate",
         "className": "icon-Duplicate",
-        "unicode": "e951"
+        "unicode": "e94d"
     },
     {
         "name": "icon-visual-nav-zoomin",
         "className": "icon-visual-nav-zoomin",
-        "unicode": "e952"
+        "unicode": "e94e"
     },
     {
         "name": "icon-visual-nav-zoomout",
         "className": "icon-visual-nav-zoomout",
-        "unicode": "e953"
+        "unicode": "e94f"
     },
     {
         "name": "icon-visual-nav-history",
         "className": "icon-visual-nav-history",
-        "unicode": "e954"
+        "unicode": "e950"
     },
     {
         "name": "icon-visual-nav-select",
         "className": "icon-visual-nav-select",
-        "unicode": "e955"
+        "unicode": "e951"
     },
     {
         "name": "icon-visual-nav-save",
         "className": "icon-visual-nav-save",
-        "unicode": "e956"
+        "unicode": "e952"
     },
     {
         "name": "icon-visual-filter",
         "className": "icon-visual-filter",
-        "unicode": "e957"
+        "unicode": "e953"
     },
     {
         "name": "icon-visual-nav-output",
         "className": "icon-visual-nav-output",
-        "unicode": "e958"
+        "unicode": "e954"
     },
     {
         "name": "icon-visual-border-adaptive",
         "className": "icon-visual-border-adaptive",
-        "unicode": "e959"
+        "unicode": "e955"
     },
     {
         "name": "icon-navbar-explorer",
         "className": "icon-navbar-explorer",
-        "unicode": "e95a"
-    },
-    {
-        "name": "icon-navbar-help",
-        "className": "icon-navbar-help",
-        "unicode": "e95b"
+        "unicode": "e956"
     },
     {
         "name": "icon-navbar-language",
         "className": "icon-navbar-language",
-        "unicode": "e95c"
+        "unicode": "e957"
     },
     {
         "name": "icon-navbar-schema",
         "className": "icon-navbar-schema",
-        "unicode": "e95d"
+        "unicode": "e958"
     },
     {
         "name": "icon-navbar-import",
         "className": "icon-navbar-import",
-        "unicode": "e95e"
+        "unicode": "e959"
     },
     {
         "name": "icon-navbar-console",
         "className": "icon-navbar-console",
-        "unicode": "e95f"
+        "unicode": "e95a"
     },
     {
         "name": "icon-Thumbnail-pack_down",
         "className": "icon-Thumbnail-pack_down",
-        "unicode": "e960"
+        "unicode": "e95b"
     },
     {
         "name": "icon-workflow-run",
         "className": "icon-workflow-run",
-        "unicode": "e961"
+        "unicode": "e95c"
     },
     {
         "name": "icon-workflow-open",
         "className": "icon-workflow-open",
-        "unicode": "e962"
+        "unicode": "e95d"
     },
     {
         "name": "icon-workflow-jobs",
         "className": "icon-workflow-jobs",
-        "unicode": "e963"
+        "unicode": "e95e"
     },
     {
         "name": "icon-workflow-stop",
         "className": "icon-workflow-stop",
-        "unicode": "e964"
+        "unicode": "e95f"
     },
     {
         "name": "icon-workflow-more",
         "className": "icon-workflow-more",
-        "unicode": "e965"
+        "unicode": "e960"
     },
     {
         "name": "icon-workflow-viewResult",
         "className": "icon-workflow-viewResult",
-        "unicode": "e966"
-    },
-    {
-        "name": "icon-workflow-edit",
-        "className": "icon-workflow-edit",
-        "unicode": "e967"
+        "unicode": "e961"
     },
     {
         "name": "icon-workflow-script",
         "className": "icon-workflow-script",
-        "unicode": "e968"
+        "unicode": "e962"
     },
     {
         "name": "icon-workflow-save",
         "className": "icon-workflow-save",
-        "unicode": "e969"
+        "unicode": "e963"
     },
     {
         "name": "icon-workflow-saveAs",
         "className": "icon-workflow-saveAs",
-        "unicode": "e96a"
+        "unicode": "e964"
     },
     {
         "name": "icon-workflow-viewLog",
         "className": "icon-workflow-viewLog",
-        "unicode": "e96b"
+        "unicode": "e965"
     },
     {
         "name": "icon-workflow-Component-Query",
         "className": "icon-workflow-Component-Query",
-        "unicode": "e96c"
+        "unicode": "e966"
     },
     {
         "name": "icon-workflow-Component-Node-measurement",
         "className": "icon-workflow-Component-Node-measurement",
-        "unicode": "e96d"
+        "unicode": "e967"
     },
     {
         "name": "icon-workflow-Component-Path",
         "className": "icon-workflow-Component-Path",
-        "unicode": "e96e"
+        "unicode": "e968"
     },
     {
         "name": "icon-workflow-Component-Graph-feature",
         "className": "icon-workflow-Component-Graph-feature",
-        "unicode": "e96f"
+        "unicode": "e969"
     },
     {
         "name": "icon-workflow-Component-Community-discovery",
         "className": "icon-workflow-Component-Community-discovery",
-        "unicode": "e970"
+        "unicode": "e96a"
     },
     {
         "name": "icon-workflow-Component-Clustering",
         "className": "icon-workflow-Component-Clustering",
-        "unicode": "e971"
+        "unicode": "e96b"
     },
     {
         "name": "icon-workflow-search",
         "className": "icon-workflow-search",
-        "unicode": "e972"
+        "unicode": "e96c"
     },
     {
         "name": "icon-workflow-history",
         "className": "icon-workflow-history",
-        "unicode": "e973"
+        "unicode": "e96d"
     },
     {
         "name": "icon-workflow-comparison",
         "className": "icon-workflow-comparison",
-        "unicode": "e974"
+        "unicode": "e96e"
     },
     {
         "name": "icon-workflow-configuration",
         "className": "icon-workflow-configuration",
-        "unicode": "e975"
+        "unicode": "e96f"
     },
     {
         "name": "icon-navbar-queryTemplate",
         "className": "icon-navbar-queryTemplate",
-        "unicode": "e976"
+        "unicode": "e970"
     },
     {
         "name": "icon-topbar-relations",
         "className": "icon-topbar-relations",
-        "unicode": "e977"
+        "unicode": "e971"
     },
     {
         "name": "icon-workflow-autoLayout",
         "className": "icon-workflow-autoLayout",
-        "unicode": "e978"
+        "unicode": "e972"
     },
     {
         "name": "icon-TreeDiagram",
         "className": "icon-TreeDiagram",
-        "unicode": "e979"
+        "unicode": "e973"
     },
     {
         "name": "icon-topbar-oneDegree",
         "className": "icon-topbar-oneDegree",
-        "unicode": "e97a"
+        "unicode": "e974"
     },
     {
         "name": "icon-topbar-edgeClustering",
         "className": "icon-topbar-edgeClustering",
-        "unicode": "e97b"
+        "unicode": "e975"
     },
     {
         "name": "icon-topbar-cancelEdgeClustering",
         "className": "icon-topbar-cancelEdgeClustering",
-        "unicode": "e97c"
+        "unicode": "e976"
     },
     {
         "name": "icon-topbar-autoEdgeClustering",
         "className": "icon-topbar-autoEdgeClustering",
-        "unicode": "e97d"
+        "unicode": "e977"
     },
     {
         "name": "icon-topbar-cancelAutoEdgeClustering",
         "className": "icon-topbar-cancelAutoEdgeClustering",
-        "unicode": "e97e"
+        "unicode": "e978"
     },
     {
         "name": "icon-nav-query",
         "className": "icon-nav-query",
-        "unicode": "e97f"
+        "unicode": "e979"
     },
     {
         "name": "icon-nav-frameSelect",
         "className": "icon-nav-frameSelect",
-        "unicode": "e980"
+        "unicode": "e97a"
     },
     {
         "name": "icon-nav-frameSelect-plus",
         "className": "icon-nav-frameSelect-plus",
-        "unicode": "e981"
+        "unicode": "e97b"
     },
     {
         "name": "icon-nav-frameSelect-subtract",
         "className": "icon-nav-frameSelect-subtract",
-        "unicode": "e982"
+        "unicode": "e97c"
     },
     {
         "name": "icon-nav-freeSelect",
         "className": "icon-nav-freeSelect",
-        "unicode": "e983"
+        "unicode": "e97d"
     },
     {
         "name": "icon-nav-polygonSelect",
         "className": "icon-nav-polygonSelect",
-        "unicode": "e984"
+        "unicode": "e97e"
     },
     {
         "name": "icon-nav-singleSelect",
         "className": "icon-nav-singleSelect",
-        "unicode": "e985"
+        "unicode": "e97f"
     },
     {
         "name": "icon-nav-filter",
         "className": "icon-nav-filter",
-        "unicode": "e986"
+        "unicode": "e980"
     },
     {
         "name": "icon-nav-expand",
         "className": "icon-nav-expand",
-        "unicode": "e987"
+        "unicode": "e981"
     },
     {
         "name": "icon-nav-commonNeighbor",
         "className": "icon-nav-commonNeighbor",
-        "unicode": "e988"
+        "unicode": "e982"
     },
     {
         "name": "icon-nav-findPath",
         "className": "icon-nav-findPath",
-        "unicode": "e989"
+        "unicode": "e983"
     },
     {
         "name": "icon-nav-graphCalculation",
         "className": "icon-nav-graphCalculation",
-        "unicode": "e98a"
+        "unicode": "e984"
     },
     {
         "name": "icon-nav-taskList",
         "className": "icon-nav-taskList",
-        "unicode": "e98b"
+        "unicode": "e985"
     },
     {
         "name": "icon-nav-console",
         "className": "icon-nav-console",
-        "unicode": "e98c"
+        "unicode": "e986"
     },
     {
         "name": "icon-nav-query2",
         "className": "icon-nav-query2",
-        "unicode": "e98d"
+        "unicode": "e987"
     },
     {
         "name": "icon-nav-propertyCalculation",
         "className": "icon-nav-propertyCalculation",
-        "unicode": "e98e"
+        "unicode": "e988"
     },
     {
         "name": "icon-nav-propertyView",
         "className": "icon-nav-propertyView",
-        "unicode": "e98f"
+        "unicode": "e989"
     },
     {
         "name": "icon-nav-graphSpace",
         "className": "icon-nav-graphSpace",
-        "unicode": "e990"
+        "unicode": "e98a"
     },
     {
         "name": "icon-nav-delete",
         "className": "icon-nav-delete",
-        "unicode": "e991"
+        "unicode": "e98b"
     },
     {
         "name": "icon-nav-deleteReverse",
         "className": "icon-nav-deleteReverse",
-        "unicode": "e992"
+        "unicode": "e98c"
     },
     {
         "name": "icon-nav-Revoke",
         "className": "icon-nav-Revoke",
-        "unicode": "e993"
+        "unicode": "e98d"
     },
     {
         "name": "icon-nav-help",
         "className": "icon-nav-help",
-        "unicode": "e994"
+        "unicode": "e98e"
     },
     {
         "name": "icon-nav-setup",
         "className": "icon-nav-setup",
-        "unicode": "e995"
+        "unicode": "e98f"
     },
     {
         "name": "icon-nav-setup2",
         "className": "icon-nav-setup2",
-        "unicode": "e996"
+        "unicode": "e990"
     },
     {
         "name": "icon-nav-moveCanvas",
         "className": "icon-nav-moveCanvas",
-        "unicode": "e997"
+        "unicode": "e991"
     },
     {
         "name": "icon-nav-subscript",
         "className": "icon-nav-subscript",
-        "unicode": "e998"
+        "unicode": "e992"
     },
     {
         "name": "icon-nav-subscript-2",
         "className": "icon-nav-subscript-2",
-        "unicode": "e999"
+        "unicode": "e993"
     },
     {
         "name": "icon-nav-miss",
         "className": "icon-nav-miss",
-        "unicode": "e99a"
+        "unicode": "e994"
     },
     {
         "name": "icon-nav-missReverse",
         "className": "icon-nav-missReverse",
-        "unicode": "e99b"
+        "unicode": "e995"
     },
     {
         "name": "icon-nav-others",
         "className": "icon-nav-others",
-        "unicode": "e99c"
+        "unicode": "e996"
     },
     {
         "name": "icon-nav-Redo",
         "className": "icon-nav-Redo",
-        "unicode": "e99d"
+        "unicode": "e997"
     },
     {
         "name": "icon-snapshot-history",
         "className": "icon-snapshot-history",
-        "unicode": "e99e"
+        "unicode": "e998"
     },
     {
         "name": "icon-navbar-sketch",
         "className": "icon-navbar-sketch",
-        "unicode": "e99f"
+        "unicode": "e999"
     },
     {
         "name": "icon-navbar-doc",
         "className": "icon-navbar-doc",
-        "unicode": "e9a0"
+        "unicode": "e99a"
     },
     {
         "name": "icon-navbar-video",
         "className": "icon-navbar-video",
-        "unicode": "e9a1"
+        "unicode": "e99b"
     },
     {
         "name": "icon-navbar-beginner",
         "className": "icon-navbar-beginner",
-        "unicode": "e9a2"
+        "unicode": "e99c"
     },
     {
         "name": "icon-navbar-keys",
         "className": "icon-navbar-keys",
-        "unicode": "e9a3"
+        "unicode": "e99d"
     },
     {
         "name": "icon-studio-nav-schema",
         "className": "icon-studio-nav-schema",
-        "unicode": "e9a4"
+        "unicode": "e99e"
     },
     {
         "name": "icon-studio-nav-import",
         "className": "icon-studio-nav-import",
-        "unicode": "e9a5"
+        "unicode": "e99f"
     },
     {
         "name": "icon-studio-nav-console",
         "className": "icon-studio-nav-console",
-        "unicode": "e9a6"
+        "unicode": "e9a0"
     },
     {
         "name": "icon-studio-nav-help",
         "className": "icon-studio-nav-help",
-        "unicode": "e9a7"
+        "unicode": "e9a1"
     },
     {
         "name": "icon-studio-nav-language",
         "className": "icon-studio-nav-language",
-        "unicode": "e9a8"
+        "unicode": "e9a2"
     },
     {
         "name": "icon-studio-btn-edit",
         "className": "icon-studio-btn-edit",
-        "unicode": "e9a9"
+        "unicode": "e9a3"
     },
     {
         "name": "icon-studio-btn-delete",
         "className": "icon-studio-btn-delete",
-        "unicode": "e9aa"
+        "unicode": "e9a4"
     },
     {
         "name": "icon-studio-btn-download",
         "className": "icon-studio-btn-download",
-        "unicode": "e9ab"
+        "unicode": "e9a5"
     },
     {
         "name": "icon-studio-btn-detail",
         "className": "icon-studio-btn-detail",
-        "unicode": "e9ac"
-    },
-    {
-        "name": "icon-studio-btn-save",
-        "className": "icon-studio-btn-save",
-        "unicode": "e9ad"
+        "unicode": "e9a6"
     },
     {
         "name": "icon-studio-btn-save-fill",
         "className": "icon-studio-btn-save-fill",
-        "unicode": "e9ae"
-    },
-    {
-        "name": "icon-studio-btn-history",
-        "className": "icon-studio-btn-history",
-        "unicode": "e9af"
-    },
-    {
-        "name": "icon-studio-btn-clear",
-        "className": "icon-studio-btn-clear",
-        "unicode": "e9b0"
+        "unicode": "e9a7"
     },
     {
         "name": "icon-studio-btn-play",
         "className": "icon-studio-btn-play",
-        "unicode": "e9b1"
+        "unicode": "e9a8"
     },
     {
         "name": "icon-studio-btn-down",
         "className": "icon-studio-btn-down",
-        "unicode": "e9b2"
-    },
-    {
-        "name": "icon-studio-btn-up",
-        "className": "icon-studio-btn-up",
-        "unicode": "e9b3"
+        "unicode": "e9a9"
     },
     {
         "name": "icon-studio-console-graph",
         "className": "icon-studio-console-graph",
-        "unicode": "e9b4"
+        "unicode": "e9aa"
     },
     {
         "name": "icon-studio-console-table",
         "className": "icon-studio-console-table",
-        "unicode": "e9b5"
+        "unicode": "e9ab"
     },
     {
         "name": "icon-studio-console-logs",
         "className": "icon-studio-console-logs",
-        "unicode": "e9b6"
+        "unicode": "e9ac"
     },
     {
         "name": "icon-studio-console-graphviz",
         "className": "icon-studio-console-graphviz",
-        "unicode": "e9b7"
+        "unicode": "e9ad"
     },
     {
         "name": "icon-studio-console-move",
         "className": "icon-studio-console-move",
-        "unicode": "e9b8"
+        "unicode": "e9ae"
     },
     {
         "name": "icon-studio-console-zoomin",
         "className": "icon-studio-console-zoomin",
-        "unicode": "e9b9"
+        "unicode": "e9af"
     },
     {
         "name": "icon-studio-console-zoomout",
         "className": "icon-studio-console-zoomout",
-        "unicode": "e9ba"
+        "unicode": "e9b0"
     },
     {
         "name": "icon-studio-console-pop",
         "className": "icon-studio-console-pop",
-        "unicode": "e9bb"
+        "unicode": "e9b1"
     },
     {
         "name": "icon-studio-console-lock",
         "className": "icon-studio-console-lock",
-        "unicode": "e9bc"
+        "unicode": "e9b2"
     },
     {
         "name": "icon-studio-console-unlock",
         "className": "icon-studio-console-unlock",
-        "unicode": "e9bd"
+        "unicode": "e9b3"
     },
     {
         "name": "icon-studio-btn-add",
         "className": "icon-studio-btn-add",
-        "unicode": "e9be"
+        "unicode": "e9b4"
     },
     {
         "name": "icon-studio-btn-back",
         "className": "icon-studio-btn-back",
-        "unicode": "e9bf"
+        "unicode": "e9b5"
     },
     {
         "name": "icon-studio-btn-return",
         "className": "icon-studio-btn-return",
-        "unicode": "e9c0"
+        "unicode": "e9b6"
     },
     {
         "name": "icon-studio-nav-version",
         "className": "icon-studio-nav-version",
-        "unicode": "e9c1"
+        "unicode": "e9b7"
     },
     {
         "name": "icon-studio-nav-clear",
         "className": "icon-studio-nav-clear",
-        "unicode": "e9c2"
-    },
-    {
-        "name": "icon-studio-btn-output",
-        "className": "icon-studio-btn-output",
-        "unicode": "e9c3"
-    },
-    {
-        "name": "icon-studio-btn-close",
-        "className": "icon-studio-btn-close",
-        "unicode": "e9c4"
+        "unicode": "e9b8"
     },
     {
         "name": "icon-studio-more",
         "className": "icon-studio-more",
-        "unicode": "e9c5"
+        "unicode": "e9b9"
     },
     {
         "name": "icon-studio-btn-console",
         "className": "icon-studio-btn-console",
-        "unicode": "e9c6"
+        "unicode": "e9ba"
     },
     {
         "name": "icon-navbar-userAuthorization",
         "className": "icon-navbar-userAuthorization",
-        "unicode": "e9c7"
+        "unicode": "e9bb"
     },
     {
         "name": "icon-abnormal",
         "className": "icon-abnormal",
-        "unicode": "e9c8"
+        "unicode": "e9bc"
     },
     {
         "name": "icon-navbar-dbLink",
         "className": "icon-navbar-dbLink",
-        "unicode": "e9c9"
+        "unicode": "e9bd"
     },
     {
         "name": "icon-navbar-logout",
         "className": "icon-navbar-logout",
-        "unicode": "e9ca"
+        "unicode": "e9be"
     },
     {
         "name": "icon-navbar-visualQuery",
         "className": "icon-navbar-visualQuery",
-        "unicode": "e9cb"
+        "unicode": "e9bf"
     },
     {
         "name": "icon-navbar-workflow",
         "className": "icon-navbar-workflow",
-        "unicode": "e9cc"
+        "unicode": "e9c0"
     },
     {
         "name": "icon-studio-btn-ddl",
         "className": "icon-studio-btn-ddl",
-        "unicode": "e9cd"
+        "unicode": "e9c1"
     },
     {
         "name": "icon-nav-timebar",
         "className": "icon-nav-timebar",
-        "unicode": "e9ce"
+        "unicode": "e9c2"
     },
     {
         "name": "icon-exportImg",
         "className": "icon-exportImg",
-        "unicode": "e9cf"
+        "unicode": "e9c3"
     },
     {
         "name": "icon-showTable",
         "className": "icon-showTable",
-        "unicode": "e9d0"
+        "unicode": "e9c4"
     },
     {
         "name": "icon-navbar-feedback",
         "className": "icon-navbar-feedback",
-        "unicode": "e9d1"
+        "unicode": "e9c5"
     },
     {
         "name": "icon-navbar-troubleFeedback",
         "className": "icon-navbar-troubleFeedback",
-        "unicode": "e9d2"
+        "unicode": "e9c6"
     },
     {
         "name": "icon-navbar-suggestions",
         "className": "icon-navbar-suggestions",
-        "unicode": "e9d3"
+        "unicode": "e9c7"
     },
     {
         "name": "icon-navbar-participationInResearch",
         "className": "icon-navbar-participationInResearch",
-        "unicode": "e9d4"
+        "unicode": "e9c8"
     },
     {
         "name": "icon-navbar-contactUs",
         "className": "icon-navbar-contactUs",
-        "unicode": "e9d5"
+        "unicode": "e9c9"
     },
     {
         "name": "icon-navbar-enterprise",
         "className": "icon-navbar-enterprise",
-        "unicode": "e9d6"
+        "unicode": "e9ca"
     },
     {
         "name": "icon-studio-nav-github",
         "className": "icon-studio-nav-github",
+        "unicode": "e9cb"
+    },
+    {
+        "name": "icon-workflow-edit",
+        "className": "icon-workflow-edit",
+        "unicode": "e9cc"
+    },
+    {
+        "name": "icon-list-close",
+        "className": "icon-list-close",
+        "unicode": "e9cd"
+    },
+    {
+        "name": "icon-studio-btn-close",
+        "className": "icon-studio-btn-close",
+        "unicode": "e9ce"
+    },
+    {
+        "name": "icon-image-icon21",
+        "className": "icon-image-icon21",
+        "unicode": "e9cf"
+    },
+    {
+        "name": "icon-navbar-help",
+        "className": "icon-navbar-help",
+        "unicode": "e9d0"
+    },
+    {
+        "name": "icon-console-import",
+        "className": "icon-console-import",
+        "unicode": "e9d1"
+    },
+    {
+        "name": "icon-Thumbnail-graphView",
+        "className": "icon-Thumbnail-graphView",
+        "unicode": "e9d2"
+    },
+    {
+        "name": "icon-studio-btn-up",
+        "className": "icon-studio-btn-up",
+        "unicode": "e9d3"
+    },
+    {
+        "name": "icon-studio-btn-output",
+        "className": "icon-studio-btn-output",
+        "unicode": "e9d4"
+    },
+    {
+        "name": "icon-studio-btn-save",
+        "className": "icon-studio-btn-save",
+        "unicode": "e9d5"
+    },
+    {
+        "name": "icon-studio-btn-history",
+        "className": "icon-studio-btn-history",
+        "unicode": "e9d6"
+    },
+    {
+        "name": "icon-studio-btn-clear",
+        "className": "icon-studio-btn-clear",
         "unicode": "e9d7"
+    },
+    {
+        "name": "icon-btn-template",
+        "className": "icon-btn-template",
+        "unicode": "e9d8"
+    },
+    {
+        "name": "icon-list-filterOpen",
+        "className": "icon-list-filterOpen",
+        "unicode": "e9d9"
+    },
+    {
+        "name": "icon-list-filterClose",
+        "className": "icon-list-filterClose",
+        "unicode": "e9da"
+    },
+    {
+        "name": "icon-navbar-setting",
+        "className": "icon-navbar-setting",
+        "unicode": "e9db"
     }
 ]
