@@ -55,563 +55,573 @@
         "unicode": "e90a"
     },
     {
-        "name": "iconnav-configuration",
-        "className": "iconnav-configuration",
-        "unicode": "e90b"
-    },
-    {
         "name": "iconnav-snapshot",
         "className": "iconnav-snapshot",
-        "unicode": "e90c"
+        "unicode": "e90b"
     },
     {
         "name": "iconnav-timeConsuming",
         "className": "iconnav-timeConsuming",
-        "unicode": "e90d"
+        "unicode": "e90c"
     },
     {
         "name": "iconnav-partitionInfo",
         "className": "iconnav-partitionInfo",
-        "unicode": "e90e"
+        "unicode": "e90d"
     },
     {
         "name": "iconnav-logout",
         "className": "iconnav-logout",
-        "unicode": "e90f"
+        "unicode": "e90e"
     },
     {
         "name": "iconnav-foldTriangle",
         "className": "iconnav-foldTriangle",
-        "unicode": "e910"
+        "unicode": "e90f"
     },
     {
         "name": "iconnav-unfoldTriangle",
         "className": "iconnav-unfoldTriangle",
-        "unicode": "e911"
+        "unicode": "e910"
     },
     {
         "name": "iconzoom",
         "className": "iconzoom",
-        "unicode": "e912"
+        "unicode": "e911"
     },
     {
         "name": "iconSet_up",
         "className": "iconSet_up",
-        "unicode": "e913"
+        "unicode": "e912"
     },
     {
         "name": "iconservice-status",
         "className": "iconservice-status",
-        "unicode": "e914"
+        "unicode": "e913"
     },
     {
         "name": "iconservice-graph",
         "className": "iconservice-graph",
-        "unicode": "e915"
+        "unicode": "e914"
     },
     {
         "name": "iconservice-storage",
         "className": "iconservice-storage",
-        "unicode": "e916"
+        "unicode": "e915"
     },
     {
         "name": "iconservice-meta",
         "className": "iconservice-meta",
-        "unicode": "e917"
+        "unicode": "e916"
     },
     {
         "name": "iconservice",
         "className": "iconservice",
-        "unicode": "e918"
+        "unicode": "e917"
     },
     {
         "name": "iconnormal",
         "className": "iconnormal",
-        "unicode": "e919"
+        "unicode": "e918"
     },
     {
         "name": "iconabnormal",
         "className": "iconabnormal",
-        "unicode": "e91a"
+        "unicode": "e919"
     },
     {
         "name": "iconoverload",
         "className": "iconoverload",
-        "unicode": "e91b"
+        "unicode": "e91a"
     },
     {
         "name": "iconnav-unfold",
         "className": "iconnav-unfold",
-        "unicode": "e91c"
+        "unicode": "e91b"
     },
     {
         "name": "iconnav-fold",
         "className": "iconnav-fold",
-        "unicode": "e91d"
+        "unicode": "e91c"
     },
     {
         "name": "iconpage-left",
         "className": "iconpage-left",
-        "unicode": "e91e"
-    },
-    {
-        "name": "icondate-left",
-        "className": "icondate-left",
-        "unicode": "e91f"
+        "unicode": "e91d"
     },
     {
         "name": "iconmessage-alert",
         "className": "iconmessage-alert",
-        "unicode": "e920"
-    },
-    {
-        "name": "iconpage-down",
-        "className": "iconpage-down",
-        "unicode": "e921"
+        "unicode": "e91e"
     },
     {
         "name": "icondate-left2",
         "className": "icondate-left2",
-        "unicode": "e922"
-    },
-    {
-        "name": "icondate-right",
-        "className": "icondate-right",
-        "unicode": "e923"
-    },
-    {
-        "name": "iconpage-up",
-        "className": "iconpage-up",
-        "unicode": "e924"
+        "unicode": "e91f"
     },
     {
         "name": "icondate-right2",
         "className": "icondate-right2",
-        "unicode": "e925"
+        "unicode": "e920"
     },
     {
         "name": "iconpage-right",
         "className": "iconpage-right",
-        "unicode": "e926"
+        "unicode": "e921"
     },
     {
         "name": "iconhelp",
         "className": "iconhelp",
-        "unicode": "e927"
+        "unicode": "e922"
     },
     {
         "name": "iconsearch",
         "className": "iconsearch",
-        "unicode": "e928"
+        "unicode": "e923"
     },
     {
         "name": "iconnav-language",
         "className": "iconnav-language",
-        "unicode": "e929"
+        "unicode": "e924"
     },
     {
         "name": "iconwatch",
         "className": "iconwatch",
-        "unicode": "e92a"
+        "unicode": "e925"
     },
     {
         "name": "iconup",
         "className": "iconup",
-        "unicode": "e92b"
+        "unicode": "e926"
     },
     {
         "name": "icondown",
         "className": "icondown",
-        "unicode": "e92c"
+        "unicode": "e927"
     },
     {
         "name": "iconreturn",
         "className": "iconreturn",
-        "unicode": "e92d"
+        "unicode": "e928"
     },
     {
         "name": "iconnav-cpu",
         "className": "iconnav-cpu",
-        "unicode": "e92e"
+        "unicode": "e929"
     },
     {
         "name": "iconnav-ram",
         "className": "iconnav-ram",
-        "unicode": "e92f"
+        "unicode": "e92a"
     },
     {
         "name": "iconnav-load",
         "className": "iconnav-load",
-        "unicode": "e930"
+        "unicode": "e92b"
     },
     {
         "name": "iconnav-disk",
         "className": "iconnav-disk",
-        "unicode": "e931"
+        "unicode": "e92c"
     },
     {
         "name": "iconnav-net",
         "className": "iconnav-net",
-        "unicode": "e932"
+        "unicode": "e92d"
     },
     {
         "name": "iconnav-serverdashboard",
         "className": "iconnav-serverdashboard",
-        "unicode": "e933"
+        "unicode": "e92e"
     },
     {
         "name": "iconnav-graph",
         "className": "iconnav-graph",
-        "unicode": "e934"
+        "unicode": "e92f"
     },
     {
         "name": "iconnav-meta",
         "className": "iconnav-meta",
-        "unicode": "e935"
+        "unicode": "e930"
     },
     {
         "name": "iconnav-storage",
         "className": "iconnav-storage",
-        "unicode": "e936"
+        "unicode": "e931"
     },
     {
         "name": "iconnav-language-line",
         "className": "iconnav-language-line",
-        "unicode": "e937"
+        "unicode": "e932"
     },
     {
         "name": "icondate",
         "className": "icondate",
-        "unicode": "e938"
+        "unicode": "e933"
     },
     {
         "name": "iconSetting",
         "className": "iconSetting",
-        "unicode": "e939"
+        "unicode": "e934"
     },
     {
         "name": "iconPlus",
         "className": "iconPlus",
-        "unicode": "e93a"
+        "unicode": "e935"
     },
     {
         "name": "iconWrong",
         "className": "iconWrong",
-        "unicode": "e93b"
+        "unicode": "e936"
     },
     {
         "name": "iconCorrect",
         "className": "iconCorrect",
-        "unicode": "e93c"
+        "unicode": "e937"
     },
     {
         "name": "iconReduce",
         "className": "iconReduce",
-        "unicode": "e93d"
+        "unicode": "e938"
     },
     {
         "name": "iconCustomer_Service",
         "className": "iconCustomer_Service",
-        "unicode": "e93e"
+        "unicode": "e939"
     },
     {
         "name": "iconfiles",
         "className": "iconfiles",
-        "unicode": "e93f"
+        "unicode": "e93a"
     },
     {
         "name": "iconnav-Clusters",
         "className": "iconnav-Clusters",
-        "unicode": "e940"
+        "unicode": "e93b"
     },
     {
         "name": "iconnav-Node",
         "className": "iconnav-Node",
-        "unicode": "e941"
+        "unicode": "e93c"
     },
     {
         "name": "iconnav-processManagement",
         "className": "iconnav-processManagement",
-        "unicode": "e942"
+        "unicode": "e93d"
     },
     {
         "name": "iconnav-leaderDistributed",
         "className": "iconnav-leaderDistributed",
-        "unicode": "e943"
+        "unicode": "e93e"
     },
     {
         "name": "iconnav-partionDistributed",
         "className": "iconnav-partionDistributed",
-        "unicode": "e944"
+        "unicode": "e93f"
     },
     {
         "name": "iconnav-accountList",
         "className": "iconnav-accountList",
-        "unicode": "e945"
+        "unicode": "e940"
     },
     {
         "name": "iconnav-operationRecord",
         "className": "iconnav-operationRecord",
-        "unicode": "e946"
+        "unicode": "e941"
     },
     {
         "name": "iconnav-versionManagement",
         "className": "iconnav-versionManagement",
-        "unicode": "e947"
+        "unicode": "e942"
     },
     {
         "name": "iconnav-multiCluster",
         "className": "iconnav-multiCluster",
-        "unicode": "e948"
+        "unicode": "e943"
     },
     {
         "name": "iconswitch",
         "className": "iconswitch",
-        "unicode": "e949"
-    },
-    {
-        "name": "iconnav-setting",
-        "className": "iconnav-setting",
-        "unicode": "e94a"
+        "unicode": "e944"
     },
     {
         "name": "iconnav-systemSetting",
         "className": "iconnav-systemSetting",
-        "unicode": "e94b"
+        "unicode": "e945"
     },
     {
         "name": "iconnav-operationLog",
         "className": "iconnav-operationLog",
-        "unicode": "e94c"
+        "unicode": "e946"
     },
     {
         "name": "iconnav-book",
         "className": "iconnav-book",
-        "unicode": "e94d"
+        "unicode": "e947"
     },
     {
         "name": "iconDownload",
         "className": "iconDownload",
-        "unicode": "e94e"
+        "unicode": "e948"
     },
     {
         "name": "iconWebLink",
         "className": "iconWebLink",
-        "unicode": "e94f"
+        "unicode": "e949"
     },
     {
         "name": "iconnav-Capacity",
         "className": "iconnav-Capacity",
-        "unicode": "e950"
+        "unicode": "e94a"
     },
     {
         "name": "iconclose",
         "className": "iconclose",
-        "unicode": "e951"
+        "unicode": "e94b"
     },
     {
         "name": "iconoverview-alert",
         "className": "iconoverview-alert",
-        "unicode": "e952"
+        "unicode": "e94c"
     },
     {
         "name": "iconoverview-ignore",
         "className": "iconoverview-ignore",
-        "unicode": "e953"
+        "unicode": "e94d"
     },
     {
         "name": "iconfilter",
         "className": "iconfilter",
-        "unicode": "e954"
+        "unicode": "e94e"
     },
     {
         "name": "iconnav-notification",
         "className": "iconnav-notification",
-        "unicode": "e955"
+        "unicode": "e94f"
     },
     {
         "name": "iconnav-alertMessages",
         "className": "iconnav-alertMessages",
-        "unicode": "e956"
+        "unicode": "e950"
     },
     {
         "name": "iconnav-alertRules",
         "className": "iconnav-alertRules",
-        "unicode": "e957"
+        "unicode": "e951"
     },
     {
         "name": "iconnav-recipientSettings",
         "className": "iconnav-recipientSettings",
-        "unicode": "e958"
+        "unicode": "e952"
     },
     {
         "name": "iconsettings-systemSettings",
         "className": "iconsettings-systemSettings",
-        "unicode": "e959"
+        "unicode": "e953"
     },
     {
         "name": "iconsettings-notificationEndpoint",
         "className": "iconsettings-notificationEndpoint",
-        "unicode": "e95a"
+        "unicode": "e954"
     },
     {
         "name": "iconsettings-othersettings",
         "className": "iconsettings-othersettings",
-        "unicode": "e95b"
+        "unicode": "e955"
     },
     {
         "name": "iconalert-edit",
         "className": "iconalert-edit",
-        "unicode": "e95c"
+        "unicode": "e956"
     },
     {
         "name": "iconalert-delete",
         "className": "iconalert-delete",
-        "unicode": "e95d"
+        "unicode": "e957"
     },
     {
         "name": "icontime",
         "className": "icontime",
-        "unicode": "e95e"
+        "unicode": "e958"
     },
     {
         "name": "iconnav-taskCenter",
         "className": "iconnav-taskCenter",
-        "unicode": "e95f"
+        "unicode": "e959"
     },
     {
         "name": "iconnav-memberManagement",
         "className": "iconnav-memberManagement",
-        "unicode": "e960"
+        "unicode": "e95a"
     },
     {
         "name": "iconzoom-in",
         "className": "iconzoom-in",
-        "unicode": "e961"
+        "unicode": "e95b"
     },
     {
         "name": "iconnav-clusterDiagnostics",
         "className": "iconnav-clusterDiagnostics",
-        "unicode": "e962"
+        "unicode": "e95c"
     },
     {
         "name": "iconnav-rightTriangle",
         "className": "iconnav-rightTriangle",
-        "unicode": "e963"
+        "unicode": "e95d"
     },
     {
         "name": "iconnav-leftTriangle",
         "className": "iconnav-leftTriangle",
-        "unicode": "e964"
+        "unicode": "e95e"
     },
     {
         "name": "iconnav-tvMode",
         "className": "iconnav-tvMode",
-        "unicode": "e965"
+        "unicode": "e95f"
     },
     {
         "name": "iconnav-JobMangement",
         "className": "iconnav-JobMangement",
-        "unicode": "e966"
+        "unicode": "e960"
     },
     {
         "name": "iconFailed",
         "className": "iconFailed",
-        "unicode": "e967"
+        "unicode": "e961"
     },
     {
         "name": "iconnav-VersionUpgrade",
         "className": "iconnav-VersionUpgrade",
-        "unicode": "e968"
+        "unicode": "e962"
     },
     {
         "name": "iconsettings-packageMangement",
         "className": "iconsettings-packageMangement",
-        "unicode": "e969"
+        "unicode": "e963"
     },
     {
         "name": "iconnav-dependencies",
         "className": "iconnav-dependencies",
-        "unicode": "e96a"
+        "unicode": "e964"
     },
     {
         "name": "iconnav-dataSynchronization",
         "className": "iconnav-dataSynchronization",
-        "unicode": "e96b"
+        "unicode": "e965"
     },
     {
         "name": "iconnav-Backup-Restore",
         "className": "iconnav-Backup-Restore",
-        "unicode": "e96c"
+        "unicode": "e966"
     },
     {
         "name": "iconnav-auditLogs",
         "className": "iconnav-auditLogs",
-        "unicode": "e96d"
+        "unicode": "e967"
     },
     {
         "name": "iconnav-feedback",
         "className": "iconnav-feedback",
-        "unicode": "e96e"
+        "unicode": "e968"
     },
     {
         "name": "iconnav-help",
         "className": "iconnav-help",
-        "unicode": "e96f"
+        "unicode": "e969"
     },
     {
         "name": "iconnav-troubleFeedback",
         "className": "iconnav-troubleFeedback",
-        "unicode": "e970"
+        "unicode": "e96a"
     },
     {
         "name": "iconnav-suggestions",
         "className": "iconnav-suggestions",
-        "unicode": "e971"
+        "unicode": "e96b"
     },
     {
         "name": "iconnav-participationInResearch",
         "className": "iconnav-participationInResearch",
-        "unicode": "e972"
+        "unicode": "e96c"
     },
     {
         "name": "iconnav-contactUs",
         "className": "iconnav-contactUs",
-        "unicode": "e973"
+        "unicode": "e96d"
     },
     {
         "name": "iconnav-accountManagement",
         "className": "iconnav-accountManagement",
-        "unicode": "e974"
+        "unicode": "e96e"
     },
     {
         "name": "iconsettings-singleSignon",
         "className": "iconsettings-singleSignon",
-        "unicode": "e975"
+        "unicode": "e96f"
     },
     {
         "name": "iconnav-connect",
         "className": "iconnav-connect",
-        "unicode": "e976"
+        "unicode": "e970"
     },
     {
         "name": "iconnav-enterprise",
         "className": "iconnav-enterprise",
-        "unicode": "e977"
+        "unicode": "e971"
     },
     {
         "name": "iconnav-github",
         "className": "iconnav-github",
-        "unicode": "e978"
+        "unicode": "e972"
     },
     {
         "name": "iconrefresh",
         "className": "iconrefresh",
-        "unicode": "e979"
+        "unicode": "e973"
     },
     {
         "name": "iconnav-serviceLogs",
         "className": "iconnav-serviceLogs",
+        "unicode": "e974"
+    },
+    {
+        "name": "icondate-right",
+        "className": "icondate-right",
+        "unicode": "e975"
+    },
+    {
+        "name": "icondate-left",
+        "className": "icondate-left",
+        "unicode": "e976"
+    },
+    {
+        "name": "iconpage-down",
+        "className": "iconpage-down",
+        "unicode": "e977"
+    },
+    {
+        "name": "iconpage-up",
+        "className": "iconpage-up",
+        "unicode": "e978"
+    },
+    {
+        "name": "iconnav-setting",
+        "className": "iconnav-setting",
+        "unicode": "e979"
+    },
+    {
+        "name": "iconnav-configuration",
+        "className": "iconnav-configuration",
         "unicode": "e97a"
+    },
+    {
+        "name": "iconMoreVertFilled",
+        "className": "iconMoreVertFilled",
+        "unicode": "e97b"
+    },
+    {
+        "name": "iconlistFilter",
+        "className": "iconlistFilter",
+        "unicode": "e97c"
     }
 ]
