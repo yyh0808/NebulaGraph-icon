@@ -623,5 +623,10 @@
         "name": "iconlistFilter",
         "className": "iconlistFilter",
         "unicode": "e97c"
+    },
+    {
+        "name": "iconnav-dependentServices",
+        "className": "iconnav-dependentServices",
+        "unicode": "e97d"
     }
 ]
