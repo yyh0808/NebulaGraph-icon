@@ -1,0 +1,832 @@
+[
+    {
+        "name": "CachedFilled",
+        "className": "CachedFilled",
+        "unicode": "e900"
+    },
+    {
+        "name": "CachedOutlined",
+        "className": "CachedOutlined",
+        "unicode": "e901"
+    },
+    {
+        "name": "ArrowBackFilled",
+        "className": "ArrowBackFilled",
+        "unicode": "e902"
+    },
+    {
+        "name": "CloseFilled",
+        "className": "CloseFilled",
+        "unicode": "e903"
+    },
+    {
+        "name": "ArrowForwardFilled",
+        "className": "ArrowForwardFilled",
+        "unicode": "e904"
+    },
+    {
+        "name": "ExpandMoreFilled",
+        "className": "ExpandMoreFilled",
+        "unicode": "e905"
+    },
+    {
+        "name": "ExpandLessFilled",
+        "className": "ExpandLessFilled",
+        "unicode": "e906"
+    },
+    {
+        "name": "ChevronLeftFilled",
+        "className": "ChevronLeftFilled",
+        "unicode": "e907"
+    },
+    {
+        "name": "ArrowDownwardFilled",
+        "className": "ArrowDownwardFilled",
+        "unicode": "e908"
+    },
+    {
+        "name": "ArrowDropDownFilled",
+        "className": "ArrowDropDownFilled",
+        "unicode": "e909"
+    },
+    {
+        "name": "ChevronRightFilled",
+        "className": "ChevronRightFilled",
+        "unicode": "e90a"
+    },
+    {
+        "name": "MoreHorizFilled",
+        "className": "MoreHorizFilled",
+        "unicode": "e90b"
+    },
+    {
+        "name": "MenuFilled",
+        "className": "MenuFilled",
+        "unicode": "e90c"
+    },
+    {
+        "name": "ArrowUpwardFilled",
+        "className": "ArrowUpwardFilled",
+        "unicode": "e90d"
+    },
+    {
+        "name": "CheckFilled",
+        "className": "CheckFilled",
+        "unicode": "e90e"
+    },
+    {
+        "name": "MoreVertFilled",
+        "className": "MoreVertFilled",
+        "unicode": "e90f"
+    },
+    {
+        "name": "PersonFilled",
+        "className": "PersonFilled",
+        "unicode": "e910"
+    },
+    {
+        "name": "PersonAddFilled",
+        "className": "PersonAddFilled",
+        "unicode": "e911"
+    },
+    {
+        "name": "NotificationsFilled",
+        "className": "NotificationsFilled",
+        "unicode": "e912"
+    },
+    {
+        "name": "PeopleFilled",
+        "className": "PeopleFilled",
+        "unicode": "e913"
+    },
+    {
+        "name": "CheckBoxOutlineBlankOutlined",
+        "className": "CheckBoxOutlineBlankOutlined",
+        "unicode": "e914"
+    },
+    {
+        "name": "StarOutlineOutlined",
+        "className": "StarOutlineOutlined",
+        "unicode": "e915"
+    },
+    {
+        "name": "CheckBoxOutlineBlankFilled",
+        "className": "CheckBoxOutlineBlankFilled",
+        "unicode": "e916"
+    },
+    {
+        "name": "StarOutlineFilled",
+        "className": "StarOutlineFilled",
+        "unicode": "e917"
+    },
+    {
+        "name": "IndeterminateCheckBoxOutlined",
+        "className": "IndeterminateCheckBoxOutlined",
+        "unicode": "e918"
+    },
+    {
+        "name": "ToggleOffOutlined",
+        "className": "ToggleOffOutlined",
+        "unicode": "e919"
+    },
+    {
+        "name": "IndeterminateCheckBoxFilled",
+        "className": "IndeterminateCheckBoxFilled",
+        "unicode": "e91a"
+    },
+    {
+        "name": "QueryBuilderFilled",
+        "className": "QueryBuilderFilled",
+        "unicode": "e91b"
+    },
+    {
+        "name": "ShoppingCartOutlined",
+        "className": "ShoppingCartOutlined",
+        "unicode": "e91c"
+    },
+    {
+        "name": "AddFilled",
+        "className": "AddFilled",
+        "unicode": "e91d"
+    },
+    {
+        "name": "FormatAlignLeftOutlined",
+        "className": "FormatAlignLeftOutlined",
+        "unicode": "e91e"
+    },
+    {
+        "name": "RemoveRedEyeFilled",
+        "className": "RemoveRedEyeFilled",
+        "unicode": "e91f"
+    },
+    {
+        "name": "FavoriteFilled",
+        "className": "FavoriteFilled",
+        "unicode": "e920"
+    },
+    {
+        "name": "ReceiptFilled",
+        "className": "ReceiptFilled",
+        "unicode": "e921"
+    },
+    {
+        "name": "CheckCircleFilled",
+        "className": "CheckCircleFilled",
+        "unicode": "e922"
+    },
+    {
+        "name": "CheckCircleOutlined",
+        "className": "CheckCircleOutlined",
+        "unicode": "e923"
+    },
+    {
+        "name": "DateRangeOutlined",
+        "className": "DateRangeOutlined",
+        "unicode": "e924"
+    },
+    {
+        "name": "DateRangeFilled",
+        "className": "DateRangeFilled",
+        "unicode": "e925"
+    },
+    {
+        "name": "InfoOutlined",
+        "className": "InfoOutlined",
+        "unicode": "e926"
+    },
+    {
+        "name": "LogoutOutlined",
+        "className": "LogoutOutlined",
+        "unicode": "e927"
+    },
+    {
+        "name": "LogoutFilled",
+        "className": "LogoutFilled",
+        "unicode": "e928"
+    },
+    {
+        "name": "QueryBuilderOutlined",
+        "className": "QueryBuilderOutlined",
+        "unicode": "e929"
+    },
+    {
+        "name": "SpaceDashboardFilled",
+        "className": "SpaceDashboardFilled",
+        "unicode": "e92a"
+    },
+    {
+        "name": "SpaceDashboardOutlined",
+        "className": "SpaceDashboardOutlined",
+        "unicode": "e92b"
+    },
+    {
+        "name": "SettingsFilled",
+        "className": "SettingsFilled",
+        "unicode": "e92c"
+    },
+    {
+        "name": "SettingsOutlined",
+        "className": "SettingsOutlined",
+        "unicode": "e92d"
+    },
+    {
+        "name": "RestoreFilled",
+        "className": "RestoreFilled",
+        "unicode": "e92e"
+    },
+    {
+        "name": "RestoreOutlined",
+        "className": "RestoreOutlined",
+        "unicode": "e92f"
+    },
+    {
+        "name": "SearchFilled",
+        "className": "SearchFilled",
+        "unicode": "e930"
+    },
+    {
+        "name": "SearchOutlined",
+        "className": "SearchOutlined",
+        "unicode": "e931"
+    },
+    {
+        "name": "AccountCircleOutlined",
+        "className": "AccountCircleOutlined",
+        "unicode": "e932"
+    },
+    {
+        "name": "ReceiptOutlined",
+        "className": "ReceiptOutlined",
+        "unicode": "e933"
+    },
+    {
+        "name": "ShoppingCartFilled",
+        "className": "ShoppingCartFilled",
+        "unicode": "e934"
+    },
+    {
+        "name": "ContentCutFilled",
+        "className": "ContentCutFilled",
+        "unicode": "e935"
+    },
+    {
+        "name": "AccountCircleFilled",
+        "className": "AccountCircleFilled",
+        "unicode": "e936"
+    },
+    {
+        "name": "ErrorOutlined",
+        "className": "ErrorOutlined",
+        "unicode": "e937"
+    },
+    {
+        "name": "ErrorFilled",
+        "className": "ErrorFilled",
+        "unicode": "e938"
+    },
+    {
+        "name": "WarningAmberOutlined",
+        "className": "WarningAmberOutlined",
+        "unicode": "e939"
+    },
+    {
+        "name": "ErrorOutline",
+        "className": "ErrorOutline",
+        "unicode": "e93a"
+    },
+    {
+        "name": "WarningOutlined",
+        "className": "WarningOutlined",
+        "unicode": "e93b"
+    },
+    {
+        "name": "WarningFilled",
+        "className": "WarningFilled",
+        "unicode": "e93c"
+    },
+    {
+        "name": "AddOutlined",
+        "className": "AddOutlined",
+        "unicode": "e93d"
+    },
+    {
+        "name": "ContentCutOutlined",
+        "className": "ContentCutOutlined",
+        "unicode": "e93e"
+    },
+    {
+        "name": "CloudOutlined",
+        "className": "CloudOutlined",
+        "unicode": "e93f"
+    },
+    {
+        "name": "ContentPasteOutlined",
+        "className": "ContentPasteOutlined",
+        "unicode": "e940"
+    },
+    {
+        "name": "ContentPasteFilled",
+        "className": "ContentPasteFilled",
+        "unicode": "e941"
+    },
+    {
+        "name": "ContentCopyOutlined",
+        "className": "ContentCopyOutlined",
+        "unicode": "e942"
+    },
+    {
+        "name": "ContentCopyFilled",
+        "className": "ContentCopyFilled",
+        "unicode": "e943"
+    },
+    {
+        "name": "MailOutlined",
+        "className": "MailOutlined",
+        "unicode": "e944"
+    },
+    {
+        "name": "MailFilled",
+        "className": "MailFilled",
+        "unicode": "e945"
+    },
+    {
+        "name": "LocationOnOutlined",
+        "className": "LocationOnOutlined",
+        "unicode": "e946"
+    },
+    {
+        "name": "LocationOnFilled",
+        "className": "LocationOnFilled",
+        "unicode": "e947"
+    },
+    {
+        "name": "FormatAlignLeftFilled",
+        "className": "FormatAlignLeftFilled",
+        "unicode": "e948"
+    },
+    {
+        "name": "ToggleOnOutlined",
+        "className": "ToggleOnOutlined",
+        "unicode": "e949"
+    },
+    {
+        "name": "CloudFilled",
+        "className": "CloudFilled",
+        "unicode": "e94a"
+    },
+    {
+        "name": "FolderOutlined",
+        "className": "FolderOutlined",
+        "unicode": "e94b"
+    },
+    {
+        "name": "FolderFilled",
+        "className": "FolderFilled",
+        "unicode": "e94c"
+    },
+    {
+        "name": "PhotoOutlined",
+        "className": "PhotoOutlined",
+        "unicode": "e94d"
+    },
+    {
+        "name": "PhotoFilled",
+        "className": "PhotoFilled",
+        "unicode": "e94e"
+    },
+    {
+        "name": "EditOutlined",
+        "className": "EditOutlined",
+        "unicode": "e94f"
+    },
+    {
+        "name": "EditFilled",
+        "className": "EditFilled",
+        "unicode": "e950"
+    },
+    {
+        "name": "RemoveRedEyeOutlined",
+        "className": "RemoveRedEyeOutlined",
+        "unicode": "e951"
+    },
+    {
+        "name": "StarHalfOutlined",
+        "className": "StarHalfOutlined",
+        "unicode": "e952"
+    },
+    {
+        "name": "StarFilled",
+        "className": "StarFilled",
+        "unicode": "e953"
+    },
+    {
+        "name": "StarBorderFilled",
+        "className": "StarBorderFilled",
+        "unicode": "e954"
+    },
+    {
+        "name": "StarOutlined",
+        "className": "StarOutlined",
+        "unicode": "e955"
+    },
+    {
+        "name": "RadioButtonCheckedFilled",
+        "className": "RadioButtonCheckedFilled",
+        "unicode": "e956"
+    },
+    {
+        "name": "ToggleOnFilled",
+        "className": "ToggleOnFilled",
+        "unicode": "e957"
+    },
+    {
+        "name": "RadioButtonCheckedOutlined",
+        "className": "RadioButtonCheckedOutlined",
+        "unicode": "e958"
+    },
+    {
+        "name": "ToggleOffFilled",
+        "className": "ToggleOffFilled",
+        "unicode": "e959"
+    },
+    {
+        "name": "StarBorderOutlined",
+        "className": "StarBorderOutlined",
+        "unicode": "e95a"
+    },
+    {
+        "name": "StarHalfFilled",
+        "className": "StarHalfFilled",
+        "unicode": "e95b"
+    },
+    {
+        "name": "CheckBoxOutlined",
+        "className": "CheckBoxOutlined",
+        "unicode": "e95c"
+    },
+    {
+        "name": "CheckBoxFilled",
+        "className": "CheckBoxFilled",
+        "unicode": "e95d"
+    },
+    {
+        "name": "RadioButtonUncheckedOutlined",
+        "className": "RadioButtonUncheckedOutlined",
+        "unicode": "e95e"
+    },
+    {
+        "name": "RadioButtonUncheckedFilled",
+        "className": "RadioButtonUncheckedFilled",
+        "unicode": "e95f"
+    },
+    {
+        "name": "CancelOutlined",
+        "className": "CancelOutlined",
+        "unicode": "e960"
+    },
+    {
+        "name": "CancelFilled",
+        "className": "CancelFilled",
+        "unicode": "e961"
+    },
+    {
+        "name": "ChevronLeftOutlined",
+        "className": "ChevronLeftOutlined",
+        "unicode": "e962"
+    },
+    {
+        "name": "ArrowDropDownOutlined",
+        "className": "ArrowDropDownOutlined",
+        "unicode": "e963"
+    },
+    {
+        "name": "ChevronRightOutlined",
+        "className": "ChevronRightOutlined",
+        "unicode": "e964"
+    },
+    {
+        "name": "ArrowUpwardOutlined",
+        "className": "ArrowUpwardOutlined",
+        "unicode": "e965"
+    },
+    {
+        "name": "MoreVertOutlined",
+        "className": "MoreVertOutlined",
+        "unicode": "e966"
+    },
+    {
+        "name": "FastBackwardFilled",
+        "className": "FastBackwardFilled",
+        "unicode": "e967"
+    },
+    {
+        "name": "Play",
+        "className": "Play",
+        "unicode": "e968"
+    },
+    {
+        "name": "FastForwardFilled",
+        "className": "FastForwardFilled",
+        "unicode": "e969"
+    },
+    {
+        "name": "Pause",
+        "className": "Pause",
+        "unicode": "e96a"
+    },
+    {
+        "name": "ab-testing",
+        "className": "ab-testing",
+        "unicode": "e96b"
+    },
+    {
+        "name": "key",
+        "className": "key",
+        "unicode": "e96c"
+    },
+    {
+        "name": "key-star",
+        "className": "key-star",
+        "unicode": "e96d"
+    },
+    {
+        "name": "key-plus",
+        "className": "key-plus",
+        "unicode": "e96e"
+    },
+    {
+        "name": "key-variant",
+        "className": "key-variant",
+        "unicode": "e96f"
+    },
+    {
+        "name": "key-minus",
+        "className": "key-minus",
+        "unicode": "e970"
+    },
+    {
+        "name": "key-remove",
+        "className": "key-remove",
+        "unicode": "e971"
+    },
+    {
+        "name": "card-account-details",
+        "className": "card-account-details",
+        "unicode": "e972"
+    },
+    {
+        "name": "card-account-details-outline",
+        "className": "card-account-details-outline",
+        "unicode": "e973"
+    },
+    {
+        "name": "license",
+        "className": "license",
+        "unicode": "e974"
+    },
+    {
+        "name": "bell-ring",
+        "className": "bell-ring",
+        "unicode": "e975"
+    },
+    {
+        "name": "bell-ring-outline",
+        "className": "bell-ring-outline",
+        "unicode": "e976"
+    },
+    {
+        "name": "bell",
+        "className": "bell",
+        "unicode": "e977"
+    },
+    {
+        "name": "bell-outline",
+        "className": "bell-outline",
+        "unicode": "e978"
+    },
+    {
+        "name": "receipt-text",
+        "className": "receipt-text",
+        "unicode": "e979"
+    },
+    {
+        "name": "receipt-text-edit",
+        "className": "receipt-text-edit",
+        "unicode": "e97a"
+    },
+    {
+        "name": "receipt-text-edit-outline",
+        "className": "receipt-text-edit-outline",
+        "unicode": "e97b"
+    },
+    {
+        "name": "information-slab-box",
+        "className": "information-slab-box",
+        "unicode": "e97c"
+    },
+    {
+        "name": "information-slab-box-outline",
+        "className": "information-slab-box-outline",
+        "unicode": "e97d"
+    },
+    {
+        "name": "call-merge",
+        "className": "call-merge",
+        "unicode": "e97e"
+    },
+    {
+        "name": "shape-plus",
+        "className": "shape-plus",
+        "unicode": "e97f"
+    },
+    {
+        "name": "shape-plus-outline",
+        "className": "shape-plus-outline",
+        "unicode": "e980"
+    },
+    {
+        "name": "desktop-classic",
+        "className": "desktop-classic",
+        "unicode": "e981"
+    },
+    {
+        "name": "laptop",
+        "className": "laptop",
+        "unicode": "e982"
+    },
+    {
+        "name": "server",
+        "className": "server",
+        "unicode": "e983"
+    },
+    {
+        "name": "database",
+        "className": "database",
+        "unicode": "e984"
+    },
+    {
+        "name": "sd",
+        "className": "sd",
+        "unicode": "e985"
+    },
+    {
+        "name": "nas",
+        "className": "nas",
+        "unicode": "e986"
+    },
+    {
+        "name": "numeric-1-circle",
+        "className": "numeric-1-circle",
+        "unicode": "e987"
+    },
+    {
+        "name": "numeric-2-circle",
+        "className": "numeric-2-circle",
+        "unicode": "e988"
+    },
+    {
+        "name": "numeric-3-circle",
+        "className": "numeric-3-circle",
+        "unicode": "e989"
+    },
+    {
+        "name": "numeric-4-circle",
+        "className": "numeric-4-circle",
+        "unicode": "e98a"
+    },
+    {
+        "name": "numeric-5-circle",
+        "className": "numeric-5-circle",
+        "unicode": "e98b"
+    },
+    {
+        "name": "numeric-6-circle",
+        "className": "numeric-6-circle",
+        "unicode": "e98c"
+    },
+    {
+        "name": "numeric-7-circle",
+        "className": "numeric-7-circle",
+        "unicode": "e98d"
+    },
+    {
+        "name": "numeric-8-circle",
+        "className": "numeric-8-circle",
+        "unicode": "e98e"
+    },
+    {
+        "name": "numeric-9-circle",
+        "className": "numeric-9-circle",
+        "unicode": "e98f"
+    },
+    {
+        "name": "numeric-0-circle",
+        "className": "numeric-0-circle",
+        "unicode": "e990"
+    },
+    {
+        "name": "eye-off-outline",
+        "className": "eye-off-outline",
+        "unicode": "e991"
+    },
+    {
+        "name": "eye-off",
+        "className": "eye-off",
+        "unicode": "e992"
+    },
+    {
+        "name": "help-box-multiple",
+        "className": "help-box-multiple",
+        "unicode": "e993"
+    },
+    {
+        "name": "face-agent",
+        "className": "face-agent",
+        "unicode": "e994"
+    },
+    {
+        "name": "white-balance-sunny",
+        "className": "white-balance-sunny",
+        "unicode": "e995"
+    },
+    {
+        "name": "moon-waxing-crescent",
+        "className": "moon-waxing-crescent",
+        "unicode": "e996"
+    },
+    {
+        "name": "file-document-outline",
+        "className": "file-document-outline",
+        "unicode": "e997"
+    },
+    {
+        "name": "file-document",
+        "className": "file-document",
+        "unicode": "e998"
+    },
+    {
+        "name": "text-box-search-outline",
+        "className": "text-box-search-outline",
+        "unicode": "e999"
+    },
+    {
+        "name": "text-box-search",
+        "className": "text-box-search",
+        "unicode": "e99a"
+    },
+    {
+        "name": "book-open-page-variant",
+        "className": "book-open-page-variant",
+        "unicode": "e99b"
+    },
+    {
+        "name": "book-open-page-variant-outline",
+        "className": "book-open-page-variant-outline",
+        "unicode": "e99c"
+    },
+    {
+        "name": "book",
+        "className": "book",
+        "unicode": "e99d"
+    },
+    {
+        "name": "book-outline",
+        "className": "book-outline",
+        "unicode": "e99e"
+    },
+    {
+        "name": "view-grid-plus",
+        "className": "view-grid-plus",
+        "unicode": "e99f"
+    },
+    {
+        "name": "alpha-v-box",
+        "className": "alpha-v-box",
+        "unicode": "e9a0"
+    },
+    {
+        "name": "code-less-than",
+        "className": "code-less-than",
+        "unicode": "e9a1"
+    },
+    {
+        "name": "code-array",
+        "className": "code-array",
+        "unicode": "e9a2"
+    },
+    {
+        "name": "code-braces-box",
+        "className": "code-braces-box",
+        "unicode": "e9a3"
+    },
+    {
+        "name": "widgets",
+        "className": "widgets",
+        "unicode": "e9a4"
+    },
+    {
+        "name": "widgets-outline",
+        "className": "widgets-outline",
+        "unicode": "e9a5"
+    }
+]
