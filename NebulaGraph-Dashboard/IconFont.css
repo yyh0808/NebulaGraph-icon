@@ -1,8 +1,8 @@
 @font-face {
     font-family: "IconFont";
-    src: url('IconFont.woff2?t=1682560655688') format('woff2'),
-        url('IconFont.woff?t=1682560655688') format('woff'),
-        url('IconFont.ttf?t=1682560655688') format('truetype');
+    src: url('IconFont.woff2?t=1685945093304') format('woff2'),
+        url('IconFont.woff?t=1685945093304') format('woff'),
+        url('IconFont.ttf?t=1685945093304') format('truetype');
 }
 
 .iconfont {
@@ -143,6 +143,7 @@
 .icon-iconalert-delete:before { content: "\e97f"; }
 .icon-iconsettings-packageMangement:before { content: "\e980"; }
 .icon-iconnav-lmManger:before { content: "\e981"; }
+.icon-iconnav-more:before { content: "\e982"; }
 
 
 /**

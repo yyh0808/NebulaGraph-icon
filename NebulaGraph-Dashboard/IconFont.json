@@ -648,5 +648,10 @@
         "name": "iconnav-lmManger",
         "className": "iconnav-lmManger",
         "unicode": "e981"
+    },
+    {
+        "name": "iconnav-more",
+        "className": "iconnav-more",
+        "unicode": "e982"
     }
 ]
