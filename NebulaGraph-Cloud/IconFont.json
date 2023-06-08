@@ -1,212 +1,1002 @@
 [
     {
-        "name": "icon-nav-solution",
-        "className": "icon-nav-solution",
+        "name": "CachedFilled",
+        "className": "CachedFilled",
         "unicode": "e900"
     },
     {
-        "name": "icon-nav-issues",
-        "className": "icon-nav-issues",
+        "name": "CachedOutlined",
+        "className": "CachedOutlined",
         "unicode": "e901"
     },
     {
-        "name": "icon-nav-message",
-        "className": "icon-nav-message",
+        "name": "ArrowBackFilled",
+        "className": "ArrowBackFilled",
         "unicode": "e902"
     },
     {
-        "name": "icon-nav-doc",
-        "className": "icon-nav-doc",
+        "name": "CloseFilled",
+        "className": "CloseFilled",
         "unicode": "e903"
     },
     {
-        "name": "icon-nav-billing",
-        "className": "icon-nav-billing",
+        "name": "ArrowForwardFilled",
+        "className": "ArrowForwardFilled",
         "unicode": "e904"
     },
     {
-        "name": "icon-nav-accountSetting",
-        "className": "icon-nav-accountSetting",
+        "name": "ExpandMoreFilled",
+        "className": "ExpandMoreFilled",
         "unicode": "e905"
     },
     {
-        "name": "icon-nav-logout",
-        "className": "icon-nav-logout",
+        "name": "ExpandLessFilled",
+        "className": "ExpandLessFilled",
         "unicode": "e906"
     },
     {
-        "name": "icon-sidebar-auditLog",
-        "className": "icon-sidebar-auditLog",
+        "name": "ChevronLeftFilled",
+        "className": "ChevronLeftFilled",
         "unicode": "e907"
     },
     {
-        "name": "icon-sidebar-connectivity",
-        "className": "icon-sidebar-connectivity",
+        "name": "ArrowDownwardFilled",
+        "className": "ArrowDownwardFilled",
         "unicode": "e908"
     },
     {
-        "name": "icon-sidebar-userManagement",
-        "className": "icon-sidebar-userManagement",
+        "name": "ArrowDropDownFilled",
+        "className": "ArrowDropDownFilled",
         "unicode": "e909"
     },
     {
-        "name": "icon-sidebar-solutionInfo",
-        "className": "icon-sidebar-solutionInfo",
+        "name": "ChevronRightFilled",
+        "className": "ChevronRightFilled",
         "unicode": "e90a"
     },
     {
-        "name": "icon-sidebar-applications",
-        "className": "icon-sidebar-applications",
+        "name": "MoreHorizFilled",
+        "className": "MoreHorizFilled",
         "unicode": "e90b"
     },
     {
-        "name": "icon-sidebar-setting",
-        "className": "icon-sidebar-setting",
+        "name": "MenuFilled",
+        "className": "MenuFilled",
         "unicode": "e90c"
     },
     {
-        "name": "icon-management",
-        "className": "icon-management",
+        "name": "ArrowUpwardFilled",
+        "className": "ArrowUpwardFilled",
         "unicode": "e90d"
     },
     {
-        "name": "icon-dashboard",
-        "className": "icon-dashboard",
+        "name": "CheckFilled",
+        "className": "CheckFilled",
         "unicode": "e90e"
     },
     {
-        "name": "icon-explorer",
-        "className": "icon-explorer",
+        "name": "MoreVertFilled",
+        "className": "MoreVertFilled",
         "unicode": "e90f"
     },
     {
-        "name": "icon-studio",
-        "className": "icon-studio",
+        "name": "PersonFilled",
+        "className": "PersonFilled",
         "unicode": "e910"
     },
     {
-        "name": "icon-copy",
-        "className": "icon-copy",
+        "name": "PersonAddFilled",
+        "className": "PersonAddFilled",
         "unicode": "e911"
     },
     {
-        "name": "icon-edit",
-        "className": "icon-edit",
+        "name": "NotificationsFilled",
+        "className": "NotificationsFilled",
         "unicode": "e912"
     },
     {
-        "name": "icon-tips",
-        "className": "icon-tips",
+        "name": "PeopleFilled",
+        "className": "PeopleFilled",
         "unicode": "e913"
     },
     {
-        "name": "icon-delete",
-        "className": "icon-delete",
+        "name": "CheckBoxOutlineBlankOutlined",
+        "className": "CheckBoxOutlineBlankOutlined",
         "unicode": "e914"
     },
     {
-        "name": "icon-time",
-        "className": "icon-time",
+        "name": "StarOutlineOutlined",
+        "className": "StarOutlineOutlined",
         "unicode": "e915"
     },
     {
-        "name": "icon-down",
-        "className": "icon-down",
+        "name": "CheckBoxOutlineBlankFilled",
+        "className": "CheckBoxOutlineBlankFilled",
         "unicode": "e916"
     },
     {
-        "name": "icon-up",
-        "className": "icon-up",
+        "name": "StarOutlineFilled",
+        "className": "StarOutlineFilled",
         "unicode": "e917"
     },
     {
-        "name": "icon-left",
-        "className": "icon-left",
+        "name": "IndeterminateCheckBoxOutlined",
+        "className": "IndeterminateCheckBoxOutlined",
         "unicode": "e918"
     },
     {
-        "name": "icon-right",
-        "className": "icon-right",
+        "name": "ToggleOffOutlined",
+        "className": "ToggleOffOutlined",
         "unicode": "e919"
     },
     {
-        "name": "icon-cpu",
-        "className": "icon-cpu",
+        "name": "IndeterminateCheckBoxFilled",
+        "className": "IndeterminateCheckBoxFilled",
         "unicode": "e91a"
     },
     {
-        "name": "icon-disk",
-        "className": "icon-disk",
+        "name": "QueryBuilderFilled",
+        "className": "QueryBuilderFilled",
         "unicode": "e91b"
     },
     {
-        "name": "icon-memory",
-        "className": "icon-memory",
+        "name": "ShoppingCartOutlined",
+        "className": "ShoppingCartOutlined",
         "unicode": "e91c"
     },
     {
-        "name": "icon-nav-support",
-        "className": "icon-nav-support",
+        "name": "AddFilled",
+        "className": "AddFilled",
         "unicode": "e91d"
     },
     {
-        "name": "icon-correct",
-        "className": "icon-correct",
+        "name": "FormatAlignLeftOutlined",
+        "className": "FormatAlignLeftOutlined",
         "unicode": "e91e"
     },
     {
-        "name": "icon-wrong",
-        "className": "icon-wrong",
+        "name": "RemoveRedEyeFilled",
+        "className": "RemoveRedEyeFilled",
         "unicode": "e91f"
     },
     {
-        "name": "icon-language",
-        "className": "icon-language",
+        "name": "FavoriteFilled",
+        "className": "FavoriteFilled",
         "unicode": "e920"
     },
     {
-        "name": "icon-pullDown",
-        "className": "icon-pullDown",
+        "name": "ReceiptFilled",
+        "className": "ReceiptFilled",
         "unicode": "e921"
     },
     {
-        "name": "icon-plus",
-        "className": "icon-plus",
+        "name": "CheckCircleFilled",
+        "className": "CheckCircleFilled",
         "unicode": "e922"
     },
     {
-        "name": "icon-minus",
-        "className": "icon-minus",
+        "name": "CheckCircleOutlined",
+        "className": "CheckCircleOutlined",
         "unicode": "e923"
     },
     {
-        "name": "icon-search",
-        "className": "icon-search",
+        "name": "DateRangeOutlined",
+        "className": "DateRangeOutlined",
         "unicode": "e924"
     },
     {
-        "name": "icon-help",
-        "className": "icon-help",
+        "name": "DateRangeFilled",
+        "className": "DateRangeFilled",
         "unicode": "e925"
     },
     {
-        "name": "icon-open",
-        "className": "icon-open",
+        "name": "InfoOutlined",
+        "className": "InfoOutlined",
         "unicode": "e926"
     },
     {
-        "name": "icon-sidebar-rootUserManagement",
-        "className": "icon-sidebar-rootUserManagement",
+        "name": "LogoutOutlined",
+        "className": "LogoutOutlined",
         "unicode": "e927"
     },
     {
-        "name": "icon-sidebar-subscribe",
-        "className": "icon-sidebar-subscribe",
+        "name": "LogoutFilled",
+        "className": "LogoutFilled",
         "unicode": "e928"
     },
     {
-        "name": "icon-sidebar-billing",
-        "className": "icon-sidebar-billing",
+        "name": "QueryBuilderOutlined",
+        "className": "QueryBuilderOutlined",
         "unicode": "e929"
+    },
+    {
+        "name": "SpaceDashboardFilled",
+        "className": "SpaceDashboardFilled",
+        "unicode": "e92a"
+    },
+    {
+        "name": "SpaceDashboardOutlined",
+        "className": "SpaceDashboardOutlined",
+        "unicode": "e92b"
+    },
+    {
+        "name": "SettingsFilled",
+        "className": "SettingsFilled",
+        "unicode": "e92c"
+    },
+    {
+        "name": "SettingsOutlined",
+        "className": "SettingsOutlined",
+        "unicode": "e92d"
+    },
+    {
+        "name": "RestoreFilled",
+        "className": "RestoreFilled",
+        "unicode": "e92e"
+    },
+    {
+        "name": "RestoreOutlined",
+        "className": "RestoreOutlined",
+        "unicode": "e92f"
+    },
+    {
+        "name": "SearchFilled",
+        "className": "SearchFilled",
+        "unicode": "e930"
+    },
+    {
+        "name": "SearchOutlined",
+        "className": "SearchOutlined",
+        "unicode": "e931"
+    },
+    {
+        "name": "AccountCircleOutlined",
+        "className": "AccountCircleOutlined",
+        "unicode": "e932"
+    },
+    {
+        "name": "ReceiptOutlined",
+        "className": "ReceiptOutlined",
+        "unicode": "e933"
+    },
+    {
+        "name": "ShoppingCartFilled",
+        "className": "ShoppingCartFilled",
+        "unicode": "e934"
+    },
+    {
+        "name": "ContentCutFilled",
+        "className": "ContentCutFilled",
+        "unicode": "e935"
+    },
+    {
+        "name": "AccountCircleFilled",
+        "className": "AccountCircleFilled",
+        "unicode": "e936"
+    },
+    {
+        "name": "ErrorOutlined",
+        "className": "ErrorOutlined",
+        "unicode": "e937"
+    },
+    {
+        "name": "ErrorFilled",
+        "className": "ErrorFilled",
+        "unicode": "e938"
+    },
+    {
+        "name": "WarningAmberOutlined",
+        "className": "WarningAmberOutlined",
+        "unicode": "e939"
+    },
+    {
+        "name": "ErrorOutline",
+        "className": "ErrorOutline",
+        "unicode": "e93a"
+    },
+    {
+        "name": "WarningOutlined",
+        "className": "WarningOutlined",
+        "unicode": "e93b"
+    },
+    {
+        "name": "WarningFilled",
+        "className": "WarningFilled",
+        "unicode": "e93c"
+    },
+    {
+        "name": "AddOutlined",
+        "className": "AddOutlined",
+        "unicode": "e93d"
+    },
+    {
+        "name": "ContentCutOutlined",
+        "className": "ContentCutOutlined",
+        "unicode": "e93e"
+    },
+    {
+        "name": "CloudOutlined",
+        "className": "CloudOutlined",
+        "unicode": "e93f"
+    },
+    {
+        "name": "ContentPasteOutlined",
+        "className": "ContentPasteOutlined",
+        "unicode": "e940"
+    },
+    {
+        "name": "ContentPasteFilled",
+        "className": "ContentPasteFilled",
+        "unicode": "e941"
+    },
+    {
+        "name": "ContentCopyOutlined",
+        "className": "ContentCopyOutlined",
+        "unicode": "e942"
+    },
+    {
+        "name": "ContentCopyFilled",
+        "className": "ContentCopyFilled",
+        "unicode": "e943"
+    },
+    {
+        "name": "MailOutlined",
+        "className": "MailOutlined",
+        "unicode": "e944"
+    },
+    {
+        "name": "MailFilled",
+        "className": "MailFilled",
+        "unicode": "e945"
+    },
+    {
+        "name": "LocationOnOutlined",
+        "className": "LocationOnOutlined",
+        "unicode": "e946"
+    },
+    {
+        "name": "LocationOnFilled",
+        "className": "LocationOnFilled",
+        "unicode": "e947"
+    },
+    {
+        "name": "FormatAlignLeftFilled",
+        "className": "FormatAlignLeftFilled",
+        "unicode": "e948"
+    },
+    {
+        "name": "ToggleOnOutlined",
+        "className": "ToggleOnOutlined",
+        "unicode": "e949"
+    },
+    {
+        "name": "CloudFilled",
+        "className": "CloudFilled",
+        "unicode": "e94a"
+    },
+    {
+        "name": "FolderOutlined",
+        "className": "FolderOutlined",
+        "unicode": "e94b"
+    },
+    {
+        "name": "FolderFilled",
+        "className": "FolderFilled",
+        "unicode": "e94c"
+    },
+    {
+        "name": "PhotoOutlined",
+        "className": "PhotoOutlined",
+        "unicode": "e94d"
+    },
+    {
+        "name": "PhotoFilled",
+        "className": "PhotoFilled",
+        "unicode": "e94e"
+    },
+    {
+        "name": "EditOutlined",
+        "className": "EditOutlined",
+        "unicode": "e94f"
+    },
+    {
+        "name": "EditFilled",
+        "className": "EditFilled",
+        "unicode": "e950"
+    },
+    {
+        "name": "RemoveRedEyeOutlined",
+        "className": "RemoveRedEyeOutlined",
+        "unicode": "e951"
+    },
+    {
+        "name": "StarHalfOutlined",
+        "className": "StarHalfOutlined",
+        "unicode": "e952"
+    },
+    {
+        "name": "StarFilled",
+        "className": "StarFilled",
+        "unicode": "e953"
+    },
+    {
+        "name": "StarBorderFilled",
+        "className": "StarBorderFilled",
+        "unicode": "e954"
+    },
+    {
+        "name": "StarOutlined",
+        "className": "StarOutlined",
+        "unicode": "e955"
+    },
+    {
+        "name": "RadioButtonCheckedFilled",
+        "className": "RadioButtonCheckedFilled",
+        "unicode": "e956"
+    },
+    {
+        "name": "ToggleOnFilled",
+        "className": "ToggleOnFilled",
+        "unicode": "e957"
+    },
+    {
+        "name": "RadioButtonCheckedOutlined",
+        "className": "RadioButtonCheckedOutlined",
+        "unicode": "e958"
+    },
+    {
+        "name": "ToggleOffFilled",
+        "className": "ToggleOffFilled",
+        "unicode": "e959"
+    },
+    {
+        "name": "StarBorderOutlined",
+        "className": "StarBorderOutlined",
+        "unicode": "e95a"
+    },
+    {
+        "name": "StarHalfFilled",
+        "className": "StarHalfFilled",
+        "unicode": "e95b"
+    },
+    {
+        "name": "CheckBoxOutlined",
+        "className": "CheckBoxOutlined",
+        "unicode": "e95c"
+    },
+    {
+        "name": "CheckBoxFilled",
+        "className": "CheckBoxFilled",
+        "unicode": "e95d"
+    },
+    {
+        "name": "RadioButtonUncheckedOutlined",
+        "className": "RadioButtonUncheckedOutlined",
+        "unicode": "e95e"
+    },
+    {
+        "name": "RadioButtonUncheckedFilled",
+        "className": "RadioButtonUncheckedFilled",
+        "unicode": "e95f"
+    },
+    {
+        "name": "CancelOutlined",
+        "className": "CancelOutlined",
+        "unicode": "e960"
+    },
+    {
+        "name": "CancelFilled",
+        "className": "CancelFilled",
+        "unicode": "e961"
+    },
+    {
+        "name": "ChevronLeftOutlined",
+        "className": "ChevronLeftOutlined",
+        "unicode": "e962"
+    },
+    {
+        "name": "ArrowDropDownOutlined",
+        "className": "ArrowDropDownOutlined",
+        "unicode": "e963"
+    },
+    {
+        "name": "ChevronRightOutlined",
+        "className": "ChevronRightOutlined",
+        "unicode": "e964"
+    },
+    {
+        "name": "ArrowUpwardOutlined",
+        "className": "ArrowUpwardOutlined",
+        "unicode": "e965"
+    },
+    {
+        "name": "MoreVertOutlined",
+        "className": "MoreVertOutlined",
+        "unicode": "e966"
+    },
+    {
+        "name": "FastBackwardFilled",
+        "className": "FastBackwardFilled",
+        "unicode": "e967"
+    },
+    {
+        "name": "Play",
+        "className": "Play",
+        "unicode": "e968"
+    },
+    {
+        "name": "FastForwardFilled",
+        "className": "FastForwardFilled",
+        "unicode": "e969"
+    },
+    {
+        "name": "Pause",
+        "className": "Pause",
+        "unicode": "e96a"
+    },
+    {
+        "name": "ab-testing",
+        "className": "ab-testing",
+        "unicode": "e96b"
+    },
+    {
+        "name": "key",
+        "className": "key",
+        "unicode": "e96c"
+    },
+    {
+        "name": "key-star",
+        "className": "key-star",
+        "unicode": "e96d"
+    },
+    {
+        "name": "key-plus",
+        "className": "key-plus",
+        "unicode": "e96e"
+    },
+    {
+        "name": "key-variant",
+        "className": "key-variant",
+        "unicode": "e96f"
+    },
+    {
+        "name": "key-minus",
+        "className": "key-minus",
+        "unicode": "e970"
+    },
+    {
+        "name": "key-remove",
+        "className": "key-remove",
+        "unicode": "e971"
+    },
+    {
+        "name": "card-account-details",
+        "className": "card-account-details",
+        "unicode": "e972"
+    },
+    {
+        "name": "card-account-details-outline",
+        "className": "card-account-details-outline",
+        "unicode": "e973"
+    },
+    {
+        "name": "license",
+        "className": "license",
+        "unicode": "e974"
+    },
+    {
+        "name": "bell-ring",
+        "className": "bell-ring",
+        "unicode": "e975"
+    },
+    {
+        "name": "bell-ring-outline",
+        "className": "bell-ring-outline",
+        "unicode": "e976"
+    },
+    {
+        "name": "bell",
+        "className": "bell",
+        "unicode": "e977"
+    },
+    {
+        "name": "bell-outline",
+        "className": "bell-outline",
+        "unicode": "e978"
+    },
+    {
+        "name": "receipt-text",
+        "className": "receipt-text",
+        "unicode": "e979"
+    },
+    {
+        "name": "receipt-text-edit",
+        "className": "receipt-text-edit",
+        "unicode": "e97a"
+    },
+    {
+        "name": "receipt-text-edit-outline",
+        "className": "receipt-text-edit-outline",
+        "unicode": "e97b"
+    },
+    {
+        "name": "information-slab-box",
+        "className": "information-slab-box",
+        "unicode": "e97c"
+    },
+    {
+        "name": "information-slab-box-outline",
+        "className": "information-slab-box-outline",
+        "unicode": "e97d"
+    },
+    {
+        "name": "call-merge",
+        "className": "call-merge",
+        "unicode": "e97e"
+    },
+    {
+        "name": "shape-plus",
+        "className": "shape-plus",
+        "unicode": "e97f"
+    },
+    {
+        "name": "shape-plus-outline",
+        "className": "shape-plus-outline",
+        "unicode": "e980"
+    },
+    {
+        "name": "desktop-classic",
+        "className": "desktop-classic",
+        "unicode": "e981"
+    },
+    {
+        "name": "laptop",
+        "className": "laptop",
+        "unicode": "e982"
+    },
+    {
+        "name": "server",
+        "className": "server",
+        "unicode": "e983"
+    },
+    {
+        "name": "database",
+        "className": "database",
+        "unicode": "e984"
+    },
+    {
+        "name": "sd",
+        "className": "sd",
+        "unicode": "e985"
+    },
+    {
+        "name": "nas",
+        "className": "nas",
+        "unicode": "e986"
+    },
+    {
+        "name": "numeric-1-circle",
+        "className": "numeric-1-circle",
+        "unicode": "e987"
+    },
+    {
+        "name": "numeric-2-circle",
+        "className": "numeric-2-circle",
+        "unicode": "e988"
+    },
+    {
+        "name": "numeric-3-circle",
+        "className": "numeric-3-circle",
+        "unicode": "e989"
+    },
+    {
+        "name": "numeric-4-circle",
+        "className": "numeric-4-circle",
+        "unicode": "e98a"
+    },
+    {
+        "name": "numeric-5-circle",
+        "className": "numeric-5-circle",
+        "unicode": "e98b"
+    },
+    {
+        "name": "numeric-6-circle",
+        "className": "numeric-6-circle",
+        "unicode": "e98c"
+    },
+    {
+        "name": "numeric-7-circle",
+        "className": "numeric-7-circle",
+        "unicode": "e98d"
+    },
+    {
+        "name": "numeric-8-circle",
+        "className": "numeric-8-circle",
+        "unicode": "e98e"
+    },
+    {
+        "name": "numeric-9-circle",
+        "className": "numeric-9-circle",
+        "unicode": "e98f"
+    },
+    {
+        "name": "numeric-0-circle",
+        "className": "numeric-0-circle",
+        "unicode": "e990"
+    },
+    {
+        "name": "eye-off-outline",
+        "className": "eye-off-outline",
+        "unicode": "e991"
+    },
+    {
+        "name": "eye-off",
+        "className": "eye-off",
+        "unicode": "e992"
+    },
+    {
+        "name": "help-box-multiple",
+        "className": "help-box-multiple",
+        "unicode": "e993"
+    },
+    {
+        "name": "face-agent",
+        "className": "face-agent",
+        "unicode": "e994"
+    },
+    {
+        "name": "white-balance-sunny",
+        "className": "white-balance-sunny",
+        "unicode": "e995"
+    },
+    {
+        "name": "moon-waxing-crescent",
+        "className": "moon-waxing-crescent",
+        "unicode": "e996"
+    },
+    {
+        "name": "file-document-outline",
+        "className": "file-document-outline",
+        "unicode": "e997"
+    },
+    {
+        "name": "file-document",
+        "className": "file-document",
+        "unicode": "e998"
+    },
+    {
+        "name": "text-box-search-outline",
+        "className": "text-box-search-outline",
+        "unicode": "e999"
+    },
+    {
+        "name": "text-box-search",
+        "className": "text-box-search",
+        "unicode": "e99a"
+    },
+    {
+        "name": "book-open-page-variant",
+        "className": "book-open-page-variant",
+        "unicode": "e99b"
+    },
+    {
+        "name": "book-open-page-variant-outline",
+        "className": "book-open-page-variant-outline",
+        "unicode": "e99c"
+    },
+    {
+        "name": "book",
+        "className": "book",
+        "unicode": "e99d"
+    },
+    {
+        "name": "book-outline",
+        "className": "book-outline",
+        "unicode": "e99e"
+    },
+    {
+        "name": "view-grid-plus",
+        "className": "view-grid-plus",
+        "unicode": "e99f"
+    },
+    {
+        "name": "alpha-v-box",
+        "className": "alpha-v-box",
+        "unicode": "e9a0"
+    },
+    {
+        "name": "code-less-than",
+        "className": "code-less-than",
+        "unicode": "e9a1"
+    },
+    {
+        "name": "code-array",
+        "className": "code-array",
+        "unicode": "e9a2"
+    },
+    {
+        "name": "code-braces-box",
+        "className": "code-braces-box",
+        "unicode": "e9a3"
+    },
+    {
+        "name": "widgets",
+        "className": "widgets",
+        "unicode": "e9a4"
+    },
+    {
+        "name": "widgets-outline",
+        "className": "widgets-outline",
+        "unicode": "e9a5"
+    },
+    {
+        "name": "lock-reset",
+        "className": "lock-reset",
+        "unicode": "e9a6"
+    },
+    {
+        "name": "web",
+        "className": "web",
+        "unicode": "e9a7"
+    },
+    {
+        "name": "translate",
+        "className": "translate",
+        "unicode": "e9a8"
+    },
+    {
+        "name": "earth",
+        "className": "earth",
+        "unicode": "e9a9"
+    },
+    {
+        "name": "wechat",
+        "className": "wechat",
+        "unicode": "e9aa"
+    },
+    {
+        "name": "slack",
+        "className": "slack",
+        "unicode": "e9ab"
+    },
+    {
+        "name": "stack-overflow",
+        "className": "stack-overflow",
+        "unicode": "e9ac"
+    },
+    {
+        "name": "twitter",
+        "className": "twitter",
+        "unicode": "e9ad"
+    },
+    {
+        "name": "login-variant",
+        "className": "login-variant",
+        "unicode": "e9ae"
+    },
+    {
+        "name": "sitemap",
+        "className": "sitemap",
+        "unicode": "e9af"
+    },
+    {
+        "name": "sitemap-outline",
+        "className": "sitemap-outline",
+        "unicode": "e9b0"
+    },
+    {
+        "name": "transit-connection-variant",
+        "className": "transit-connection-variant",
+        "unicode": "e9b1"
+    },
+    {
+        "name": "connection",
+        "className": "connection",
+        "unicode": "e9b2"
+    },
+    {
+        "name": "note-edit",
+        "className": "note-edit",
+        "unicode": "e9b3"
+    },
+    {
+        "name": "note-edit-outline",
+        "className": "note-edit-outline",
+        "unicode": "e9b4"
+    },
+    {
+        "name": "help",
+        "className": "help",
+        "unicode": "e9b5"
+    },
+    {
+        "name": "help-circle",
+        "className": "help-circle",
+        "unicode": "e9b6"
+    },
+    {
+        "name": "lifebuoy",
+        "className": "lifebuoy",
+        "unicode": "e9b7"
+    },
+    {
+        "name": "help-circle-outline",
+        "className": "help-circle-outline",
+        "unicode": "e9b8"
+    },
+    {
+        "name": "arrow-collapse-left",
+        "className": "arrow-collapse-left",
+        "unicode": "e9b9"
+    },
+    {
+        "name": "arrow-collapse-up",
+        "className": "arrow-collapse-up",
+        "unicode": "e9ba"
+    },
+    {
+        "name": "arrow-collapse-down",
+        "className": "arrow-collapse-down",
+        "unicode": "e9bb"
+    },
+    {
+        "name": "arrow-collapse-right",
+        "className": "arrow-collapse-right",
+        "unicode": "e9bc"
+    },
+    {
+        "name": "stop",
+        "className": "stop",
+        "unicode": "e9bd"
+    },
+    {
+        "name": "delete",
+        "className": "delete",
+        "unicode": "e9be"
+    },
+    {
+        "name": "delete-outline",
+        "className": "delete-outline",
+        "unicode": "e9bf"
+    },
+    {
+        "name": "minus",
+        "className": "minus",
+        "unicode": "e9c0"
+    },
+    {
+        "name": "upload",
+        "className": "upload",
+        "unicode": "e9c1"
+    },
+    {
+        "name": "upload-outline",
+        "className": "upload-outline",
+        "unicode": "e9c2"
+    },
+    {
+        "name": "circle-medium",
+        "className": "circle-medium",
+        "unicode": "e9c3"
+    },
+    {
+        "name": "circle-small",
+        "className": "circle-small",
+        "unicode": "e9c4"
+    },
+    {
+        "name": "dots-hexagon",
+        "className": "dots-hexagon",
+        "unicode": "e9c5"
+    },
+    {
+        "name": "tablet-dashboard",
+        "className": "tablet-dashboard",
+        "unicode": "e9c6"
+    },
+    {
+        "name": "monitor-dashboard",
+        "className": "monitor-dashboard",
+        "unicode": "e9c7"
     }
 ]
