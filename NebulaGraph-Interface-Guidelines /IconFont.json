@@ -828,5 +828,175 @@
         "name": "widgets-outline",
         "className": "widgets-outline",
         "unicode": "e9a5"
+    },
+    {
+        "name": "lock-reset",
+        "className": "lock-reset",
+        "unicode": "e9a6"
+    },
+    {
+        "name": "web",
+        "className": "web",
+        "unicode": "e9a7"
+    },
+    {
+        "name": "translate",
+        "className": "translate",
+        "unicode": "e9a8"
+    },
+    {
+        "name": "earth",
+        "className": "earth",
+        "unicode": "e9a9"
+    },
+    {
+        "name": "wechat",
+        "className": "wechat",
+        "unicode": "e9aa"
+    },
+    {
+        "name": "slack",
+        "className": "slack",
+        "unicode": "e9ab"
+    },
+    {
+        "name": "stack-overflow",
+        "className": "stack-overflow",
+        "unicode": "e9ac"
+    },
+    {
+        "name": "twitter",
+        "className": "twitter",
+        "unicode": "e9ad"
+    },
+    {
+        "name": "login-variant",
+        "className": "login-variant",
+        "unicode": "e9ae"
+    },
+    {
+        "name": "sitemap",
+        "className": "sitemap",
+        "unicode": "e9af"
+    },
+    {
+        "name": "sitemap-outline",
+        "className": "sitemap-outline",
+        "unicode": "e9b0"
+    },
+    {
+        "name": "transit-connection-variant",
+        "className": "transit-connection-variant",
+        "unicode": "e9b1"
+    },
+    {
+        "name": "connection",
+        "className": "connection",
+        "unicode": "e9b2"
+    },
+    {
+        "name": "note-edit",
+        "className": "note-edit",
+        "unicode": "e9b3"
+    },
+    {
+        "name": "note-edit-outline",
+        "className": "note-edit-outline",
+        "unicode": "e9b4"
+    },
+    {
+        "name": "help",
+        "className": "help",
+        "unicode": "e9b5"
+    },
+    {
+        "name": "help-circle",
+        "className": "help-circle",
+        "unicode": "e9b6"
+    },
+    {
+        "name": "lifebuoy",
+        "className": "lifebuoy",
+        "unicode": "e9b7"
+    },
+    {
+        "name": "help-circle-outline",
+        "className": "help-circle-outline",
+        "unicode": "e9b8"
+    },
+    {
+        "name": "arrow-collapse-left",
+        "className": "arrow-collapse-left",
+        "unicode": "e9b9"
+    },
+    {
+        "name": "arrow-collapse-up",
+        "className": "arrow-collapse-up",
+        "unicode": "e9ba"
+    },
+    {
+        "name": "arrow-collapse-down",
+        "className": "arrow-collapse-down",
+        "unicode": "e9bb"
+    },
+    {
+        "name": "arrow-collapse-right",
+        "className": "arrow-collapse-right",
+        "unicode": "e9bc"
+    },
+    {
+        "name": "stop",
+        "className": "stop",
+        "unicode": "e9bd"
+    },
+    {
+        "name": "delete",
+        "className": "delete",
+        "unicode": "e9be"
+    },
+    {
+        "name": "delete-outline",
+        "className": "delete-outline",
+        "unicode": "e9bf"
+    },
+    {
+        "name": "minus",
+        "className": "minus",
+        "unicode": "e9c0"
+    },
+    {
+        "name": "upload",
+        "className": "upload",
+        "unicode": "e9c1"
+    },
+    {
+        "name": "upload-outline",
+        "className": "upload-outline",
+        "unicode": "e9c2"
+    },
+    {
+        "name": "circle-medium",
+        "className": "circle-medium",
+        "unicode": "e9c3"
+    },
+    {
+        "name": "circle-small",
+        "className": "circle-small",
+        "unicode": "e9c4"
+    },
+    {
+        "name": "dots-hexagon",
+        "className": "dots-hexagon",
+        "unicode": "e9c5"
+    },
+    {
+        "name": "tablet-dashboard",
+        "className": "tablet-dashboard",
+        "unicode": "e9c6"
+    },
+    {
+        "name": "monitor-dashboard",
+        "className": "monitor-dashboard",
+        "unicode": "e9c7"
     }
 ]

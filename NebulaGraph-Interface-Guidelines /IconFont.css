@@ -1,8 +1,8 @@
 @font-face {
     font-family: "IconFont";
-    src: url('IconFont.woff2?t=1681873804695') format('woff2'),
-        url('IconFont.woff?t=1681873804695') format('woff'),
-        url('IconFont.ttf?t=1681873804695') format('truetype');
+    src: url('IconFont.woff2?t=1686207214981') format('woff2'),
+        url('IconFont.woff?t=1686207214981') format('woff'),
+        url('IconFont.ttf?t=1686207214981') format('truetype');
 }
 
 .iconfont {
@@ -179,6 +179,40 @@
 .icon-code-braces-box:before { content: "\e9a3"; }
 .icon-widgets:before { content: "\e9a4"; }
 .icon-widgets-outline:before { content: "\e9a5"; }
+.icon-lock-reset:before { content: "\e9a6"; }
+.icon-web:before { content: "\e9a7"; }
+.icon-translate:before { content: "\e9a8"; }
+.icon-earth:before { content: "\e9a9"; }
+.icon-wechat:before { content: "\e9aa"; }
+.icon-slack:before { content: "\e9ab"; }
+.icon-stack-overflow:before { content: "\e9ac"; }
+.icon-twitter:before { content: "\e9ad"; }
+.icon-login-variant:before { content: "\e9ae"; }
+.icon-sitemap:before { content: "\e9af"; }
+.icon-sitemap-outline:before { content: "\e9b0"; }
+.icon-transit-connection-variant:before { content: "\e9b1"; }
+.icon-connection:before { content: "\e9b2"; }
+.icon-note-edit:before { content: "\e9b3"; }
+.icon-note-edit-outline:before { content: "\e9b4"; }
+.icon-help:before { content: "\e9b5"; }
+.icon-help-circle:before { content: "\e9b6"; }
+.icon-lifebuoy:before { content: "\e9b7"; }
+.icon-help-circle-outline:before { content: "\e9b8"; }
+.icon-arrow-collapse-left:before { content: "\e9b9"; }
+.icon-arrow-collapse-up:before { content: "\e9ba"; }
+.icon-arrow-collapse-down:before { content: "\e9bb"; }
+.icon-arrow-collapse-right:before { content: "\e9bc"; }
+.icon-stop:before { content: "\e9bd"; }
+.icon-delete:before { content: "\e9be"; }
+.icon-delete-outline:before { content: "\e9bf"; }
+.icon-minus:before { content: "\e9c0"; }
+.icon-upload:before { content: "\e9c1"; }
+.icon-upload-outline:before { content: "\e9c2"; }
+.icon-circle-medium:before { content: "\e9c3"; }
+.icon-circle-small:before { content: "\e9c4"; }
+.icon-dots-hexagon:before { content: "\e9c5"; }
+.icon-tablet-dashboard:before { content: "\e9c6"; }
+.icon-monitor-dashboard:before { content: "\e9c7"; }
 
 
 /**
