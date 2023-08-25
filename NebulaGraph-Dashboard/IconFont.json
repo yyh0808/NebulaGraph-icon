@@ -653,5 +653,15 @@
         "name": "iconnav-more",
         "className": "iconnav-more",
         "unicode": "e982"
+    },
+    {
+        "name": "iconnav-clusterMember",
+        "className": "iconnav-clusterMember",
+        "unicode": "e983"
+    },
+    {
+        "name": "iconnav-databaseMember",
+        "className": "iconnav-databaseMember",
+        "unicode": "e984"
     }
 ]
