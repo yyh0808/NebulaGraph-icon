@@ -1,8 +1,8 @@
 @font-face {
     font-family: "IconFont";
-    src: url('IconFont.woff2?t=1686207214981') format('woff2'),
-        url('IconFont.woff?t=1686207214981') format('woff'),
-        url('IconFont.ttf?t=1686207214981') format('truetype');
+    src: url('IconFont.woff2?t=1698213075455') format('woff2'),
+        url('IconFont.woff?t=1698213075455') format('woff'),
+        url('IconFont.ttf?t=1698213075455') format('truetype');
 }
 
 .iconfont {
@@ -213,6 +213,49 @@
 .icon-dots-hexagon:before { content: "\e9c5"; }
 .icon-tablet-dashboard:before { content: "\e9c6"; }
 .icon-monitor-dashboard:before { content: "\e9c7"; }
+.icon-github:before { content: "\e9c8"; }
+.icon-cube:before { content: "\e9c9"; }
+.icon-cube-outline:before { content: "\e9ca"; }
+.icon-cube-off:before { content: "\e9cb"; }
+.icon-cube-off-outline:before { content: "\e9cc"; }
+.icon-explorer-data:before { content: "\e9cd"; }
+.icon-explorer-data-outline:before { content: "\e9ce"; }
+.icon-view-column:before { content: "\e9cf"; }
+.icon-view-column-outline:before { content: "\e9d0"; }
+.icon-graph-outline:before { content: "\e9d1"; }
+.icon-graph:before { content: "\e9d2"; }
+.icon-view-sequential-outline:before { content: "\e9d3"; }
+.icon-view-sequential:before { content: "\e9d4"; }
+.icon-filter-variant:before { content: "\e9d5"; }
+.icon-filter:before { content: "\e9d6"; }
+.icon-filter-outline:before { content: "\e9d7"; }
+.icon-filter-plus:before { content: "\e9d8"; }
+.icon-filter-plus-outline:before { content: "\e9d9"; }
+.icon-filter-minus-outline:before { content: "\e9da"; }
+.icon-filter-minus:before { content: "\e9db"; }
+.icon-tray-arrow-down:before { content: "\e9dc"; }
+.icon-tray-arrow-up:before { content: "\e9dd"; }
+.icon-video:before { content: "\e9de"; }
+.icon-video-outline:before { content: "\e9df"; }
+.icon-chart-timeline-variant:before { content: "\e9e0"; }
+.icon-chart-timeline-variant-shimmer:before { content: "\e9e1"; }
+.icon-party-popper:before { content: "\e9e2"; }
+.icon-table:before { content: "\e9e3"; }
+.icon-arrow-top-left-bottom-right:before { content: "\e9e4"; }
+.icon-arrow-top-left-bottom-right-bold:before { content: "\e9e5"; }
+.icon-sort:before { content: "\e9e6"; }
+.icon-sort-descending:before { content: "\e9e7"; }
+.icon-sort-ascending:before { content: "\e9e8"; }
+.icon-sort-alphabetical-variant:before { content: "\e9e9"; }
+.icon-stethoscope:before { content: "\e9ea"; }
+.icon-edge-type:before { content: "\e9eb"; }
+.icon-console-gtp:before { content: "\e9ec"; }
+.icon-console-tip:before { content: "\e9ed"; }
+.icon-query-template:before { content: "\e9ee"; }
+.icon-swap-vertical:before { content: "\e9ef"; }
+.icon-swap-horizontal:before { content: "\e9f0"; }
+.icon-arrow-expand-all:before { content: "\e9f1"; }
+.icon-arrow-collapse-all:before { content: "\e9f2"; }
 
 
 /**

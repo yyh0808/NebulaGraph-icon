@@ -998,5 +998,220 @@
         "name": "monitor-dashboard",
         "className": "monitor-dashboard",
         "unicode": "e9c7"
+    },
+    {
+        "name": "github",
+        "className": "github",
+        "unicode": "e9c8"
+    },
+    {
+        "name": "cube",
+        "className": "cube",
+        "unicode": "e9c9"
+    },
+    {
+        "name": "cube-outline",
+        "className": "cube-outline",
+        "unicode": "e9ca"
+    },
+    {
+        "name": "cube-off",
+        "className": "cube-off",
+        "unicode": "e9cb"
+    },
+    {
+        "name": "cube-off-outline",
+        "className": "cube-off-outline",
+        "unicode": "e9cc"
+    },
+    {
+        "name": "explorer-data",
+        "className": "explorer-data",
+        "unicode": "e9cd"
+    },
+    {
+        "name": "explorer-data-outline",
+        "className": "explorer-data-outline",
+        "unicode": "e9ce"
+    },
+    {
+        "name": "view-column",
+        "className": "view-column",
+        "unicode": "e9cf"
+    },
+    {
+        "name": "view-column-outline",
+        "className": "view-column-outline",
+        "unicode": "e9d0"
+    },
+    {
+        "name": "graph-outline",
+        "className": "graph-outline",
+        "unicode": "e9d1"
+    },
+    {
+        "name": "graph",
+        "className": "graph",
+        "unicode": "e9d2"
+    },
+    {
+        "name": "view-sequential-outline",
+        "className": "view-sequential-outline",
+        "unicode": "e9d3"
+    },
+    {
+        "name": "view-sequential",
+        "className": "view-sequential",
+        "unicode": "e9d4"
+    },
+    {
+        "name": "filter-variant",
+        "className": "filter-variant",
+        "unicode": "e9d5"
+    },
+    {
+        "name": "filter",
+        "className": "filter",
+        "unicode": "e9d6"
+    },
+    {
+        "name": "filter-outline",
+        "className": "filter-outline",
+        "unicode": "e9d7"
+    },
+    {
+        "name": "filter-plus",
+        "className": "filter-plus",
+        "unicode": "e9d8"
+    },
+    {
+        "name": "filter-plus-outline",
+        "className": "filter-plus-outline",
+        "unicode": "e9d9"
+    },
+    {
+        "name": "filter-minus-outline",
+        "className": "filter-minus-outline",
+        "unicode": "e9da"
+    },
+    {
+        "name": "filter-minus",
+        "className": "filter-minus",
+        "unicode": "e9db"
+    },
+    {
+        "name": "tray-arrow-down",
+        "className": "tray-arrow-down",
+        "unicode": "e9dc"
+    },
+    {
+        "name": "tray-arrow-up",
+        "className": "tray-arrow-up",
+        "unicode": "e9dd"
+    },
+    {
+        "name": "video",
+        "className": "video",
+        "unicode": "e9de"
+    },
+    {
+        "name": "video-outline",
+        "className": "video-outline",
+        "unicode": "e9df"
+    },
+    {
+        "name": "chart-timeline-variant",
+        "className": "chart-timeline-variant",
+        "unicode": "e9e0"
+    },
+    {
+        "name": "chart-timeline-variant-shimmer",
+        "className": "chart-timeline-variant-shimmer",
+        "unicode": "e9e1"
+    },
+    {
+        "name": "party-popper",
+        "className": "party-popper",
+        "unicode": "e9e2"
+    },
+    {
+        "name": "table",
+        "className": "table",
+        "unicode": "e9e3"
+    },
+    {
+        "name": "arrow-top-left-bottom-right",
+        "className": "arrow-top-left-bottom-right",
+        "unicode": "e9e4"
+    },
+    {
+        "name": "arrow-top-left-bottom-right-bold",
+        "className": "arrow-top-left-bottom-right-bold",
+        "unicode": "e9e5"
+    },
+    {
+        "name": "sort",
+        "className": "sort",
+        "unicode": "e9e6"
+    },
+    {
+        "name": "sort-descending",
+        "className": "sort-descending",
+        "unicode": "e9e7"
+    },
+    {
+        "name": "sort-ascending",
+        "className": "sort-ascending",
+        "unicode": "e9e8"
+    },
+    {
+        "name": "sort-alphabetical-variant",
+        "className": "sort-alphabetical-variant",
+        "unicode": "e9e9"
+    },
+    {
+        "name": "stethoscope",
+        "className": "stethoscope",
+        "unicode": "e9ea"
+    },
+    {
+        "name": "edge-type",
+        "className": "edge-type",
+        "unicode": "e9eb"
+    },
+    {
+        "name": "console-gtp",
+        "className": "console-gtp",
+        "unicode": "e9ec"
+    },
+    {
+        "name": "console-tip",
+        "className": "console-tip",
+        "unicode": "e9ed"
+    },
+    {
+        "name": "query-template",
+        "className": "query-template",
+        "unicode": "e9ee"
+    },
+    {
+        "name": "swap-vertical",
+        "className": "swap-vertical",
+        "unicode": "e9ef"
+    },
+    {
+        "name": "swap-horizontal",
+        "className": "swap-horizontal",
+        "unicode": "e9f0"
+    },
+    {
+        "name": "arrow-expand-all",
+        "className": "arrow-expand-all",
+        "unicode": "e9f1"
+    },
+    {
+        "name": "arrow-collapse-all",
+        "className": "arrow-collapse-all",
+        "unicode": "e9f2"
     }
 ]
