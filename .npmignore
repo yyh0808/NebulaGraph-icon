@@ -1,3 +1,8 @@
+# Cortex
+neurons
+cortex_modules
+.cortex
+
 # Numerous always-ignore extensions
 *.bak
 *.patch
@@ -35,15 +40,16 @@ thumbs.db
 .hg
 .svn
 .CVS
-.idea/
-dist/
-build/
-es/
-lib/
-types/
-.vscode/
-node_modules/
-jscoverage_lib/
+.idea
+.vscode
+.gitignore
+.babelrc*
+.eslint*
+.prettierrc*
+.husky
+.github
+node_modules
 
-# other files to ignore
-stats.json
+# Other
+src/
+tools/
