@@ -41,24 +41,28 @@ targetNames.forEach((targetName) => {
           const { node } = path;
           const { attributes } = node;
           const { name } = node.name;
+          if (name === 'path' && attributes) {
+            node.attributes = attributes.filter((attr) => {
+              const { name } = attr.name;
+              // remove `fill` attribute, because we use `currentColor` to replace it
+              return name !== 'fill';
+            });
+            return;
+          }
+
           if (name !== 'svg' || !attributes) {
             return;
           }
           node.name.name = 'symbol';
-          node.attributes = attributes
-            .filter((attr) => {
-              const { name } = attr.name;
-              return name !== 'xmlns';
-            })
-            .map((attr) => {
-              const { name } = attr.name;
-              if (name === 'width' || name === 'height') {
-                attr.value.value = '1em';
-              } else if (name === 'fill') {
-                attr.value.value = 'currentColor';
-              }
-              return attr;
-            });
+          const attrNames2Filter = new Set(['xmlns', 'width', 'height']);
+          node.attributes = attributes.filter((attr) => {
+            const { name } = attr.name;
+            if (name === 'fill') {
+              attr.value.value = 'currentColor';
+              return true;
+            }
+            return !attrNames2Filter.has(name);
+          });
           const id = file.replace('.svg', '');
           node.attributes.push(t.jsxAttribute(t.jsxIdentifier('id'), t.stringLiteral(id)));
         },
@@ -77,7 +81,11 @@ targetNames.forEach((targetName) => {
   const dstCode = dstCodeArr.join('\n');
   const output = `<svg aria-hidden="true" style="position: absolute; width: 0px; height: 0px; overflow: hidden;">\n${dstCode}\n</svg>`;
 
-  const distDir = path.resolve(__dirname, '../dist', targetName);
-  !fs.existsSync(distDir) && fs.mkdirSync(distDir, { recursive: true });
-  fs.writeFileSync(path.resolve(distDir, 'svg.tpl'), output, { encoding: 'utf-8' });
+  const libDir = path.resolve(__dirname, '../lib', targetName);
+  !fs.existsSync(libDir) && fs.mkdirSync(libDir, { recursive: true });
+  fs.writeFileSync(path.resolve(libDir, 'svg-tpl.cjs'), `module.exports=\`${output}\``, { encoding: 'utf-8' });
+
+  const esDir = path.resolve(__dirname, '../es', targetName);
+  !fs.existsSync(esDir) && fs.mkdirSync(esDir, { recursive: true });
+  fs.writeFileSync(path.resolve(esDir, 'svg-tpl.mjs'), `export default \`${output}\``, { encoding: 'utf-8' });
 });
